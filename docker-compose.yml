@@ -10,7 +10,7 @@ services:
       - PORT=4000
       - DATA_DIR=/data
     ports:
-      - "4000:4000"
+      - "4040:4000"
     volumes:
       - dcc_backend_data:/data
     networks:
@@ -30,7 +30,7 @@ services:
       - HOSTNAME=0.0.0.0
       - BACKEND_INTERNAL_URL=http://dcc-backend:4000
     ports:
-      - "3000:3000"
+      - "3040:3000"
     networks:
       - dcc-network
 
