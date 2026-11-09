@@ -1,0 +1,303 @@
+@import "tailwindcss";
+
+:root {
+  --ink: #141C1A;
+  --paper: #FAF9F6;
+  --paper-2: #F1EFEA;
+  --rule: #DCD7CC;
+  --brand: #B5175E;
+  --sky: #1682B5;
+  --pass: #256D42;
+  --flag: #D9920F;
+}
+
+@theme inline {
+  --color-ink: var(--ink);
+  --color-paper: var(--paper);
+  --color-paper-2: var(--paper-2);
+  --color-rule: var(--rule);
+  --color-brand: var(--brand);
+  --color-sky: var(--sky);
+  --color-pass: var(--pass);
+  --color-flag: var(--flag);
+  --font-display: var(--font-archivo), -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-sans: var(--font-public-sans), -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: var(--font-plex-mono), monospace;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  background-color: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-public-sans), -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 16.5px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--paper);
+  color: var(--ink);
+  overflow-x: hidden;
+  min-height: 100vh;
+}
+
+/* Focus visibility */
+:focus-visible {
+  outline: 2px solid var(--brand);
+  outline-offset: 2px;
+}
+
+/* Natural, high-craft editorial display typography (no artificial horizontal stretching) */
+.font-display-expanded {
+  font-family: var(--font-archivo), -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 800;
+  letter-spacing: -0.032em;
+  line-height: 1.08;
+}
+
+.font-display-wide {
+  font-family: var(--font-archivo), -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.022em;
+  line-height: 1.18;
+}
+
+.font-display-condensed {
+  font-family: var(--font-archivo), -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+/* Make .font-mono clean and understated unless explicitly tabular */
+.font-mono {
+  font-family: var(--font-public-sans), -apple-system, BlinkMacSystemFont, sans-serif;
+  font-feature-settings: "tnum" 1, "cv01" 1;
+  letter-spacing: 0.01em;
+}
+
+/* Fluid Type Scale — balanced, editorial proportions */
+.text-fluid-h1 {
+  font-size: clamp(2.25rem, 3.6vw + 1rem, 3.85rem);
+}
+
+.text-fluid-h2 {
+  font-size: clamp(1.65rem, 2.2vw + 0.75rem, 2.65rem);
+}
+
+.text-fluid-h3 {
+  font-size: clamp(1.25rem, 1.4vw + 0.65rem, 1.65rem);
+}
+
+/* Refined architectural buttons — no cartoon Neo-Brutalist offset shadows */
+.btn-report {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  min-height: 46px;
+  padding: 0.7rem 1.4rem;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  font-family: var(--font-archivo), -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 600;
+  font-size: 0.925rem;
+  letter-spacing: -0.01em;
+  line-height: 1.25;
+  text-decoration: none;
+  transition: all 180ms cubic-bezier(0.16, 1, 0.3, 1);
+  cursor: pointer;
+  box-shadow: 0 1px 2px rgba(20, 28, 26, 0.08);
+}
+
+.btn-report:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(20, 28, 26, 0.12);
+}
+
+.btn-report:active {
+  transform: translateY(0px);
+}
+
+.btn-brand {
+  background-color: var(--brand);
+  color: #FFFFFF;
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+.btn-brand:hover {
+  background-color: #9b114f;
+  box-shadow: 0 6px 16px rgba(181, 23, 94, 0.25);
+}
+
+.btn-ink {
+  background-color: var(--ink);
+  color: #FFFFFF;
+  border-color: var(--ink);
+}
+
+.btn-ink:hover {
+  background-color: #24302d;
+}
+
+.btn-paper {
+  background-color: #FFFFFF;
+  color: var(--ink);
+  border-color: #CFC9BC;
+}
+
+.btn-paper:hover {
+  background-color: var(--paper-2);
+  border-color: var(--ink);
+}
+
+.btn-sky {
+  background-color: var(--sky);
+  color: #FFFFFF;
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+.btn-sky:hover {
+  background-color: #126d98;
+  box-shadow: 0 6px 16px rgba(22, 130, 181, 0.25);
+}
+
+.btn-on-ink {
+  border-color: rgba(255, 255, 255, 0.2);
+}
+.btn-on-ink:hover {
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.35);
+}
+
+/* Soften harsh 2px brutalist borders & offset shadows across components into clean architectural cards */
+.border-2.border-ink {
+  border-width: 1px !important;
+  border-color: #D5CFC2 !important;
+  box-shadow: 0 1px 3px rgba(20, 28, 26, 0.04), 0 6px 20px -4px rgba(20, 28, 26, 0.05);
+}
+
+.divide-y-2.divide-ink > :not([hidden]) ~ :not([hidden]) {
+  border-top-width: 1px !important;
+  border-color: #E2DDD2 !important;
+}
+
+.border-b-2.border-ink {
+  border-bottom-width: 1px !important;
+  border-color: #DCD7CC !important;
+}
+
+.border-t-2.border-ink {
+  border-top-width: 1px !important;
+  border-color: #DCD7CC !important;
+}
+
+/* Receipt dotted leaders */
+.receipt-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.receipt-leader {
+  flex: 1 1 auto;
+  border-bottom: 1px dotted var(--rule);
+  margin: 0 0.4rem;
+  min-width: 1rem;
+}
+
+/* Stamp badge styling */
+.stamp-badge {
+  border: 1px solid #D5CFC2;
+  background-color: #FFFFFF;
+  border-radius: 6px;
+  position: relative;
+}
+
+/* Subtle warm architectural background for hero */
+.report-grid-bg {
+  background: radial-gradient(circle at 80% 15%, rgba(22, 130, 181, 0.05), transparent 45%),
+    radial-gradient(circle at 15% 80%, rgba(181, 23, 94, 0.04), transparent 45%),
+    linear-gradient(180deg, #FFFFFF 0%, #FAF9F6 100%);
+}
+
+/* Checklist stroke draw animation */
+@keyframes drawCheck {
+  from {
+    stroke-dashoffset: 28;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+.animate-check-draw {
+  stroke-dasharray: 28;
+  stroke-dashoffset: 0;
+  animation: drawCheck 240ms ease-out forwards;
+}
+
+/* Unique 4-Step Onboarding Animations */
+@keyframes scanVertical {
+  0% {
+    top: 8%;
+    opacity: 0.2;
+  }
+  50% {
+    top: 86%;
+    opacity: 0.95;
+  }
+  100% {
+    top: 8%;
+    opacity: 0.2;
+  }
+}
+
+.animate-scan-line {
+  animation: scanVertical 2.8s ease-in-out infinite;
+}
+
+@keyframes flowPulse {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(200%);
+  }
+}
+
+.animate-flow-pulse {
+  animation: flowPulse 1.8s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+}
+
+/* Respect prefers-reduced-motion everywhere (PRD 2.7) */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Print stylesheet for PriceReceipt & Government Capability Statement PDF export */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  body {
+    background: #FFFFFF !important;
+    color: #000000 !important;
+  }
+}
+

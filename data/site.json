@@ -1,0 +1,124 @@
+{
+  "companyName": "Debra's Classic Cleaning",
+  "legalName": "Debra's Classic Cleaning LLC",
+  "foundedYear": 2016,
+  "phone": "916-668-8080",
+  "phoneRaw": "+19166688080",
+  "smsRaw": "+19166688080",
+  "email": "debra@debrasclassiccleaning.com",
+  "calEprocureEmail": "caleprocure@debrasclassiccleaning.com",
+  "calEprocureCertId": "2040639",
+  "website": "https://debrasclassiccleaning.com",
+  "nap": {
+    "name": "Debra's Classic Cleaning LLC",
+    "streetAddress": "2718 Wyatt Ct",
+    "addressLocality": "Rocklin",
+    "addressRegion": "CA",
+    "postalCode": "95765",
+    "addressCountry": "US",
+    "hoursDisplay": "Mon–Sat 8:00 AM – 6:00 PM (Commercial Crews 24/7 by Schedule)",
+    "openingHoursSpecification": [
+      {
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+        "opens": "08:00",
+        "closes": "18:00"
+      }
+    ],
+    "geo": {
+      "latitude": 38.7907,
+      "longitude": -121.2358
+    }
+  },
+  "sameAs": [
+    "https://share.google/yJPkM6b3pJNb2c7ZT",
+    "https://www.yelp.com/biz/debras-classic-cleaning-rocklin",
+    "https://www.linkedin.com/company/debras-classic-cleaning",
+    "https://nextdoor.com/pages/debras-classic-cleaning-rocklin-ca",
+    "https://www.bbb.org/"
+  ],
+  "certifications": [
+    {
+      "code": "WOSB",
+      "label": "SBA Certified Women-Owned Small Business",
+      "idNumber": "SBA-WOSB · CAGE 9Z5E9",
+      "issuer": "U.S. Small Business Administration",
+      "badgeImage": "/images/cert-women-owned.png"
+    },
+    {
+      "code": "EDWOSB",
+      "label": "Economically Disadvantaged Women-Owned Small Business",
+      "idNumber": "SBA-EDWOSB · NAICS 561720",
+      "issuer": "U.S. Small Business Administration",
+      "badgeImage": "/images/cert-sba-edwosb.png"
+    },
+    {
+      "code": "CA SB (MICRO)",
+      "label": "California Certified Small Business (Micro)",
+      "idNumber": "CERT ID: 2040639 · CA DGS",
+      "issuer": "CA Dept. of General Services (DGS)",
+      "badgeImage": "/images/cert-ca-small-business.png"
+    },
+    {
+      "code": "SAM.GOV ACTIVE",
+      "label": "Federal Contracting Registered Entity",
+      "idNumber": "CAGE: 9Z5E9 · NAICS 561720",
+      "issuer": "System for Award Management",
+      "badgeImage": "/images/cert-sam-gov.png"
+    },
+    {
+      "code": "BONDED & INSURED",
+      "label": "Licensed, Bonded & Commercial General Liability Insured",
+      "idNumber": "COI ISSUED WITHIN 24 HRS",
+      "issuer": "COI Issued Within 24 Hours",
+      "badgeImage": "/images/cert-bonded-insured.png"
+    }
+  ],
+  "guarantees": [
+    {
+      "code": "GUAR-01",
+      "title": "30-Day Walkaway Guarantee",
+      "summary": "No 12-month vendor traps. If you aren't satisfied for any reason—in month one or month twenty—give us 30 days' written notice and walk away cleanly with zero early-termination penalties."
+    },
+    {
+      "code": "GUAR-02",
+      "title": "24-Hour Re-Clean Promise",
+      "summary": "If an item on your 42-point checklist is ever missed, snap a photo or text us by 10:00 AM. A supervisor or technician returns within 24 hours to re-clean it at zero charge."
+    },
+    {
+      "code": "GUAR-03",
+      "title": "Three-Strike Visit Credit",
+      "summary": "If the same protocol item is ever missed three times in any rolling 60-day window, we automatically credit one full visit off your next monthly invoice—in writing, without you having to argue for it."
+    }
+  ],
+  "homeFaqs": [
+    {
+      "q": "How do you handle after-hours building access, keys, and alarm codes?",
+      "a": "Every key and keycard is logged with a blind numeric security code—never labeled with your company name or street address—and issued only to your assigned background-checked team lead. Under Point 41 of our protocol, our lead physically pull-tests every perimeter door and photographs the armed alarm keypad before leaving the property."
+    },
+    {
+      "q": "Do you supply paper towels, toilet tissue, trash liners, and hand soap?",
+      "a": "We work whichever way is easiest for your facility: we can restock from your existing janitor closet inventory and alert you when boxes run low (PT. 13), or we can supply commercial paper, liners, and soap directly as a flat monthly add-on."
+    },
+    {
+      "q": "Do we have to sign a 1-year or 3-year janitorial contract?",
+      "a": "No. Long lock-in contracts only protect bad cleaners. Every commercial agreement with Debra's Classic Cleaning includes our 30-Day Walkaway Guarantee—you stay with us because the building passes inspection every morning, not because of fine print."
+    },
+    {
+      "q": "What happens if something is missed on a night visit?",
+      "a": "Text or call 916-668-8080 or reply to your visit scorecard. Under our 24-Hour Re-Clean Guarantee, we dispatch a supervisor or technician within 24 hours to fix it. And under our Three-Strike Credit, if the same item is missed three times in 60 days, that visit is credited off your invoice."
+    },
+    {
+      "q": "How quickly can you provide a Certificate of Insurance (COI) and W-9?",
+      "a": "Within 24 hours—and same business day for urgent post-construction or property management turnovers. We carry commercial general liability, janitorial bonding, and workers' compensation insurance."
+    },
+    {
+      "q": "What cleaning products and vacuums do you use in medical offices and daycares?",
+      "a": "We use CRI-approved commercial HEPA backpack vacuums (trapping 99.97% of particulates down to 0.3 microns), four-color isolated microfiber cloths laundered at 160°F, EPA List N hospital-grade disinfectants for clinics, and fragrance-free EPA DfE non-toxic disinfectants for daycares and preschools."
+    },
+    {
+      "q": "Will the same people be in my building every week?",
+      "a": "Yes. Unlike brokered janitorial franchises that sell your account to rotating subcontractors, we assign a dedicated background-checked W-2 team and route supervisor to your facility."
+    }
+  ]
+}
+

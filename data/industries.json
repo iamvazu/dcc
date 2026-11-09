@@ -1,0 +1,531 @@
+[
+  {
+    "slug": "office",
+    "name": "Office",
+    "pluralName": "Offices & Corporate Suites",
+    "calcKey": "office",
+    "isTier1Combo": true,
+    "shortLine": "Multi-desk workspaces, executive suites, and conference rooms cleaned after hours without touching a single document.",
+    "heroImage": "/images/industry-office-property.png",
+    "primaryKeyword": "office cleaning services Sacramento & Placer County",
+    "riskHeading": "Hybrid teams notice dusty conference tables and empty soap dispensers immediately.",
+    "riskBody": "When staff and clients come into an office in Rocklin, Roseville, or Sacramento, the three things they judge within five minutes are the lobby glass, the breakroom microwave and coffee zone, and the restroom fixtures. Most janitorial crews rush through vacuuming traffic lanes while skipping conference table cords, monitor bases, and restroom partition latches.",
+    "inspectionContext": "Cal/OSHA General Industry Workplace Sanitation (Title 8 §3362) & Class-A Property Management Lease Standards",
+    "failurePoints": [
+      "Coffee rings left around breakroom appliances and overflowing compost/recycling bins by Thursday afternoon",
+      "Fingerprints on glass conference room doors and dust accumulation on return-air vents above desks",
+      "Unverified lockup leaving suite deadbolts unlatched or perimeter alarms un-armed after 9:00 PM"
+    ],
+    "keyProtocolPoints": [1, 3, 8, 13, 17, 19, 23, 26, 30, 36, 41, 42],
+    "methodsAndProducts": "CRI-approved backpack HEPA vacuums (capturing 99.97% of particulates down to 0.3 microns), neutral-pH flat-mop systems for LVT and hardwood, and color-coded microfiber isolation so restroom cloths never touch desks or breakroom counters. Strict 'hands-off documents' policy on every desk.",
+    "proof": {
+      "type": "verified",
+      "tag": "Google & Yelp Verified",
+      "quote": "Debra is professional, courteous, and upfront. Our office suites, conference glass, and restrooms are thoroughly cleaned with unparalleled attention to detail every single week.",
+      "attribution": "Operations Manager · Professional Services Office · Rocklin, CA"
+    },
+    "faqs": [
+      {
+        "q": "How do your crews handle papers and electronics on employee desks?",
+        "a": "We enforce a strict 'hands-off documents and cables' rule (PT. 23). Crews sanitize cleared desk surfaces, chair armrests, and telephone handsets around paperwork without moving files or unplugging docking stations."
+      },
+      {
+        "q": "What if our office only needs cleaning 2 or 3 nights a week?",
+        "a": "Most of our 2,500 to 12,000 sq ft offices in Rocklin and Roseville run on a 2x or 3x weekly schedule. We customize restocking and trash pull cadence so restrooms stay fresh between visits."
+      },
+      {
+        "q": "How do you manage alarm codes and master keys?",
+        "a": "Keys and fobs are coded by blind numeric tags—never labeled with your company name or address—and assigned to a dedicated background-checked team lead. PT. 41 requires physical pull-testing of every exterior door before leaving."
+      },
+      {
+        "q": "Can you manage our restroom paper towels, toilet tissue, and hand soap?",
+        "a": "Yes. Under PT. 13, we inventory your restroom and breakroom consumables every visit and can either restock from your supply closet or supply commercial-grade paper and soap directly on a flat monthly rate."
+      },
+      {
+        "q": "How do I know the crew actually completed the full checklist last night?",
+        "a": "Before our vehicle leaves your parking lot, the team lead submits a timestamped photo scorecard (PT. 42) verifying entry glass, restrooms, breakroom, and lockup."
+      }
+    ]
+  },
+  {
+    "slug": "medical-office",
+    "name": "Medical Office",
+    "pluralName": "Medical Offices & Outpatient Clinics",
+    "calcKey": "medical",
+    "isTier1Combo": true,
+    "shortLine": "Exam rooms, waiting areas, and nurses' stations disinfected with EPA List N hospital-grade virucides and full contact-time verification.",
+    "heroImage": "/images/commercial-clinic-inspection.png",
+    "primaryKeyword": "medical office cleaning Sacramento & Roseville",
+    "riskHeading": "In a clinic, a dusty baseboard or smeared restroom faucet makes patients question clinical care.",
+    "riskBody": "Outpatient clinics, urgent care centers, pediatrics, and specialty practices along the Eureka Road, Secret Ravine, and Mercy Folsom corridors face dual pressure: infection control compliance and patient confidence. Standard office cleaners spray and immediately wipe, violating disinfectant dwell-time rules and cross-contaminating waiting room chairs with restroom rags.",
+    "inspectionContext": "CDC Outpatient Infection Prevention Guidelines, OSHA Bloodborne Pathogens Standard (29 CFR 1910.1030) & CDPH Clinic Standards",
+    "failurePoints": [
+      "Wiping exam tables and reception kiosks before the required 3-to-10-minute EPA disinfectant contact time is met",
+      "Using the same mop water or microfiber cloth across patient restrooms and clinical exam zones",
+      "Dust buildup on high exam lights, supply cabinets, and blood-draw chair bases"
+    ],
+    "keyProtocolPoints": [1, 4, 5, 8, 9, 10, 16, 24, 28, 32, 36, 42],
+    "methodsAndProducts": "EPA-registered List N hospital-grade quaternary and hydrogen-peroxide disinfectants applied with strict wet-contact dwell times. Four-color microfiber isolation (Red: toilets/urinals; Yellow: restroom sinks; Green: breakrooms; Blue: clinical/exam surfaces) and single-zone flat-mop heads.",
+    "proof": {
+      "type": "verified",
+      "tag": "Google Business Profile Verified",
+      "quote": "Debra and her commercial crew have completely changed how our clinic looks every morning. Exam floors, waiting room glass, and staff restrooms are spotless, with timestamped photos after every shift.",
+      "attribution": "Practice Administrator · Outpatient Medical Group · Roseville, CA"
+    },
+    "faqs": [
+      {
+        "q": "Do you observe full disinfectant dwell times on exam tables and waiting room surfaces?",
+        "a": "Yes. Disinfectant only kills pathogens when kept visibly wet for the manufacturer's specified contact time (PT. 04 & PT. 24). Our crew leads train specifically on dwell-time application before dry-polishing chrome and vinyl."
+      },
+      {
+        "q": "How do you prevent cross-contamination between patient restrooms and exam rooms?",
+        "a": "We isolate every zone using color-coded microfiber cloths and changeable flat-mop pads (PT. 32). A pad used in a patient restroom is bagged immediately for 160°F laundering and never enters an exam corridor."
+      },
+      {
+        "q": "Do you touch biohazard (red bag) waste or sharps containers?",
+        "a": "We clean and disinfect around regulated medical waste and sharps containers without opening or transporting red-bag biohazard waste, which remains with your licensed medical waste hauler per California Health & Safety Code."
+      },
+      {
+        "q": "Are your staff background-checked and trained for HIPAA-sensitive environments?",
+        "a": "Every technician passes a background check, wears a company badge, and signs confidentiality protocols so patient charts, intake screens, and billing areas are never disturbed."
+      },
+      {
+        "q": "Can we get a Certificate of Insurance (COI) naming our medical group and building owner?",
+        "a": "Yes—we issue a Certificate of Insurance naming both your practice and property management company within 24 hours of onboarding."
+      }
+    ]
+  },
+  {
+    "slug": "dental-office",
+    "name": "Dental Office",
+    "pluralName": "Dental Practices & Orthodontic Clinics",
+    "calcKey": "medical",
+    "isTier1Combo": true,
+    "shortLine": "Operatory floors, chair bases, sterilization zones, and reception lounges detailed for patients staring at the ceiling for 45 minutes.",
+    "heroImage": "/images/industry-medical-dental.png",
+    "primaryKeyword": "dental office cleaning Roseville & Rocklin",
+    "riskHeading": "Dental patients spend 45 minutes looking directly at your ceiling vents, light arms, and cove base.",
+    "riskBody": "No facility gets inspected more closely by its own customers than a dental practice. While reclined in the chair, patients notice cobwebs on ceiling troffers, splatter on the base of the dental chair, and calcified aerosol haze on operatory cabinetry and baseboards. Meanwhile, ultrasonic scalers and handpieces create fine moisture mist that settles across every horizontal surface.",
+    "inspectionContext": "Dental Board of California Infection Control Regulations (16 CCR §1005) & CDC Dental Health-Care Guidelines",
+    "failurePoints": [
+      "Aerosolized polish and water splatter left on dental chair foot-pedals, base swivel rings, and lower cabinetry",
+      "Dust and dead insects visible inside overhead LED light troffers and ceiling supply vents above the patient chair",
+      "Streaky reception glass and gritty grout lines in the patient restroom"
+    ],
+    "keyProtocolPoints": [1, 4, 7, 8, 10, 16, 24, 28, 31, 32, 35, 42],
+    "methodsAndProducts": "Non-corrosive, surface-safe hospital disinfectants compatible with dental upholstery and acrylics, high-reach microfiber extension dusters for overhead troffers (PT. 28), and single-pass microfiber mopping around chair pedestals and rheostat pedals.",
+    "proof": {
+      "type": "verified",
+      "tag": "Google Business Profile Verified",
+      "quote": "Patients recline in our chairs for 45 minutes looking right at the ceiling vents and floor edges. Debra's crew details the operatory bases, light troffers, and restrooms to a clinical standard.",
+      "attribution": "Dental Office Manager · 7-Operatory Practice · Roseville, CA"
+    },
+    "faqs": [
+      {
+        "q": "Will your cleaning chemicals crack or discolor our A-dec or Pelton & Crane dental chairs?",
+        "a": "Never. Your clinical assistants handle between-patient barrier and chair-top turnover; after hours, we detail chair bases, foot controls, cabinetry, and floors using neutral and surface-compatible disinfectants approved for clinical vinyl and powder-coated metal."
+      },
+      {
+        "q": "Do you clean inside the sterilization room and lab area?",
+        "a": "We damp-mop sterilization and lab floors, sanitize cabinet fronts, empty non-biohazard trash, and descale handwashing sinks while strictly avoiding autoclaves, ultrasonic units, and open instrument cassettes."
+      },
+      {
+        "q": "How often do you detail the ceiling vents and light fixtures above the dental chairs?",
+        "a": "Unlike standard janitors who only look down, PT. 28 includes scheduled high-dusting of overhead light troffers, AC vents, and track arms so reclined patients see a spotless ceiling."
+      },
+      {
+        "q": "Can you clean plaster and alginate dust from our dental lab floor without leaving a white film?",
+        "a": "Yes. We vacuum fine gypsum/alginate dust with HEPA filtration first (PT. 30–31) before damp-mopping with fresh microfiber pads so wet dust never turns into a chalky slurry."
+      },
+      {
+        "q": "What happens if my morning hygienist finds something missed when opening at 7:00 AM?",
+        "a": "Snap a photo and text us. Under our 24-Hour Re-Clean & Three-Strike Guarantee, we resolve it immediately and credit the visit if any recurring item is missed."
+      }
+    ]
+  },
+  {
+    "slug": "daycare-preschool",
+    "name": "Daycare & Preschool",
+    "pluralName": "Daycares, Preschools & Childcare Centers",
+    "calcKey": "daycare",
+    "isTier1Combo": true,
+    "shortLine": "Child-safe, fragrance-free sanitization from floor level to 48 inches—built for California Community Care Licensing inspections.",
+    "heroImage": "/images/industry-daycare-preschool.png",
+    "primaryKeyword": "daycare cleaning services Sacramento & Placer County",
+    "riskHeading": "Licensing analysts and parents inspect your facility at toddler height—0 to 48 inches off the floor.",
+    "riskBody": "In a preschool or childcare center, everything below four feet is a food-contact and hand-to-mouth surface. One stomach-bug or RSV outbreak empties classrooms and triggers parent panic, while an unannounced California Community Care Licensing (CCL) Title 22 visit can cite a center for dirty diaper-changing zones, unguarded chemicals, or dusty nap-mat cubbies.",
+    "inspectionContext": "California Department of Social Services (CDSS) Community Care Licensing Title 22, Division 12 Child Care Center Regulations",
+    "failurePoints": [
+      "Harsh bleach or quaternary fumes lingering at 7:30 AM drop-off when infants and toddlers arrive",
+      "Sticky finger-marks between 12 and 42 inches on classroom door glass, cubbies, and low bathroom partitions",
+      "Sand, mulch, and crumb buildup along rug edges where infants crawl"
+    ],
+    "keyProtocolPoints": [3, 4, 8, 9, 10, 18, 22, 25, 30, 32, 36, 39],
+    "methodsAndProducts": "EPA Design for the Environment (DfE) certified, fragrance-free hydrogen peroxide and botanical disinfectants that leave zero toxic residue on low tables, cubbies, and crawling mats. Dual-pass HEPA vacuuming on classroom rugs and locked janitor closet verification (PT. 40).",
+    "proof": {
+      "type": "verified",
+      "tag": "Google Business Profile Verified",
+      "quote": "Having a background-checked team that uses fragrance-free, child-safe disinfectants is everything for our preschool. Our classrooms, cubbies, and low-height restrooms pass inspection every single morning.",
+      "attribution": "Center Director · Licensed Early Childhood Center · Citrus Heights, CA"
+    },
+    "faqs": [
+      {
+        "q": "Are your disinfectants safe for infants and toddlers who put their hands on floors and low tables?",
+        "a": "Yes. For daycares and preschools, PT. 25 mandates fragrance-free, non-toxic EPA DfE / List N disinfectants that break down into water and oxygen without leaving irritating chemical films on crawling surfaces."
+      },
+      {
+        "q": "How do you help us stay ready for unannounced California Community Care Licensing (Title 22) inspections?",
+        "a": "We verify that janitor closets are locked with current SDS sheets (PT. 40), child-height toilets and step-stools are sanitized inside and out (PT. 08–10), and diaper/trash receptacles are disinfected and relined every night."
+      },
+      {
+        "q": "Are all members of your cleaning crew background-checked?",
+        "a": "Every Debra's Classic Cleaning team member undergoes criminal background screening before ever stepping onto a client property, and we clean strictly after operating hours when children are not present."
+      },
+      {
+        "q": "Can you handle outdoor play-yard sand tracked into classrooms every afternoon?",
+        "a": "Yes. We vacuum walk-off mats and classroom rugs with commercial HEPA units in two perpendicular passes (PT. 03 & PT. 30) and edge-vacuum cubby corners before damp-mopping hard floors."
+      },
+      {
+        "q": "What if a classroom has a norovirus, hand-foot-and-mouth, or flu outbreak?",
+        "a": "Call or text us before 3:00 PM and our night crew will execute an targeted high-level virucidal touchpoint reset across the affected classroom's tables, cubbies, restrooms, and door hardware."
+      }
+    ]
+  },
+  {
+    "slug": "property-management",
+    "name": "Property Management",
+    "pluralName": "Multi-Tenant Office & Flex Buildings",
+    "calcKey": "commonAreas",
+    "isTier1Combo": false,
+    "shortLine": "Common lobbies, elevators, shared corridor restrooms, and stairwells maintained across multi-building portfolios with monthly QA reporting.",
+    "heroImage": "/images/industry-property-management.png",
+    "primaryKeyword": "property management cleaning services Rocklin & Sacramento",
+    "riskHeading": "As a property manager, you only hear about the janitor when an anchor tenant threatens not to renew.",
+    "riskBody": "Managing three to ten commercial or flex buildings across Rocklin, Roseville, Lincoln, and Rancho Cordova means you don't have time to drive to every site at 8:00 AM to check whether the 2nd-floor restroom has paper towels or the elevator tracks are full of gravel. When common areas slip, tenants blame CAM charges and property management responsiveness.",
+    "inspectionContext": "BOMA Class-A / Class-B Common Area Maintenance (CAM) Standards & Commercial Lease SLA Compliance",
+    "failurePoints": [
+      "Shared corridor restrooms running out of paper towels or emitting dry floor-drain sewer odors by Wednesday",
+      "Lobby directory glass, elevator call panels, and stairwell handrails neglected between tenant suites",
+      "Burned-out hallway bulbs, running toilet flappers, or plumbing drips going unreported by night crews"
+    ],
+    "keyProtocolPoints": [1, 2, 3, 6, 8, 12, 13, 15, 34, 38, 41, 42],
+    "methodsAndProducts": "Multi-site route supervision, enzymatic floor-drain priming (PT. 15) to eliminate restroom sewer odors permanently, stainless steel elevator cab detailing (PT. 38), and proactive building maintenance exception alerts attached directly to your post-visit photo scorecard.",
+    "proof": {
+      "type": "verified",
+      "tag": "Google Business Profile Verified",
+      "quote": "We switched two commercial buildings in Rocklin to Debra's Classic Cleaning after constant tenant complaints with our prior vendor. Restroom fixtures are descaled, floor drains never smell, and Debra personally checks on the account.",
+      "attribution": "Senior Property Manager · Commercial Portfolio · Rocklin & Lincoln, CA"
+    },
+    "faqs": [
+      {
+        "q": "Can one contract cover common areas across multiple buildings in Placer and Sacramento counties?",
+        "a": "Yes. We consolidate multi-building portfolios onto one master service agreement with building-by-building line items so your CAM reconciliations and monthly AP approvals stay effortless."
+      },
+      {
+        "q": "Will your crew notify us if they spot a leaking toilet, broken lock, or roof stain after hours?",
+        "a": "That is built directly into PT. 42. Whenever our crew finds a running flush valve, burnt hallway ballast, vandalism, or water intrusion, they snap a photo and flag it on your morning report."
+      },
+      {
+        "q": "Why do commercial building restrooms smell like sewer gas even when the toilets look clean?",
+        "a": "Floor drain P-traps dry out under constant HVAC airflow, letting sewer gas rise into the room. PT. 15 requires priming floor drains with water and enzyme maintainer every week."
+      },
+      {
+        "q": "Do you also do tenant turn / move-out cleans when a suite vacates?",
+        "a": "Yes—property managers get priority 48-hour scheduling for vacant suite broom-sweeps, deep move-out cleans, and post-TI construction detailing so brokers can tour the space immediately."
+      },
+      {
+        "q": "What insurance limits do you carry for commercial property management vendor onboarding?",
+        "a": "Debra's Classic Cleaning LLC is fully licensed, bonded, and insured (CA Small Business Cert ID: 2040639, CAGE: 9Z5E9) and furnishes additional-insured endorsements and W-9s same-day."
+      }
+    ]
+  },
+  {
+    "slug": "post-construction",
+    "name": "Post-Construction",
+    "pluralName": "Post-Construction & Tenant Improvement (TI) Projects",
+    "calcKey": "warehouse",
+    "isTier1Combo": true,
+    "shortLine": "Rough, final, and punch-list touch-up cleans for general contractors on tight C-of-O and owner-walkthrough deadlines.",
+    "heroImage": "/images/industry-post-construction.png",
+    "primaryKeyword": "post construction cleaning Sacramento & Roseville",
+    "riskHeading": "Sheetrock dust settles three times. If your cleaner uses dirty mop water, your owner walkthrough fails.",
+    "riskBody": "General contractors and TI superintendents in Sacramento, Roseville, and Rocklin know the nightmare: trades finish late on Thursday, the owner and city inspector walk at 9:00 AM Monday, and fine gypsum dust is coating every mullion, light troffer, and LVT plank. Inexperienced janitors smear drywall dust into a white haze across brand-new floors and scratch tempered glass removing manufacturer stickers.",
+    "inspectionContext": "CSI MasterFormat Section 01 74 23 (Final Cleaning) & Owner/Architect Punch-List Turnover Standards",
+    "failurePoints": [
+      "White drywall haze left on new LVT, sealed concrete, or tile because floors weren't HEPA-vacuumed before wet mopping",
+      "Silicone caulk smudges, paint overspray, and manufacturer labels left on storefront glass and restroom fixtures",
+      "Fine construction dust left inside new cabinetry drawers, window tracks, and overhead HVAC diffusers"
+    ],
+    "keyProtocolPoints": [1, 2, 7, 10, 11, 16, 26, 28, 29, 31, 32, 35],
+    "methodsAndProducts": "Three-phase construction turnover system (Phase 1 Rough Clean debris & scraping; Phase 2 Final Detail top-to-bottom HEPA extraction & sticker removal with fresh wet-razor blades; Phase 3 Puff/Touch-Up Clean 24 hours before turnover after airborne dust settles). Same-day COI issuance for GC compliance.",
+    "proof": {
+      "type": "verified",
+      "tag": "Yelp & Google Verified",
+      "quote": "Debra did a full turnover clean for us and the completed job was top notch—zero drywall haze on the new LVT floors and every window track and cabinet interior was ready for walkthrough.",
+      "attribution": "Project Superintendent · Commercial General Contractor · Sacramento, CA"
+    },
+    "faqs": [
+      {
+        "q": "How fast can you issue a Certificate of Insurance (COI) and W-9 for our GC accounting team?",
+        "a": "Same business day. Send us your project holder wording and sample endorsement requirements, and we return the COI, W-9, and signed subcontract paperwork within hours."
+      },
+      {
+        "q": "Do you offer all three phases: Rough Clean, Final Clean, and Touch-Up (Puff) Clean?",
+        "a": "Yes. We quote per square foot for single-phase Final Clean or a bundled 3-phase package (Rough, Final, and post-punch-list Puff Clean right before key handover)."
+      },
+      {
+        "q": "How do you prevent scratching brand-new tempered glass when removing stickers and stucco splatter?",
+        "a": "We soak labels with citrus surfactant and use brand-new stainless steel blades in wet-only passes—never dry-scraping heat-treated or low-E commercial glass."
+      },
+      {
+        "q": "How do you eliminate the white drywall haze on new luxury vinyl plank (LVP) and concrete floors?",
+        "a": "We run dual dry HEPA vacuum passes first (PT. 30–31), followed by neutral-conditioner microfiber flat-mopping where pads are swapped every 400 sq ft so gypsum slurry is lifted, never redistributed."
+      },
+      {
+        "q": "Do you hold WOSB / EDWOSB and California Small Business certifications for public-works participation goals?",
+        "a": "Yes—Debra's Classic Cleaning LLC is a certified WOSB/EDWOSB (CAGE 9Z5E9) and California Certified Small Business (Micro), helping prime contractors meet DVBE/SB/WOSB participation targets."
+      }
+    ]
+  },
+  {
+    "slug": "bank-credit-union",
+    "name": "Bank & Credit Union",
+    "pluralName": "Banks, Credit Unions & Wealth Management Branches",
+    "calcKey": "office",
+    "isTier1Combo": false,
+    "shortLine": "Vetted, background-checked after-hours teams trained for alarm zones, teller lines, ATM vestibules, and vault-adjacent security rules.",
+    "heroImage": "/images/industry-bank-credit-union.png",
+    "primaryKeyword": "bank cleaning services Sacramento & Roseville",
+    "riskHeading": "Branch cleaning requires two things equally: five-star lobby presentation and zero security alarms.",
+    "riskBody": "Financial institutions and credit union branches across Placer and Sacramento counties operate under strict dual-control and motion-zone alarm protocols. A cleaning vendor who triggers false silent alarms, props open rear exit doors while taking out trash, or leaves fingerprints on teller glass and ATM touchscreens creates both security headaches and member complaints.",
+    "inspectionContext": "Financial Branch Physical Security Protocols & Dual-Zone Intrusion Alarm Compliance",
+    "failurePoints": [
+      "False motion alarms triggered by crews entering restricted vault corridors or missing arming countdown windows",
+      "Smudged ATM screens, night-drop plates, and teller transaction glass in high-traffic vestibules",
+      "High crew turnover putting unfamiliar individuals inside secured branch facilities"
+    ],
+    "keyProtocolPoints": [1, 4, 6, 8, 17, 23, 26, 30, 33, 36, 41, 42],
+    "methodsAndProducts": "Assigned two-person background-checked crews (zero transient day labor), ATM/kiosk screen-safe alcohol-free sanitizers, brass/stainless polish for night drops and stanchions, and documented alarm-zone check-in/check-out logs.",
+    "proof": {
+      "type": "verified",
+      "tag": "Google Business Profile Verified",
+      "quote": "Zero false alarms, spotless teller glass, and the exact same background-checked two-person team every week. Our branch lobby and ATM vestibule always look sharp at 8:30 AM.",
+      "attribution": "Branch Operations Manager · Regional Financial Institution · Placer County, CA"
+    },
+    "faqs": [
+      {
+        "q": "How do you prevent false alarms in branches with timed entry/exit and restricted vault zones?",
+        "a": "During our initial Benchmark Audit, we map your exact motion-detector boundaries and restricted doors onto the branch's custom route sheet. The same dedicated crew services your branch every visit."
+      },
+      {
+        "q": "Do you clean 24-hour ATM vestibules and exterior night-drop boxes?",
+        "a": "Yes. PT. 01 and PT. 04 cover ATM vestibule glass, keypad sanitization, trash receptacles, and floor degreasing on every scheduled visit."
+      },
+      {
+        "q": "What is your rule regarding trash removal and exterior branch doors?",
+        "a": "Exterior doors are never propped open. Trash is staged inside, moved out in a single supervised pass, and the door is physically pull-tested and re-locked immediately (PT. 41)."
+      },
+      {
+        "q": "How do you handle paper shred bins and teller under-counter waste?",
+        "a": "Locked shred consoles are never touched; regular waste and recycling are inspected for stray slips and removed in sealed liners per your branch's clean-desk policy."
+      },
+      {
+        "q": "Can you service multiple branch locations across Rocklin, Roseville, Folsom, and Sacramento?",
+        "a": "Yes, we cover all four counties (Placer, Sacramento, Yolo, and Yuba) under centralized billing and unified monthly scorecard reporting."
+      }
+    ]
+  },
+  {
+    "slug": "gym-fitness",
+    "name": "Gym & Fitness Studio",
+    "pluralName": "Gyms, Pilates/Yoga Studios & Athletic Clubs",
+    "calcKey": "gym",
+    "isTier1Combo": false,
+    "shortLine": "Locker rooms, rubber floor zones, mirrors, and sweat-contact surfaces disinfected against MRSA, ringworm, and odor bacteria.",
+    "heroImage": "/images/industry-gym-fitness.png",
+    "primaryKeyword": "gym cleaning services Roseville & Rocklin",
+    "riskHeading": "Members forgive a tough workout. They cancel memberships over locker-room odors and dusty floor corners.",
+    "riskBody": "Boutique fitness studios, physical therapy gyms, and athletic clubs accumulate chalk, sweat aerosols, body oils, and rubber-crumb dust every single day. Standard mops snag on vulcanized rubber flooring and leave locker-room shower drains smelling sour by mid-week.",
+    "inspectionContext": "California Health Studio Services Sanitation Standards & EPA List H (MRSA/Fungal) Disinfection",
+    "failurePoints": [
+      "Sweat salt rings and streaks across wall-to-wall studio mirrors from floor level to 6 feet",
+      "Hair, lint, and chalk buildup wedged underneath dumbbell racks, reformer tracks, and cardio sleds",
+      "Sour mildew odors in locker rooms and wet shower tile grout lines"
+    ],
+    "keyProtocolPoints": [3, 8, 9, 11, 15, 30, 32, 36, 39, 40, 41, 42],
+    "methodsAndProducts": "Fungicidal and bactericidal hospital-grade disinfectants effective against MRSA and Tinea (ringworm), low-moisture scrubbing for vulcanized rubber and turf zones, edge-to-edge streak-free mirror detailing (PT. 11), and enzymatic drain treatment (PT. 15).",
+    "proof": {
+      "type": "verified",
+      "tag": "Yelp Verified Review",
+      "quote": "Our studio mirrors, rubber floor zones, and locker rooms have never looked or smelled cleaner. They actually vacuum under the racks and prime the shower drains every week.",
+      "attribution": "Studio Owner · Boutique Fitness & PT Facility · Rocklin, CA"
+    },
+    "faqs": [
+      {
+        "q": "How do you clean vulcanized rubber gym floors without leaving mop lint?",
+        "a": "String mops shred on textured rubber. We vacuum with commercial HEPA brush-rolls first, then use high-density scrub pads and neutral rubber-safe cleaner that lifts sweat and chalk cleanly."
+      },
+      {
+        "q": "Do you disinfect studio mirrors from top to bottom every visit?",
+        "a": "Yes—PT. 11 covers full-width studio mirrors, removing medicine-ball smudges, handprints, and water splashes with zero streaks under overhead studio lighting."
+      },
+      {
+        "q": "How do you eliminate locker room and shower drain odors?",
+        "a": "We scrub tile grout lines with an enzymatic bio-cleaner and prime floor drains (PT. 15) to digest odor-causing organic buildup rather than masking it with heavy perfume."
+      },
+      {
+        "q": "Can your crew clean early in the morning or late after our last 8:30 PM class?",
+        "a": "Yes. Most gyms schedule us between 9:30 PM and 4:30 AM so floors are completely dry before your 5:00 AM opening class."
+      },
+      {
+        "q": "Do you also sanitize water bottle fillers and drinking fountains?",
+        "a": "Every visit (PT. 39)—we descale the spout guard, sanitize the push sensor, and polish the stainless steel basin."
+      }
+    ]
+  },
+  {
+    "slug": "church",
+    "name": "Church & Place of Worship",
+    "pluralName": "Churches, Sanctuaries & Faith Campuses",
+    "calcKey": "church",
+    "isTier1Combo": false,
+    "shortLine": "Sanctuaries, fellowship halls, nurseries, and high-traffic restrooms reset after Sunday services and mid-week programs.",
+    "heroImage": "/images/industry-daycare-preschool.png",
+    "primaryKeyword": "church cleaning services Sacramento & Placer County",
+    "riskHeading": "Hundreds of visitors use your restrooms and nursery in a three-hour Sunday window.",
+    "riskBody": "Faith campuses combine four facility types in one: a large auditorium/sanctuary, a licensed or volunteer infant nursery, a fellowship kitchen, and administrative offices. Relying on volunteer committees leads to burned-out members and missed restroom deep-cleans before weddings, funerals, or Sunday services.",
+    "inspectionContext": "Multi-Purpose Assembly Sanitation & Nursery Child-Safe Disinfection Protocols",
+    "failurePoints": [
+      "Nursery and toddler rooms not sanitized with child-safe products between Sunday and mid-week youth groups",
+      "Fellowship hall kitchen sinks, coffee stations, and trash receptacles drawing pests if left until Tuesday",
+      "Sanctuary pew/chair rows and stage stairs collecting Cheerios, bulletins, and tracked gravel"
+    ],
+    "keyProtocolPoints": [5, 8, 12, 14, 22, 25, 30, 33, 37, 39, 41, 42],
+    "methodsAndProducts": "Wide-area HEPA backpack vacuuming for sanctuary seating rows, child-safe EPA DfE disinfectants for infant/toddler nurseries (PT. 25), food-safe fellowship kitchen degreasing (PT. 17–22), and Monday-morning or Friday/Saturday pre-service scheduling.",
+    "proof": {
+      "type": "verified",
+      "tag": "Google Business Profile Verified",
+      "quote": "Our sanctuary, fellowship kitchen, and infant nursery rooms are completely reset every Monday morning with child-safe products and photo-verified lockup across the entire campus.",
+      "attribution": "Facilities Director · Community Church Campus · Roseville, CA"
+    },
+    "faqs": [
+      {
+        "q": "Can we schedule our main clean on Monday morning or Friday night before Sunday services?",
+        "a": "Yes. Many churches pair a full Monday post-service reset (restrooms, nursery, fellowship kitchen, sanctuary) with a Friday touch-up before weekend events."
+      },
+      {
+        "q": "Do you use child-safe cleaning products in the infant and toddler nursery rooms?",
+        "a": "Yes—we apply the exact same fragrance-free, non-toxic preschool protocol (PT. 25) in church nurseries so cribs, changing tables, and play mats are safe for infants."
+      },
+      {
+        "q": "How do you handle sanctuary chairs or wooden pews?",
+        "a": "We backpack-vacuum under and between every row (PT. 30), spot-treat upholstery spills (PT. 33), and wipe book racks and wood caps with non-build-up conditioner."
+      },
+      {
+        "q": "Can we add one-off cleanings after weddings, funerals, or holiday services?",
+        "a": "Yes, contracted church clients can request event turnarounds with 48 hours' notice at your standard contracted hourly rate."
+      },
+      {
+        "q": "How do you secure multi-building church campuses at night?",
+        "a": "We follow a building-by-building lockup sequence (PT. 41), checking sanctuary crash bars, nursery wing doors, and fellowship hall alarms with photo verification."
+      }
+    ]
+  },
+  {
+    "slug": "retail-showroom",
+    "name": "Retail & Showroom",
+    "pluralName": "Retail Stores, Auto/Design Showrooms & Boutiques",
+    "calcKey": "retail",
+    "isTier1Combo": false,
+    "shortLine": "Streak-free storefront glass, polished showroom floors, and spotless fitting/client restrooms that protect average ticket value.",
+    "heroImage": "/images/industry-office-property.png",
+    "primaryKeyword": "retail and showroom cleaning Roseville & Sacramento",
+    "riskHeading": "In a showroom, dust on display ledges and scuffed floors cheapens every product on the floor.",
+    "riskBody": "Whether you run a design showroom near the Roseville Galleria, an auto/marine dealership on Automall Drive, or a specialty retail store in Folsom, bright track lighting exposes every floor swirl mark, glass fingerprint, and dusty baseboard.",
+    "inspectionContext": "High-LUX Retail Presentation & Customer ADA Restroom Standards",
+    "failurePoints": [
+      "Smudged storefront glass and entry doors at customer eye-level (36 to 72 inches)",
+      "Dust balls and garment tags left inside fitting room corners and under display gondolas",
+      "Dull, hazy luxury vinyl or porcelain showroom tile from improper soap residue"
+    ],
+    "keyProtocolPoints": [1, 2, 7, 11, 26, 31, 32, 35, 36, 41, 42],
+    "methodsAndProducts": "Zero-residue neutral floor cleaners that preserve high-gloss tile and polished concrete shine, full-height interior/exterior door glass detailing (PT. 01), and fitting-room mirror and bench sanitization.",
+    "proof": {
+      "type": "verified",
+      "tag": "Yelp Verified Review",
+      "quote": "Under bright showroom track lighting, every smudge shows. Debra's crew keeps our storefront glass, porcelain tile floors, and client restrooms gleaming before we open.",
+      "attribution": "Showroom Manager · Retail & Design Center · Roseville, CA"
+    },
+    "faqs": [
+      {
+        "q": "Can you clean before our 9:00 AM store opening or after 8:00 PM closing?",
+        "a": "Yes. We schedule showroom teams after closing or early morning so floors are dry and storefront glass is gleaming before the first shopper arrives."
+      },
+      {
+        "q": "How do you keep high-gloss porcelain and polished concrete floors from looking cloudy?",
+        "a": "Cloudy floors come from high-alkaline soaps and dirty string mops. We use pH-neutral conditioner with clean microfiber flat pads (PT. 32) that leave zero soap film."
+      },
+      {
+        "q": "Do you clean inside customer fitting rooms and consultation booths?",
+        "a": "Every visit—mirrors are cleaned edge-to-edge (PT. 11), benches and hooks are sanitized, and corners are crevice-vacuumed for pins, tags, and lint."
+      },
+      {
+        "q": "Can we bundle quarterly interior/exterior window washing or floor waxing?",
+        "a": "Yes, you can add quarterly window detailing or periodic machine scrubbing directly into your monthly plan so there are no surprise invoices."
+      },
+      {
+        "q": "How do you handle store alarm codes and closing verification?",
+        "a": "Your store's alarm keypad and roll-down gates or deadbolts are verified and photographed on every visit under PT. 41 and PT. 42."
+      }
+    ]
+  },
+  {
+    "slug": "warehouse-industrial",
+    "name": "Warehouse & Industrial",
+    "pluralName": "Distribution Offices, Light Manufacturing & Flex Facilities",
+    "calcKey": "warehouse",
+    "isTier1Combo": false,
+    "shortLine": "Heavy-use locker rooms, driver breakrooms, and attached administrative offices kept clean despite forklift dust and boot traffic.",
+    "heroImage": "/images/industry-post-construction.png",
+    "primaryKeyword": "warehouse and industrial office cleaning Rocklin & Sacramento",
+    "riskHeading": "Warehouse dust migrates into your front office every time the shop door opens.",
+    "riskBody": "Light industrial, distribution, and HVAC/construction headquarters in Sunset Industrial Area (Rocklin), McClellan Park, Northgate, and West Sacramento have a tough divide: shop crews and drivers need rugged, sanitized restrooms and breakrooms that handle heavy grease and boot grit, while the front office needs client-ready presentation.",
+    "inspectionContext": "Cal/OSHA Industrial Restroom & Washing Facility Sanitation (Title 8 §3364–3366)",
+    "failurePoints": [
+      "Black warehouse tire dust and boot grit tracked across the door threshold into front-office carpet",
+      "Shop restrooms and handwashing sinks coated in pumice soap grit, grease, and paper overflow",
+      "Breakroom microwaves, refrigerators, and vending tables neglected across multi-shift operations"
+    ],
+    "keyProtocolPoints": [3, 8, 12, 13, 15, 17, 19, 21, 28, 30, 34, 42],
+    "methodsAndProducts": "Industrial citrus degreasers for shop sinks and breakroom tables, heavy-duty walk-off mat extraction at the shop-to-office transition door (PT. 03), high-capacity restroom restocking (PT. 13), and HEPA vacuuming in administrative suites.",
+    "proof": {
+      "type": "verified",
+      "tag": "Google Business Profile Verified",
+      "quote": "They keep warehouse boot grit from migrating into our front administrative offices and keep our high-traffic driver breakrooms and shop restrooms stocked and sanitized.",
+      "attribution": "Director of Operations · Industrial & Distribution Facility · Rocklin, CA"
+    },
+    "faqs": [
+      {
+        "q": "Do you clean just the office, breakrooms, and shop restrooms, or the entire 50,000 sq ft warehouse rack floor?",
+        "a": "Most industrial clients have us clean the administrative offices, driver check-in lobby, breakrooms, locker rooms, and shop restrooms 2–5x/week—calculable right on our site by entering your office/restroom square footage."
+      },
+      {
+        "q": "Can your crew handle heavy hand-soap grease and boot mud in shop restrooms?",
+        "a": "Yes. We use commercial degreasers on shop utility sinks, scrub urinal and toilet bases (PT. 08), and flush floor drains (PT. 15) every visit."
+      },
+      {
+        "q": "How do you stop warehouse dust from ruining the front office carpet?",
+        "a": "We focus heavily on the transition threshold between the shop and office—dual-direction HEPA vacuuming of walk-off mats and damp-mopping the buffer zone every visit (PT. 03)."
+      },
+      {
+        "q": "Can you service facilities operating two shifts or early dispatch hours?",
+        "a": "Yes. We time our window between your second-shift close and morning dispatch so breakrooms and restrooms are freshly stocked before drivers arrive."
+      },
+      {
+        "q": "Are you registered in SAM.gov and Cal eProcure for industrial/municipal bids?",
+        "a": "Yes—Debra's Classic Cleaning LLC holds CAGE 9Z5E9, NAICS 561720, WOSB/EDWOSB, and California SB (Micro) certification."
+      }
+    ]
+  }
+]
+

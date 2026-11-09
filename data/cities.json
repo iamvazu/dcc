@@ -1,0 +1,578 @@
+[
+  {
+    "slug": "rocklin",
+    "name": "Rocklin",
+    "county": "Placer County",
+    "tier": 1,
+    "zips": ["95765", "95677"],
+    "distanceFromRocklin": "0 miles (Debra's Classic Cleaning HQ)",
+    "responseTime": "Under 20 minutes on-site response",
+    "districts": [
+      "Sunset Industrial Area & Lonetree Boulevard corporate corridor",
+      "Stanford Ranch Road & Blue Oaks Town Center commercial suites",
+      "Pacific Street / Historic Quarry District professional offices",
+      "Granite Drive & Sierra College Boulevard medical and retail plazas"
+    ],
+    "nearbyCities": ["roseville", "lincoln", "loomis", "granite-bay"],
+    "intro": "Rocklin is our home base—every Debra's Classic Cleaning fleet vehicle dispatches directly from Rocklin across Placer County. Because our supervisors live and work minutes from Lonetree Boulevard, Stanford Ranch Road, and the Sunset Industrial corridor, Rocklin facility managers get our fastest on-site response times for both scheduled night inspections and emergency day-porter callouts. Whether you manage a multi-tenant flex building near Highway 65, an orthodontist or pediatric clinic off Blue Oaks Boulevard, a private preschool serving Whitney Ranch families, or a distribution headquarters in the Sunset Industrial park, our crews clean your space to our 42-point inspection protocol every visit. You never deal with an out-of-town franchise broker subcontracting your building keys to strangers. Every night shift concludes with timestamped tablet verification photos of your entry glass, restrooms, breakrooms, and armed alarm panel before our vehicle leaves your Rocklin parking lot.",
+    "proof": {
+      "type": "faq_answer",
+      "title": "Debra's Local Note for Rocklin Facility Managers",
+      "body": "Because our equipment depot is right here in Rocklin, if your clinic or office ever has an unexpected mid-day spill, plumbing overflow, or next-morning executive board visit, our supervisor can be at your front door on Lonetree, Pacific Street, or Stanford Ranch in under 20 minutes."
+    },
+    "localFaqs": [
+      {
+        "q": "How quickly can you walk a commercial building in Rocklin for a Benchmark Audit?",
+        "a": "Since we are headquartered in Rocklin, we can typically walk your facility on Stanford Ranch Rd, Lonetree Blvd, Sunset Blvd, or Pacific St the same day or next business morning—it takes 20 minutes and you keep the written 42-point scorecard either way."
+      },
+      {
+        "q": "Do you clean light-industrial and distribution offices in the Sunset Industrial Area?",
+        "a": "Yes. Several of our routes cover administrative offices, driver breakrooms, and high-traffic shop restrooms along Nichols Drive, Cincinnati Avenue, and Industrial Avenue where warehouse dust meets office carpet."
+      },
+      {
+        "q": "Can you service medical and dental offices near Blue Oaks and Sierra College Boulevard after 6:00 PM?",
+        "a": "Yes. Our Rocklin clinical teams begin after your last patient leaves, applying EPA List N hospital-grade disinfectants with verified contact times and submitting a photo scorecard before locking up."
+      }
+    ]
+  },
+  {
+    "slug": "roseville",
+    "name": "Roseville",
+    "county": "Placer County",
+    "tier": 1,
+    "zips": ["95661", "95678", "95747"],
+    "distanceFromRocklin": "5 miles southwest down I-80 / Hwy 65",
+    "responseTime": "20–25 minutes typical supervisor response",
+    "districts": [
+      "Douglas Boulevard & Eureka Road Class-A financial and executive corridor",
+      "Medical Plaza Drive, Secret Ravine Parkway & Sutter/Kaiser medical campus perimeter",
+      "Foothills Boulevard, Junction Blvd & Hewlett-Packard / North Roseville tech-industrial park",
+      "Galleria Boulevard, Creekside Ridge & Fiddyment Ranch commercial centers"
+    ],
+    "nearbyCities": ["rocklin", "granite-bay", "citrus-heights", "lincoln"],
+    "intro": "Roseville is the commercial and healthcare engine of Placer County, and its buildings demand a completely different standard of janitorial accountability than generic swipe-and-go crews deliver. Along the Douglas Boulevard and Eureka Road executive corridors, multi-story property managers deal with heavy lobby foot traffic and demanding financial or legal tenants. Up on Secret Ravine Parkway and Medical Plaza Drive surrounding the Sutter Roseville and Kaiser medical campuses, outpatient clinics and dental practices require strict cross-contamination color-coding and EPA List N dwell-time compliance. Only five miles from our Rocklin headquarters, Roseville is our highest-density service corridor—with dedicated evening crews assigned permanently to East Roseville, West Roseville, and the Foothills industrial zone. Every visit is tracked against our 42-point facility scorecard and backed by our 30-Day Walkaway Guarantee.",
+    "proof": {
+      "type": "faq_answer",
+      "title": "Why Douglas Blvd & Secret Ravine Clinics Switch to Debra's",
+      "body": "Outpatient medical and dental managers in Roseville tell us the #1 reason they fired their previous cleaner was inconsistency: great the first two weeks, then missed restroom corners and dusty operatory baseboards by month two. Our 42-point tablet photo verification prevents that drift."
+    },
+    "localFaqs": [
+      {
+        "q": "Do you service outpatient medical and dental suites near Sutter Roseville and Kaiser Eureka?",
+        "a": "Yes. Our Roseville clinical route serves practices along Secret Ravine Parkway, Medical Plaza Drive, Professional Drive, and Eureka Road using hospital-grade disinfectants and four-color microfiber isolation."
+      },
+      {
+        "q": "Can you handle multi-tenant common areas on Douglas Boulevard and Creekside Ridge?",
+        "a": "Yes—we maintain lobbies, elevators, stairwells, and shared corridor restrooms for commercial property managers across East Roseville, including floor-drain priming (PT. 15) and daytime porter options."
+      },
+      {
+        "q": "How much does commercial office cleaning cost in Roseville, CA?",
+        "a": "A typical 3,000 to 8,000 sq ft Roseville office cleaned 2 to 3 times per week generally ranges from $850 to $2,400/month depending on restroom count and floor mix. You can price your exact Roseville ZIP code (95661, 95678, or 95747) in 60 seconds using our online calculator."
+      }
+    ]
+  },
+  {
+    "slug": "lincoln",
+    "name": "Lincoln",
+    "county": "Placer County",
+    "tier": 1,
+    "zips": ["95648"],
+    "distanceFromRocklin": "9 miles north via Highway 65",
+    "responseTime": "20–30 minutes via Hwy 65 corridor",
+    "districts": [
+      "Aviation Boulevard & Lincoln Regional Airport industrial/business park",
+      "Twelve Bridges Drive medical, dental & retail plazas",
+      "Sterling Parkway, Joiner Parkway & Lincoln Crossing commercial centers",
+      "Historic Downtown Lincoln (G Street & McBean Park Drive) offices"
+    ],
+    "nearbyCities": ["rocklin", "roseville", "loomis", "auburn"],
+    "intro": "As Lincoln expands rapidly along the Highway 65 corridor from Twelve Bridges to the Aviation Boulevard industrial park, local facility managers often get stuck between two bad choices: solo cleaners who lack commercial insurance and backup staff, or Sacramento franchises that treat Lincoln as the last stop on a rushed midnight route. Located just nine miles south in Rocklin, Debra's Classic Cleaning runs dedicated Highway 65 crews serving Lincoln's medical and dental offices at Twelve Bridges, manufacturing and aviation-park headquarters off Nelson Lane and Aviation Boulevard, and professional offices throughout Lincoln Crossing and Downtown G Street. Every visit is photo-verified against our 42-point inspection checklist before our team locks your doors, ensuring your restrooms, breakrooms, and lobby glass pass inspection at 8:00 AM.",
+    "proof": {
+      "type": "faq_answer",
+      "title": "Serving Highway 65 From Twelve Bridges to Aviation Blvd",
+      "body": "Because our teams travel straight up Hwy 65 from Rocklin without hitting I-80 bridge congestion, Lincoln facilities get reliable arrival windows and hands-on monthly supervisor audits."
+    },
+    "localFaqs": [
+      {
+        "q": "Do you clean industrial and manufacturing offices near Lincoln Regional Airport / Aviation Blvd?",
+        "a": "Yes. We clean administrative suites, engineering offices, employee breakrooms, and high-traffic shop restrooms across the Aviation Boulevard and Ferrari Ranch industrial zones."
+      },
+      {
+        "q": "Are you available for new medical and retail tenant improvements (TI) in Twelve Bridges?",
+        "a": "Yes—we provide both 3-phase post-construction final cleans for general contractors building out Twelve Bridges suites and ongoing nightly clinical/office janitorial."
+      },
+      {
+        "q": "Do you also offer residential house cleaning in Sun City Lincoln Hills and Twelve Bridges?",
+        "a": "Yes! Our dedicated residential lane serves homeowners throughout Lincoln Hills, Twelve Bridges, and Verdera with recurring biweekly and deep house cleaning."
+      }
+    ]
+  },
+  {
+    "slug": "sacramento",
+    "name": "Sacramento",
+    "county": "Sacramento County",
+    "tier": 1,
+    "zips": ["95814", "95815", "95816", "95818", "95819", "95821", "95825", "95826", "95827", "95831", "95833", "95834", "95835", "95864"],
+    "distanceFromRocklin": "22 miles southwest via I-80",
+    "responseTime": "35–45 minutes scheduled / same-day audit window",
+    "districts": [
+      "Natomas (Northgate, Arena Blvd & Del Paso Rd corporate/logistics parks)",
+      "Point West, Howe Avenue & Arden-Arcade professional and medical plazas",
+      "Midtown, Downtown Capitol Mall & East Sacramento clinical/professional buildings",
+      "Power Inn Road, Florin Perkins & Highway 50 industrial/commercial corridors"
+    ],
+    "nearbyCities": ["west-sacramento", "rancho-cordova", "carmichael", "citrus-heights", "elk-grove"],
+    "intro": "Commercial facilities in Sacramento—from state-adjacent professional associations Downtown and medical offices in East Sacramento and Arden-Arcade to corporate logistics centers in Natomas and along Power Inn Road—require documented compliance, strict lockup discipline, and certified vendor credentials. Debra's Classic Cleaning LLC brings something rare to the Sacramento market: an owner-operated company that holds federal WOSB/EDWOSB certification (CAGE 9Z5E9) and California Small Business (Micro) credentials while executing a rigid 42-point inspection protocol on every visit. Whether you are a general contractor needing a fast-turnaround post-construction final clean on a Sacramento TI project, a property manager overseeing multi-tenant buildings off Howe Avenue, or a contracting officer sourcing NAICS 561720 janitorial services, our work is built to pass inspection without locking you into a punitive multi-year contract.",
+    "proof": {
+      "type": "faq_answer",
+      "title": "Certified WOSB / EDWOSB & CA Small Business (Micro) in Sacramento",
+      "body": "For Sacramento prime contractors, state agencies, and corporate procurement teams tracking diversity and small-business spend, Debra's Classic Cleaning LLC provides immediate WOSB, EDWOSB, and Cal eProcure SB (Micro) credit backed by turnkey commercial insurance."
+    },
+    "localFaqs": [
+      {
+        "q": "Which parts of Sacramento do your commercial cleaning routes cover?",
+        "a": "We cover North and Central Sacramento commercial corridors including Natomas (95833, 95834, 95835), Arden-Arcade/Point West (95815, 95821, 95825, 95864), Downtown/Midtown/East Sac (95814, 95816, 95819), and the Hwy 50 / Power Inn corridor (95826, 95827)."
+      },
+      {
+        "q": "Can general contractors in Sacramento get same-day COI and post-construction cleaning bids?",
+        "a": "Yes. For commercial tenant improvements and ground-up builds in Sacramento, we walk sites within 24–48 hours, furnish same-day Certificates of Insurance, and execute Rough, Final, and Puff cleans."
+      },
+      {
+        "q": "Are you qualified for State of California Cal eProcure SB/DVBE Option bids in Sacramento?",
+        "a": "Yes. Debra's Classic Cleaning LLC is a certified California Small Business (Micro) and federally registered WOSB/EDWOSB (NAICS 561720, CAGE 9Z5E9). Download our Capability Statement on our Government Contracting page."
+      }
+    ]
+  },
+  {
+    "slug": "folsom",
+    "name": "Folsom",
+    "county": "Sacramento County",
+    "tier": 1,
+    "zips": ["95630"],
+    "distanceFromRocklin": "14 miles south via Sierra College Blvd / Folsom-Auburn Rd",
+    "responseTime": "25–30 minutes via Sierra College / Douglas corridor",
+    "districts": [
+      "Iron Point Road & Highway 50 corporate and technology campuses",
+      "Creekside Drive & East Bidwell Street medical and dental complexes (near Mercy Hospital of Folsom)",
+      "Blue Ravine Road & Folsom Boulevard office and flex parks",
+      "Broadstone Marketplace, Palladio & Folsom Ranch retail and professional suites"
+    ],
+    "nearbyCities": ["granite-bay", "rancho-cordova", "fair-oaks", "roseville"],
+    "intro": "Connected directly to our Rocklin base down the Sierra College Boulevard and Folsom-Auburn Road corridor, Folsom is one of our fastest-growing commercial territories. Folsom facility managers oversee high-specification environments: outpatient specialty clinics and dental surgeries clustered along Creekside Drive near Mercy Hospital of Folsom, corporate engineering and financial offices along Iron Point Road and Blue Ravine, and expanding commercial centers south of Highway 50 in Folsom Ranch. In these spaces, a missed restroom restock or dusty glass partition stands out immediately. Our Folsom night teams follow our 42-point inspection protocol, using HEPA filtration, color-coded microfiber isolation, and timestamped photo verification after every shift so your clinic or corporate suite opens spotless every morning without locking you into a restrictive multi-year vendor agreement.",
+    "proof": {
+      "type": "faq_answer",
+      "title": "Direct North-South Route From Rocklin to Folsom",
+      "body": "Our supervisors reach Folsom in 25 minutes straight down Sierra College Blvd and Folsom-Auburn Rd—avoiding Sacramento freeway bottlenecks altogether for reliable evening operations."
+    },
+    "localFaqs": [
+      {
+        "q": "Do you clean medical and dental clinics on Creekside Drive and East Bidwell in Folsom?",
+        "a": "Yes. We specialize in outpatient medical, dental, orthodontic, and surgical suite cleaning around the Creekside Drive and Mercy Folsom healthcare corridor using EPA List N hospital disinfectants."
+      },
+      {
+        "q": "Can you clean tech and corporate offices along Iron Point Road and Blue Ravine?",
+        "a": "Yes—our teams handle badge-access corporate suites, conference rooms with full-height glass walls, breakrooms, and multi-stall restrooms along Iron Point Rd, Blue Ravine Rd, and Folsom Blvd."
+      },
+      {
+        "q": "Do you serve new commercial construction and homes in Folsom Ranch (South of Hwy 50)?",
+        "a": "Yes, ZIP code 95630 on both sides of Highway 50 is fully covered for commercial janitorial, post-construction cleanup, and residential house cleaning."
+      }
+    ]
+  },
+  {
+    "slug": "citrus-heights",
+    "name": "Citrus Heights",
+    "county": "Sacramento County",
+    "tier": 1,
+    "zips": ["95610", "95621"],
+    "distanceFromRocklin": "10 miles southwest via I-80",
+    "responseTime": "20–25 minutes from Rocklin HQ",
+    "districts": [
+      "Sunrise Boulevard & Greenback Lane commercial and retail corridor",
+      "San Juan Avenue & Auburn Boulevard medical, dental, and professional plazas",
+      "Antelope Road & Van Maren Lane business parks and childcare centers",
+      "Birdcage / Sunrise MarketPlace professional and financial suites"
+    ],
+    "nearbyCities": ["roseville", "fair-oaks", "carmichael", "rancho-cordova"],
+    "intro": "Sitting directly on the Placer–Sacramento county border just ten minutes down I-80 from our Rocklin office, Citrus Heights is packed with medical and dental practices, licensed daycares and preschools, credit union branches, and multi-tenant professional plazas along Sunrise Boulevard, Greenback Lane, and Auburn Boulevard. Many Citrus Heights buildings have high daily visitor counts—pediatric offices, physical therapy clinics, early childhood centers, and tax/accounting offices—where worn entry mats, streaky glass, or neglected restrooms immediately drive away families and patients. Debra's Classic Cleaning brings an inspection-first system to Citrus Heights facilities, with zero long-term lock-in contracts, child-safe and hospital-grade disinfection protocols, and photo proof delivered after every visit so local practice managers and childcare directors never have to wonder if the building is ready for morning arrivals.",
+    "proof": {
+      "type": "faq_answer",
+      "title": "Inspection-Ready Cleaning for Sunrise & Greenback Facilities",
+      "body": "For Citrus Heights daycares preparing for California Community Care Licensing Title 22 visits and dental clinics along Sunrise Blvd, our 42-point checklist documents every touchpoint below and above 48 inches."
+    },
+    "localFaqs": [
+      {
+        "q": "Do you clean daycares and preschools in Citrus Heights to California Title 22 licensing standards?",
+        "a": "Yes. We use child-safe, fragrance-free EPA DfE disinfectants on low tables, cubbies, and toddler restrooms (PT. 25) and keep janitor closets organized with up-to-date SDS sheets (PT. 40)."
+      },
+      {
+        "q": "Can you service smaller 1,500 to 4,000 sq ft offices on Sunrise Blvd or Auburn Blvd?",
+        "a": "Absolutely. Many of our Citrus Heights clients are dental offices, insurance/CPA offices, and clinics in the 2,000–5,000 sq ft range cleaned 1 to 3 times per week."
+      },
+      {
+        "q": "Am I locked into a 12-month contract if we hire Debra's Classic Cleaning?",
+        "a": "Never. Every commercial agreement includes our 30-Day Walkaway Guarantee—we earn your renewal every month with verified scorecards, not legal fine print."
+      }
+    ]
+  },
+  {
+    "slug": "granite-bay",
+    "name": "Granite Bay",
+    "county": "Placer County",
+    "tier": 2,
+    "zips": ["95746"],
+    "distanceFromRocklin": "7 miles southeast via Sierra College Blvd & Douglas Blvd",
+    "responseTime": "20 minutes from Rocklin HQ",
+    "districts": [
+      "Douglas Boulevard East boutique financial, wealth management & medical suites",
+      "Auburn-Folsom Road & Granite Bay Village professional offices and retail",
+      "Sierra College Boulevard border commercial plazas",
+      "Los Lagos, Shelborne, Wexford & Quarry Ponds executive residential estates"
+    ],
+    "nearbyCities": ["roseville", "rocklin", "loomis", "folsom"],
+    "intro": "Granite Bay combines boutique executive offices, wealth management firms, plastic surgery and cosmetic dental suites along Douglas Boulevard and Auburn-Folsom Road with some of Placer County's finest custom residences. In both lanes, Granite Bay clients expect quiet, detail-obsessed professionals who treat high-end stone, natural wood, brushed brass, and custom millwork with the right pH-neutral chemistry. Just seven miles from our Rocklin headquarters, our Granite Bay teams deliver commercial 42-point after-hours cleaning for Douglas Boulevard professional suites as well as white-glove recurring and deep residential house cleaning across Granite Bay's gated and custom neighborhoods. Every team member is background-checked, uniformed, bonded, and trained on stone-safe and wood-safe maintenance so delicate architectural finishes are never dulled or etched during scheduled service, and every visit is backed by our 24-hour re-clean guarantee.",
+    "proof": {
+      "type": "faq_answer",
+      "title": "Surface-Safe Care for High-End Finishes in 95746",
+      "body": "Whether it is honed marble and hardwood in a Granite Bay custom home or designer acoustic glass in a Douglas Blvd wealth-management suite, our technicians train on pH-neutral stone and surface chemistry."
+    },
+    "localFaqs": [
+      {
+        "q": "Do you offer both commercial office cleaning and luxury residential cleaning in Granite Bay?",
+        "a": "Yes. Granite Bay (95746) is one of our core dual-lane markets—serving boutique offices and clinics along Douglas Blvd and Auburn-Folsom Rd, as well as recurring weekly and biweekly house cleaning."
+      },
+      {
+        "q": "Are your residential cleaners insured, bonded, and safe around natural stone and hardwood?",
+        "a": "Yes. Every team member is background-checked, bonded, and insured, and we use non-acidic, pH-neutral cleaners safe for marble, travertine, quartzite, and European white oak floors."
+      },
+      {
+        "q": "Will the same cleaning team come to my Granite Bay home or office each visit?",
+        "a": "Yes—we assign consistent team leads to every recurring Granite Bay route so you never have to re-explain your gate code, alarm panel, or surface preferences."
+      }
+    ]
+  },
+  {
+    "slug": "loomis",
+    "name": "Loomis",
+    "county": "Placer County",
+    "tier": 2,
+    "zips": ["95650"],
+    "distanceFromRocklin": "4 miles northeast via Taylor Rd / I-80",
+    "responseTime": "15–20 minutes from Rocklin HQ",
+    "districts": [
+      "Taylor Road historic town center & professional offices",
+      "Horseshoe Bar Road & Brace Road commercial and light-industrial strip",
+      "Swetzer Road industrial, contractor & distribution yards",
+      "Sierra College Boulevard & Del Oro corridor clinics and businesses"
+    ],
+    "nearbyCities": ["rocklin", "granite-bay", "auburn", "lincoln"],
+    "intro": "Loomis sits right next door to our Rocklin headquarters—just four miles up Taylor Road or I-80. From contractor headquarters, veterinary clinics, and light-industrial flex spaces along Swetzer Road and Brace Road to dental offices, boutiques, and family businesses on Taylor Road and Horseshoe Bar Road, Loomis businesses value straightforward, accountable work from a local neighbor. Our commercial crews handle Loomis offices, industrial suites, and churches with the same 42-point photo-verified protocol we use in large corporate parks, while our residential division serves Loomis acreage and custom estates. Because our trucks pass through the Taylor Road and Horseshoe Bar corridor daily, Loomis clients enjoy rapid 15-minute supervisor support, consistent team assignments, zero out-of-area travel surcharges, and month-to-month flexibility under our 30-Day Walkaway Guarantee.",
+    "proof": {
+      "type": "faq_answer",
+      "title": "4 Miles From Our Rocklin Depot up Taylor Road",
+      "body": "Loomis is literally five minutes up Taylor Road from our base, making it effortless for us to serve smaller 1,500–5,000 sq ft offices and Swetzer Road flex spaces without travel surcharges."
+    },
+    "localFaqs": [
+      {
+        "q": "Do you clean contractor offices and flex warehouses on Swetzer Road in Loomis?",
+        "a": "Yes. We clean front administrative offices, showrooms, breakrooms, and shop restrooms along Swetzer Road, Brace Road, and Taylor Road."
+      },
+      {
+        "q": "Can you handle country dust, oak pollen, and mud tracked into Loomis homes and offices?",
+        "a": "Yes—our commercial backpack HEPA vacuums and damp microfiber wiping protocols are built specifically to trap fine Sierra foothill dust and seasonal oak pollen rather than pushing it into the air."
+      },
+      {
+        "q": "Is there a travel fee for Loomis (95650)?",
+        "a": "Never. Loomis borders our Rocklin home zip codes directly."
+      }
+    ]
+  },
+  {
+    "slug": "auburn",
+    "name": "Auburn",
+    "county": "Placer County",
+    "tier": 2,
+    "zips": ["95603"],
+    "distanceFromRocklin": "15 miles northeast up I-80",
+    "responseTime": "25 minutes via I-80 East",
+    "districts": [
+      "Bell Road & Highway 49 medical, county administrative & professional corridor",
+      "Auburn Airport Business Park & New Airport Road industrial/manufacturing zone",
+      "High Street, Lincoln Way & Downtown/Old Town Auburn professional offices",
+      "Grass Valley Highway (Hwy 49) retail plazas, banks & clinics"
+    ],
+    "nearbyCities": ["loomis", "rocklin", "lincoln", "granite-bay"],
+    "intro": "As the Placer County seat, Auburn houses medical clinics, county-adjacent legal and administrative offices along Bell Road and Highway 49, precision manufacturing and aviation businesses at the Auburn Airport Business Park, and historic professional buildings on Lincoln Way and High Street. Located just 15 minutes down I-80 in Rocklin, Debra's Classic Cleaning gives Auburn facility managers a reliable, bonded commercial janitorial partner with certified WOSB/EDWOSB and California Small Business credentials. We eliminate the #1 complaint in foothills commercial cleaning—crews skipping visits or cutting corners in winter weather—with timestamped tablet photo verification on every single shift, a 24-hour re-clean promise, and a 30-day walkaway guarantee that keeps our crews accountable year-round from Bell Road to Old Town Auburn. You can price your Auburn building online in 60 seconds or book a free 20-minute Benchmark Audit.",
+    "proof": {
+      "type": "faq_answer",
+      "title": "Serving Bell Road Clinics & Auburn Airport Business Park",
+      "body": "From medical practices near Sutter Auburn Faith Hospital off Bell Road to light-manufacturing offices on New Airport Road, our foothills route operates six days a week."
+    },
+    "localFaqs": [
+      {
+        "q": "Do you clean medical and dental offices near Bell Road and Sutter Auburn Faith Hospital?",
+        "a": "Yes. Our Auburn route covers medical, dental, optometry, and physical therapy clinics along Bell Road, Education Street, and Highway 49 with hospital-grade EPA List N disinfection."
+      },
+      {
+        "q": "Can you service manufacturing and commercial offices at the Auburn Airport Business Park?",
+        "a": "Yes—we clean administrative suites, clean-room-adjacent offices, employee breakrooms, and shop restrooms throughout the New Airport Road business park."
+      },
+      {
+        "q": "Are you certified for Placer County or state small-business contracting in Auburn?",
+        "a": "Yes. Debra's Classic Cleaning LLC holds California Certified Small Business (Micro) status and federal WOSB/EDWOSB certification under NAICS 561720."
+      }
+    ]
+  },
+  {
+    "slug": "rancho-cordova",
+    "name": "Rancho Cordova",
+    "county": "Sacramento County",
+    "tier": 2,
+    "zips": ["95670", "95742"],
+    "distanceFromRocklin": "18 miles south via Hazel Ave / Sunrise Blvd to Hwy 50",
+    "responseTime": "30–35 minutes typical response",
+    "districts": [
+      "Prospect Park, White Rock Road & Capital Center Drive corporate office parks",
+      "Zinfandel Drive, Kilgore Road & Data Drive business and medical corridors",
+      "Sunrise Boulevard & Folsom Boulevard light-industrial and showroom district",
+      "Mather Field Road & Douglas Road aerospace/logistics and office parks"
+    ],
+    "nearbyCities": ["folsom", "elk-grove", "fair-oaks", "sacramento", "citrus-heights"],
+    "intro": "Rancho Cordova contains one of the largest concentrations of commercial office space, medical labs, state-agency buildings, and light-industrial parks in the Sacramento region—stretching along the Highway 50 corridor from Bradshaw Road through Zinfandel Drive, Kilgore Road, Prospect Park, and Mather Field. Managing facilities here means dealing with large square footages, multi-shift employee breakrooms, and strict badge-access security. Debra's Classic Cleaning serves Rancho Cordova corporate suites, clinics, daycares, and post-construction TI projects with our 42-point inspection protocol and certified WOSB / CA Small Business (Micro) credentials. Our teams document every completed zone with timestamped photos so corporate facilities directors and property managers have verifiable proof of execution before staff arrive at 8:00 AM, backed by our 30-Day Walkaway Guarantee and same-day COI support.",
+    "proof": {
+      "type": "faq_answer",
+      "title": "Built for Highway 50 Corporate Parks & Mather Flex Facilities",
+      "body": "Whether you manage a 15,000 sq ft corporate floor in Prospect Park or a light-industrial facility off Kilgore Road, our Price Receipt calculator gives you an instant budgetary range before a 20-minute on-site Benchmark Audit."
+    },
+    "localFaqs": [
+      {
+        "q": "Do you clean large corporate offices in Prospect Park and along White Rock Road?",
+        "a": "Yes. We service multi-tenant and single-tenant offices across Prospect Park, Capital Center Drive, Kilgore Road, and Zinfandel Drive, with custom programs for spaces over 25,000 sq ft."
+      },
+      {
+        "q": "Can general contractors hire you for TI post-construction cleaning in Rancho Cordova?",
+        "a": "Yes—Rancho Cordova has constant office-to-medical and flex tenant improvements, and we provide fast-turnaround Rough, Final, and Touch-Up cleaning with same-day COI delivery."
+      },
+      {
+        "q": "Do you provide restroom paper supplies and soap for Rancho Cordova offices?",
+        "a": "Yes, we can manage and restock your restroom paper towels, bath tissue, seat covers, trash liners, and hand soap automatically under PT. 13."
+      }
+    ]
+  },
+  {
+    "slug": "carmichael",
+    "name": "Carmichael",
+    "county": "Sacramento County",
+    "tier": 2,
+    "zips": ["95608"],
+    "distanceFromRocklin": "15 miles southwest via I-80 & Madison/Manzanita Ave",
+    "responseTime": "25–30 minutes from Rocklin HQ",
+    "districts": [
+      "Coyle Avenue & Manzanita Avenue medical/dental corridor (near Mercy San Juan Medical Center)",
+      "Fair Oaks Boulevard & Marconi Avenue professional, banking & retail plazas",
+      "Madison Avenue & Winding Way clinics, daycares, and office suites",
+      "Garfield Avenue & Arden-border commercial properties"
+    ],
+    "nearbyCities": ["citrus-heights", "fair-oaks", "sacramento", "rancho-cordova"],
+    "intro": "Anchored by the healthcare cluster around Mercy San Juan Medical Center on Coyle Avenue and the commercial spine of Fair Oaks Boulevard and Manzanita Avenue, Carmichael is home to dozens of outpatient medical practices, dental offices, senior-care administrative offices, preschools, and churches. Many Carmichael medical and professional buildings were built between the 1970s and 2000s, meaning older tile grout, restroom floor drains, and high-traffic carpet require deeper mechanical care than a quick dust-mop provides. Our Carmichael teams follow our 42-point inspection protocol—including enzymatic grout and drain care (PT. 15) and hospital-grade surface disinfection—verified with photos every visit and backed by our 30-Day Walkaway Guarantee so clinic managers and building owners get consistent medical-grade hygiene without long-term vendor lock-in or missed restroom checks.",
+    "proof": {
+      "type": "faq_answer",
+      "title": "Specialists in Coyle Ave & Manzanita Medical Suites",
+      "body": "Medical practices near Mercy San Juan rely on our color-coded microfiber isolation and documented EPA List N dwell times to keep exam rooms and patient restrooms inspection-ready."
+    },
+    "localFaqs": [
+      {
+        "q": "Do you clean medical and dental suites near Mercy San Juan on Coyle Avenue?",
+        "a": "Yes. Coyle Avenue, Dewey Drive, and Manzanita Avenue are core healthcare stops for our evening clinical cleaning crews."
+      },
+      {
+        "q": "Can you help restore older restroom tile odors in Carmichael office buildings?",
+        "a": "Yes—under PT. 08 and PT. 15, we descale porcelain fixtures, scrub urinal/toilet grout lines with enzymatic cleaner, and prime dry floor drains that cause persistent restroom odors."
+      },
+      {
+        "q": "Do you also offer residential house cleaning in Carmichael (95608)?",
+        "a": "Yes, our residential team serves Carmichael neighborhoods along Fair Oaks Blvd, American River Drive, and Ancil Hoffman Park."
+      }
+    ]
+  },
+  {
+    "slug": "fair-oaks",
+    "name": "Fair Oaks",
+    "county": "Sacramento County",
+    "tier": 2,
+    "zips": ["95628"],
+    "distanceFromRocklin": "13 miles south via Sunrise Blvd / Greenback Ln",
+    "responseTime": "25 minutes down Sunrise Blvd",
+    "districts": [
+      "Sunrise Boulevard & Madison Avenue commercial and medical offices",
+      "Hazel Avenue & Winding Way professional suites, veterinary clinics & preschools",
+      "Fair Oaks Village boutique offices and community facilities",
+      "Greenback Lane border retail and financial branches"
+    ],
+    "nearbyCities": ["citrus-heights", "carmichael", "folsom", "rancho-cordova"],
+    "intro": "Directly south of Citrus Heights along the Sunrise Boulevard and Hazel Avenue corridors, Fair Oaks features busy dental and orthodontic practices, CPA and wealth-management offices, licensed preschools, and boutique village businesses alongside established residential neighborhoods. Because our routes run straight down Sunrise Boulevard and Hazel Avenue from Placer County every afternoon and evening, Fair Oaks businesses get consistent crew assignments and supervisor oversight without paying big-city agency overhead. Every commercial visit is backed by our 42-point inspection checklist, CRI-approved HEPA filtration, color-coded microfiber isolation, and our 30-Day Walkaway Guarantee so your Fair Oaks office, clinic, or retail suite stays spotless without a restrictive long-term lock-in contract, while our residential teams serve homeowners across ZIP code 95628 every single week of the year.",
+    "proof": {
+      "type": "faq_answer",
+      "title": "Consistent Sunrise & Hazel Corridor Coverage",
+      "body": "Fair Oaks sits directly on our daily Sunrise Blvd / Hazel Ave route between Roseville/Citrus Heights and Rancho Cordova/Folsom."
+    },
+    "localFaqs": [
+      {
+        "q": "Do you clean dental, optometry, and professional offices along Sunrise Blvd in Fair Oaks?",
+        "a": "Yes—we service professional and clinical suites along Sunrise Blvd, Madison Ave, Winding Way, and Hazel Ave on 1x to 5x weekly schedules."
+      },
+      {
+        "q": "Do you provide recurring house cleaning in Fair Oaks (95628)?",
+        "a": "Yes, homeowners in Fair Oaks can get an instant price range online using our House Cleaning Calculator and request weekly, biweekly, or deep cleaning."
+      },
+      {
+        "q": "What if we only need our Fair Oaks office cleaned once or twice a week?",
+        "a": "1x and 2x weekly programs are our Essential tier sweet spot for smaller 1,500–3,500 sq ft Fair Oaks offices."
+      }
+    ]
+  },
+  {
+    "slug": "elk-grove",
+    "name": "Elk Grove",
+    "county": "Sacramento County",
+    "tier": 2,
+    "zips": ["95624", "95757", "95758"],
+    "distanceFromRocklin": "34 miles south via I-80 to Hwy 99 / I-5",
+    "responseTime": "45 minutes scheduled route coverage",
+    "districts": [
+      "Laguna Boulevard & Big Horn Boulevard medical, dental, and corporate centers",
+      "Elk Grove Boulevard & Auto Center Drive showrooms and professional plazas",
+      "Grant Line Road & Waterman Road industrial, logistics, and flex parks",
+      "Bruceville Road healthcare and outpatient clinical corridor"
+    ],
+    "nearbyCities": ["sacramento", "rancho-cordova", "west-sacramento"],
+    "intro": "Elk Grove's commercial footprint has surged across Laguna Boulevard, Big Horn Boulevard, Bruceville Road's expanding medical campuses, and the Grant Line Road industrial corridor. Facility managers in Elk Grove overseeing multi-provider medical buildings, pediatric dental practices, large childcare centers, and corporate showrooms need a janitorial partner whose quality doesn't vanish when no one is watching at 10:00 PM. Debra's Classic Cleaning solves remote management anxiety with our 42-point protocol: our crew lead photographs completed zones before leaving your Elk Grove lot, verifies door lockups and alarm panels under PT. 41, and delivers a monthly facility scorecard so you always know where your building stands without having to inspect restrooms yourself every morning before patients, parents, tenants, and staff arrive for the day.",
+    "proof": {
+      "type": "faq_answer",
+      "title": "Photo-Verified Accountability for Laguna & Bruceville Facilities",
+      "body": "You never have to guess if the night crew showed up at your Laguna Blvd or Bruceville Rd clinic—PT. 42 delivers timestamped photo verification after every visit."
+    },
+    "localFaqs": [
+      {
+        "q": "Do you clean medical offices and clinics along Laguna Blvd and Bruceville Rd in Elk Grove?",
+        "a": "Yes, we service medical, dental, urgent care, and professional buildings in ZIP codes 95758, 95757, and 95624."
+      },
+      {
+        "q": "What is the minimum commercial cleaning frequency or size in Elk Grove?",
+        "a": "In Elk Grove, our commercial programs start at our standard monthly minimum ($650/month) for offices, clinics, daycares, and post-construction turnarounds."
+      },
+      {
+        "q": "Can you handle post-construction final cleaning for new retail and medical builds in Elk Grove?",
+        "a": "Yes—we work with Sacramento-area general contractors on new tenant improvements along Ridgeway, Big Horn, and Elk Grove Blvd."
+      }
+    ]
+  },
+  {
+    "slug": "west-sacramento",
+    "name": "West Sacramento",
+    "county": "Yolo County",
+    "tier": 2,
+    "zips": ["95605", "95691"],
+    "distanceFromRocklin": "25 miles southwest via I-80",
+    "responseTime": "35–40 minutes down I-80",
+    "districts": [
+      "Riverside Parkway & Reed Avenue distribution, life-science & industrial park",
+      "Industrial Boulevard, Harbor Boulevard & Port of West Sacramento logistics zone",
+      "West Capitol Avenue & Bridge District modern corporate and municipal offices",
+      "Southport Town Center retail, dental & medical plazas"
+    ],
+    "nearbyCities": ["sacramento", "davis", "woodland"],
+    "intro": "Situated directly at the junction of I-80 and Highway 50 across the river from Downtown Sacramento, West Sacramento is Yolo County's powerhouse for distribution centers, food/beverage and life-science facilities along Riverside Parkway and Industrial Boulevard, as well as modern corporate offices in the Bridge District and medical plazas in Southport. In industrial and distribution headquarters, warehouse tire dust and heavy shift traffic punish front offices, driver check-in counters, and multi-stall locker rooms. Debra's Classic Cleaning brings industrial-strength breakroom and restroom sanitation paired with Class-A front-office detailing to West Sacramento facilities—backed by WOSB/EDWOSB and California Small Business (Micro) certifications, photo-verified nightly checklists, and our 30-Day Walkaway Guarantee so logistics and property managers get reliable accountability on every single evening shift across Yolo County.",
+    "proof": {
+      "type": "faq_answer",
+      "title": "Built for Riverside Pkwy & Industrial Blvd Operations",
+      "body": "West Sacramento distribution and manufacturing managers hire us because we keep high-traffic driver restrooms and multi-shift breakrooms as spotless as the executive conference room."
+    },
+    "localFaqs": [
+      {
+        "q": "Do you clean administrative offices and locker rooms inside West Sacramento warehouses?",
+        "a": "Yes. Along Riverside Parkway, Reed Avenue, and Industrial Boulevard, we focus on the high-wear zones: administrative offices, driver lobbies, multi-shift breakrooms, and shop restrooms."
+      },
+      {
+        "q": "Are you certified for municipal, port, or state-contracted janitorial work in West Sacramento?",
+        "a": "Yes—Debra's Classic Cleaning LLC is registered in SAM.gov (CAGE 9Z5E9) and Cal eProcure as a Certified Small Business (Micro) and WOSB/EDWOSB under NAICS 561720."
+      },
+      {
+        "q": "Can we price just the office and restroom square footage of our West Sacramento facility?",
+        "a": "Yes! In our Commercial Calculator, simply enter the cleanable square footage of your offices, breakrooms, and restrooms (excluding racking space) to see an instant monthly range."
+      }
+    ]
+  },
+  {
+    "slug": "davis",
+    "name": "Davis",
+    "county": "Yolo County",
+    "tier": 2,
+    "zips": ["95616", "95618"],
+    "distanceFromRocklin": "35 miles west via I-80",
+    "responseTime": "40–45 minutes straight down I-80",
+    "districts": [
+      "Second Street, Mace Boulevard & Research Park Drive ag-tech, biotech & corporate offices",
+      "G Street, F Street & Downtown Davis professional, dental, and therapy suites",
+      "Sutter Davis Hospital perimeter & Covell Boulevard medical/dental clinics",
+      "Chiles Road & Olive Drive commercial and flex properties"
+    ],
+    "nearbyCities": ["west-sacramento", "woodland", "sacramento"],
+    "intro": "Davis facilities—from biotech, ag-tech, and engineering suites along Second Street, Research Park Drive, and Mace Boulevard to medical and dental clinics near Sutter Davis Hospital and professional offices Downtown—care deeply about indoor air quality, non-toxic chemistry, and verifiable execution. Debra's Classic Cleaning aligns naturally with Davis facility standards: our 42-point protocol relies on CRI-approved HEPA backpack vacuums that trap 99.97% of fine allergens down to 0.3 microns, color-coded microfiber flat-mopping that eliminates chemical runoff, and EPA Design for the Environment (DfE) green and hospital-grade disinfectants. Every visit is photo-verified by our background-checked team lead before locking up your suite, ensuring zero harsh chemical odors, spotless workspaces every morning, and full month-to-month flexibility under our 30-Day Walkaway Guarantee across ZIP codes 95616 and 95618.",
+    "proof": {
+      "type": "faq_answer",
+      "title": "Eco-Conscious HEPA & Microfiber Protocol for Davis Facilities",
+      "body": "For Davis clinics, preschools, and research offices that prohibit harsh volatile fragrances or bleach, we deploy fragrance-free EPA DfE hydrogen-peroxide disinfection and zero-residue microfiber care."
+    },
+    "localFaqs": [
+      {
+        "q": "Do you use eco-friendly, fragrance-free cleaning products for Davis offices and clinics?",
+        "a": "Yes. Upon request (and standard in all daycares), we use fragrance-free, EPA Design for the Environment (DfE) disinfectants and neutral floor cleaners with zero harsh VOCs."
+      },
+      {
+        "q": "Do you clean biotech/research offices on Second Street and Mace Blvd in Davis?",
+        "a": "Yes, we clean administrative suites, conference areas, breakrooms, and restrooms along the Second Street, Research Park, and Chiles Road corridors."
+      },
+      {
+        "q": "How do you verify work quality for Davis property managers?",
+        "a": "Every shift concludes with PT. 42: timestamped verification photos of completed zones uploaded by our crew lead, plus monthly scorecard reviews."
+      }
+    ]
+  },
+  {
+    "slug": "woodland",
+    "name": "Woodland",
+    "county": "Yolo County",
+    "tier": 2,
+    "zips": ["95695"],
+    "distanceFromRocklin": "33 miles west via I-80 to I-5",
+    "responseTime": "40 minutes via I-80 / I-5",
+    "districts": [
+      "East Main Street, Pioneer Avenue & E. Gibson Road industrial and distribution corridor",
+      "Cottonwood Street & Woodland Memorial Hospital medical/dental perimeter",
+      "Main Street & Court Street county seat legal, banking, and professional offices",
+      "Kentucky Avenue & Westucky industrial and ag-business headquarters"
+    ],
+    "nearbyCities": ["davis", "west-sacramento", "sacramento"],
+    "intro": "As the Yolo County seat and a major agricultural-industrial, food-processing, and distribution hub along I-5 and Highway 113, Woodland has a wide mix of commercial facilities: administrative headquarters and distribution breakrooms along East Main Street and Pioneer Avenue, medical and dental offices clustered near Cottonwood Street and Woodland Memorial Hospital, and legal and financial offices Downtown near the courthouse. Debra's Classic Cleaning provides Woodland facility managers with structured, insured commercial janitorial backed by a 42-point inspection checklist, certified WOSB/EDWOSB credentials, and timestamped photo verification on every visit so your team arrives to a clean building every morning without being tied down by a long-term janitorial contract or wondering whether the night crew locked the back doors and armed the alarm.",
+    "proof": {
+      "type": "faq_answer",
+      "title": "Accountable Commercial Cleaning Across Yolo County",
+      "body": "From Pioneer Avenue industrial offices to Cottonwood Street medical suites, our Woodland clients get the same 30-Day Walkaway Guarantee and 42-point scorecard as our Placer County neighbors."
+    },
+    "localFaqs": [
+      {
+        "q": "Do you clean industrial and ag-business offices on East Main Street and Pioneer Ave in Woodland?",
+        "a": "Yes—we specialize in keeping front offices, conference rooms, driver breakrooms, and shop restrooms clean in high-dust industrial environments."
+      },
+      {
+        "q": "Do you service medical and dental offices near Woodland Memorial Hospital?",
+        "a": "Yes, our clinical protocol covers exam rooms, waiting areas, and restrooms along Cottonwood Street and West Beamer Street."
+      },
+      {
+        "q": "Can Woodland businesses get a free on-site Facility Benchmark Audit?",
+        "a": "Yes. Book online in 60 seconds and we will walk your Woodland facility, score it across 42 points, and give you a written report and locked-in quote within 48 hours."
+      }
+    ]
+  }
+]

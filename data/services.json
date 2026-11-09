@@ -1,0 +1,322 @@
+{
+  "residentialServices": [
+    {
+      "slug": "standard-cleaning",
+      "name": "Standard House Cleaning",
+      "calcServiceType": "standard",
+      "shortDescription": "Consistent kitchen, bathroom, floor, and surface care for busy Rocklin, Roseville, and Granite Bay households.",
+      "heroImage": "/images/residential-granite-bay-home.png",
+      "primaryKeyword": "standard house cleaning Rocklin & Roseville",
+      "intro": "Standard House Cleaning is built for homeowners in Rocklin, Roseville, Granite Bay, Lincoln, and Folsom who want their kitchens, bathrooms, bedrooms, and floors reset to a crisp, hotel-clean baseline without spending their weekend scrubbing. We bring all commercial-grade HEPA vacuums, clean color-coded microfiber cloths (freshly laundered at 160°F before entering your home), and surface-safe cleaners for natural stone, quartz, and hardwood.",
+      "included": [
+        "Kitchen countertops, sink scrub & polish, stovetop degrease, microwave interior/exterior, and stainless appliance fronts",
+        "Bathrooms: toilets sanitized inside/out/base, glass shower doors descaled, tubs, vanities, mirrors edge-to-edge, and chrome fixtures polished",
+        "All rooms: flat surfaces damp-dusted, ceiling fans (within reach), window sills, beds made neatly, and trash emptied",
+        "Floors: HEPA vacuuming of all carpets, area rugs, and stairs plus microfiber damp-mopping of hardwood, tile, and LVP"
+      ],
+      "faqs": [
+        {
+          "q": "Do I need to be home during my standard cleaning?",
+          "a": "No—most of our Rocklin, Roseville, and Granite Bay homeowners give us a smart-lock code or lockbox key. Every technician is background-checked, bonded, and insured."
+        },
+        {
+          "q": "Are your cleaning products safe for pets, children, and marble/quartz counters?",
+          "a": "Yes. We use pH-neutral stone-safe cleaners and non-toxic, pet-safe solutions so there are no harsh bleach fumes or etched countertops."
+        },
+        {
+          "q": "How much does standard house cleaning cost?",
+          "a": "A typical 3-bedroom, 2-bathroom home in Rocklin or Roseville ranges from $155 to $230 per visit depending on frequency. Use our instant calculator to see your exact range in 60 seconds."
+        }
+      ]
+    },
+    {
+      "slug": "deep-cleaning",
+      "name": "Deep House Cleaning",
+      "calcServiceType": "deep",
+      "shortDescription": "Top-to-bottom hand-wiped baseboards, cabinet fronts, door frames, light fixtures, and heavy bathroom/kitchen detailing.",
+      "heroImage": "/images/residential-granite-bay-home.png",
+      "primaryKeyword": "deep house cleaning Roseville & Rocklin",
+      "intro": "Whether you are kicking off a new recurring cleaning schedule, hosting family for the holidays, or tackling six months of built-up Sierra foothill dust, our Deep House Cleaning goes beyond surface tidying. We add extra labor hours specifically for the hand-detailed woodwork, baseboards, cabinet fronts, and soap-scum removal that regular weekly tidying skips.",
+      "included": [
+        "Everything in our Standard Clean PLUS hand-wiping of all baseboards, door frames, door panels, and light switch plates",
+        "Full kitchen cabinet and bathroom vanity exterior degreasing including pulls and toe-kicks",
+        "Deep bathroom tile grout scrubbing, shower track detailing, and hard-water fixture descaling",
+        "Window blinds dusted slat-by-slat, interior window sills & tracks wiped, and under-furniture edge vacuuming"
+      ],
+      "faqs": [
+        {
+          "q": "Should I book a Deep Clean for my first visit?",
+          "a": "If your home hasn't been professionally cleaned in the last 45 days, starting with a Deep Clean lets our team bring baseboards, shower glass, and kitchen cabinetry up to our maintenance standard."
+        },
+        {
+          "q": "Can I add inside-oven or inside-refrigerator cleaning to a Deep Clean?",
+          "a": "Yes—you can toggle Inside Oven ($35), Inside Fridge ($35), or Interior Windows ($45) directly in our online calculator."
+        },
+        {
+          "q": "How long does a Deep House Cleaning take?",
+          "a": "A 2,200 to 3,200 sq ft home typically takes a two-person team 3.5 to 5 hours depending on condition and add-ons."
+        }
+      ]
+    },
+    {
+      "slug": "move-out-cleaning",
+      "name": "Move-In / Move-Out Cleaning",
+      "calcServiceType": "moveInOut",
+      "shortDescription": "Empty-home turnover cleaning inside cabinets, drawers, closets, appliances, and baseboards for maximum deposit return or listing photos.",
+      "heroImage": "/images/residential-granite-bay-home.png",
+      "primaryKeyword": "move out cleaning Rocklin & Roseville",
+      "intro": "Moving is exhausting enough without coming back at 9:00 PM to vacuum out kitchen drawers and scrub the oven. Our Move-In / Move-Out Cleaning is designed for empty homes, townhomes, and apartments across Placer and Sacramento counties—helping renters pass strict property-manager move-out inspections, sellers stage for MLS photography, and buyers sanitize every drawer before unpacking.",
+      "included": [
+        "Inside and outside of all empty kitchen and bathroom cabinets, drawers, and pantry shelves vacuumed and sanitized",
+        "Closet shelving, rods, baseboards, window tracks, and sliding glass door tracks detailed",
+        "Full bathroom disinfection, shower glass descaling, and kitchen sink/counter/backsplash degreasing",
+        "Optional one-click add-ons for Inside Oven, Inside Refrigerator, and Garage Sweep"
+      ],
+      "faqs": [
+        {
+          "q": "Does the home need to be completely empty for a Move-Out Clean?",
+          "a": "Yes, furniture and boxes should be removed and electricity/hot water must still be connected so our team can vacuum, mop, and sanitize inside every cabinet and closet."
+        },
+        {
+          "q": "Do you provide an itemized receipt for my landlord or property manager?",
+          "a": "Yes! Many Placer and Sacramento property management leases require proof of professional cleaning at move-out—we email you an itemized PDF receipt immediately."
+        },
+        {
+          "q": "What if my landlord or buyer points out a missed spot during the final walkthrough?",
+          "a": "Every Move-Out Clean is backed by our 24-Hour Re-Clean Guarantee—let us know within 24 hours and we return to fix the item free of charge."
+        }
+      ]
+    },
+    {
+      "slug": "recurring-cleaning",
+      "name": "Recurring House Cleaning (Weekly / Biweekly / Monthly)",
+      "calcServiceType": "standard",
+      "shortDescription": "Save 10% to 20% per visit with a locked-in recurring day, consistent crew, and zero contracts.",
+      "heroImage": "/images/residential-granite-bay-home.png",
+      "primaryKeyword": "recurring maid service Rocklin & Granite Bay",
+      "intro": "Our Recurring House Cleaning program gives you back your weekends with a predictable arrival window, the same familiar team lead who knows your home and pets, and automatic frequency discounts: save 20% on Weekly, 15% on Every-2-Weeks (our most popular choice), or 10% on Monthly visits.",
+      "included": [
+        "Automatic recurring discount: 20% off Weekly · 15% off Biweekly · 10% off Monthly",
+        "Rotational detail focus: after your initial clean, we rotate deep-detail tasks across bedrooms, living areas, and wet zones each visit",
+        "Dedicated background-checked team lead assigned to your home",
+        "Easy text-message rescheduling with 48 hours' notice and zero cancellation contracts"
+      ],
+      "faqs": [
+        {
+          "q": "What is the most popular recurring frequency in Rocklin and Roseville?",
+          "a": "Over 70% of our residential clients choose Every 2 Weeks (Biweekly), which balances a 15% per-visit discount with keeping bathrooms and floors effortlessly fresh."
+        },
+        {
+          "q": "How do you handle dogs and cats during recurring visits?",
+          "a": "We love pets! We note your pet names and gate/door instructions on your house profile, and our commercial HEPA vacuums excel at lifting pet hair from rugs and upholstery."
+        },
+        {
+          "q": "What if I need to skip or reschedule a visit when we go on vacation?",
+          "a": "Just text or call us 48 hours in advance and we will shift or skip your visit with zero penalty."
+        }
+      ]
+    },
+    {
+      "slug": "vacation-rental-cleaning",
+      "name": "Vacation Rental & Executive Housing Turnover",
+      "calcServiceType": "vacationRental",
+      "shortDescription": "Same-day 11 AM–3 PM guest turnovers, linen resets, restock checks, and damage photo reporting for Airbnb/VRBO and corporate rentals.",
+      "heroImage": "/images/residential-granite-bay-home.png",
+      "primaryKeyword": "vacation rental cleaning Folsom & Auburn",
+      "intro": "One stray hair in the shower or a missed coffee filter can drop a short-term rental from 4.95 stars to 4.2 overnight. We provide structured, checklist-driven turnovers for Airbnb, VRBO, and mid-term corporate/travel-nurse properties in Folsom, Auburn, Granite Bay, Loomis, Rocklin, and Roseville—complete with timestamped staging photos and low-supply alerts.",
+      "included": [
+        "Hotel-standard bathroom and kitchen sanitization between guest check-out and 3:00 PM check-in",
+        "Bed stripping, fresh linen making (plus optional wash/dry/fold add-on), and towel staging",
+        "Consumable restock check (coffee, paper goods, soaps) from your owner closet",
+        "Immediate photo report of any guest damage, missing items, or maintenance issues"
+      ],
+      "faqs": [
+        {
+          "q": "Can you meet the tight 11:00 AM to 3:00 PM check-out/check-in window?",
+          "a": "Yes—our turnover scheduling is built specifically around the 11:00 AM to 3:00 PM hospitality window, with photo confirmation sent the moment the lockbox is secured."
+        },
+        {
+          "q": "Do you wash linens on-site?",
+          "a": "Yes, you can add Laundry Wash & Fold ($25/load) or have us stage from your backup par-level linen set in the owner's closet."
+        },
+        {
+          "q": "Will you let me know if a guest left damage or smoked inside?",
+          "a": "Immediately. Before we start cleaning, our lead photographs any damages or rule violations so you have timestamped evidence for Airbnb AirCover or security deposit claims."
+        }
+      ]
+    }
+  ],
+  "addOns": [
+    {
+      "slug": "floor-stripping-waxing",
+      "name": "VCT Floor Stripping, Waxing & Hard-Floor Scrubbing",
+      "calcAddOnKey": "floorCare",
+      "priceSummary": "$250/mo amortized program or per-sqft project quote",
+      "shortDescription": "Machine scrubbing, old finish stripping, and 4-coat commercial high-solids waxing for VCT, LVT, quarry tile, and sealed concrete.",
+      "idealFor": ["Medical & Dental Clinics", "Daycares & Schools", "Retail Showrooms", "Grocery & Breakrooms"],
+      "body": "Daily mopping removes surface dirt, but high-traffic commercial Vinyl Composition Tile (VCT), Luxury Vinyl Tile (LVT), ceramic tile grout, and sealed concrete require periodic mechanical restoration. Our floor care crews strip yellowed, scuffed acrylic wax down to bare tile, neutralize the substrate pH, and apply 4 coats of slip-resistant UL-classified commercial floor finish—or low-moisture rotary scrub and recoat LVT and tile grout lines."
+    },
+    {
+      "slug": "window-cleaning",
+      "name": "Commercial Interior & Exterior Window Cleaning",
+      "calcAddOnKey": "windowsQuarterlyAmortized",
+      "priceSummary": "$90/mo quarterly amortized add-on",
+      "shortDescription": "Pure-water deionized exterior glass washing and squeegee interior partition detailing up to 2 stories.",
+      "idealFor": ["Class-A Offices", "Retail & Auto Showrooms", "Banks & Credit Unions", "Medical Plazas"],
+      "body": "While PT. 01 and PT. 26 of our nightly protocol cover entry door glass and interior conference room smudges every visit, our quarterly commercial window program cleans all perimeter exterior windows, transom glass, mullions, and high atrium glass using pure-water deionized water-fed poles that dry 100% spot-free."
+    },
+    {
+      "slug": "carpet-extraction",
+      "name": "Commercial Hot-Water & Low-Moisture Encapsulation Carpet Care",
+      "calcAddOnKey": "carpetQuarterlyAmortized",
+      "priceSummary": "$120/mo quarterly traffic-lane program",
+      "shortDescription": "Fast-drying commercial carpet extraction and encapsulation that removes traffic-lane graying without wick-back stains.",
+      "idealFor": ["Corporate Offices", "Banks & Financial Branches", "Churches & Sanctuaries", "Property Management Corridors"],
+      "body": "Commercial glue-down loop carpet traps abrasive silica grit and coffee oils that vacuuming alone cannot release. We combine hot-water extraction for heavy restorative cleans with low-moisture polymer encapsulation for quarterly traffic-lane maintenance—drying in under 90 minutes so offices never smell musty on Monday morning."
+    },
+    {
+      "slug": "day-porter-services",
+      "name": "Day Porter & Mid-Day Restroom / Lobby Attendant",
+      "calcAddOnKey": "dayPorterHour",
+      "priceSummary": "$42/hr billed on scheduled daytime shifts",
+      "shortDescription": "Uniformed daytime facility attendants keeping high-traffic restrooms stocked, lobbies spotless, and exterior entries litter-free.",
+      "idealFor": ["Multi-Tenant Office Buildings", "Medical Outpatient Campuses", "Large Daycares & Private Schools", "busy HOAs & Retail Plazas"],
+      "body": "When 200+ employees, patients, or visitors pass through your building between 8:00 AM and 5:00 PM, night cleaning alone isn't enough to prevent an overflowing restroom trash bin at 2:00 PM. Our uniformed, background-checked Day Porters work 2-to-8-hour daytime shifts restocking restrooms, wiping touchpoints, policing coffee stations, and keeping building entrances spotless."
+    },
+    {
+      "slug": "grounds-tidy",
+      "name": "Commercial Exterior Grounds Tidy & Entryway Policing",
+      "calcAddOnKey": "grounds",
+      "priceSummary": "$200/mo bundled exterior patrol",
+      "shortDescription": "Parking-lot litter sweep, exterior trash receptacle liner changes, cobweb removal, and dumpster-enclosure tidying.",
+      "idealFor": ["Property Managers", "Medical & Retail Plazas", "Banks", "Industrial Parks"],
+      "body": "Before a tenant or patient ever reaches your lobby door, they walk past your parking stalls, sidewalk planters, exterior ash/trash urns, and breezeway soffits. Our Grounds Tidy add-on pairs exterior walkway blowing/sweeping, cobweb knock-down around exterior lighting, exterior trash can relining, and dumpster corral policing with your regular janitorial schedule."
+    },
+    {
+      "slug": "consumables-restocking",
+      "name": "Restroom & Breakroom Consumables Management",
+      "calcAddOnKey": "suppliesPerVisit",
+      "priceSummary": "From $6/visit + wholesale paper/soap pass-through",
+      "shortDescription": "Automated inventory tracking and delivery of paper towels, bath tissue, seat covers, can liners, and foaming hand soap.",
+      "idealFor": ["Offices", "Medical & Dental Practices", "Daycares", "Property Management"],
+      "body": "Never make an emergency Costco run for paper towels again. Under PT. 13 of our protocol, our crew logs your paper towel, toilet tissue, seat cover, trash liner, and soap levels on every visit and automatically replenishes your supply closet with commercial-grade dispensers and refills on one consolidated monthly invoice."
+    }
+  ],
+  "costGuides": [
+    {
+      "slug": "commercial-cleaning-cost-sacramento",
+      "topic": "Commercial Cleaning",
+      "city": "Sacramento",
+      "title": "Commercial Cleaning Cost in Sacramento & Placer County (2026 Rate Guide)",
+      "primaryKeyword": "commercial cleaning cost Sacramento",
+      "directAnswer": "In Sacramento, Roseville, and Rocklin, professional commercial cleaning in 2026 typically costs between $0.11 and $0.28 per square foot per month for standard offices cleaned 1 to 3 times per week (or $650 to $2,450/month for a 3,000–8,000 sq ft facility), and $45 to $58 per billable labor hour. Medical clinics and daycares requiring hospital-grade or child-safe disinfection average 15% to 25% more due to lower square-foot-per-hour production rates.",
+      "tableRows": [
+        { "facility": "Small Professional Office (2,000 – 3,500 sq ft)", "frequency": "1x – 2x / week", "monthlyRange": "$650 – $1,150 / mo", "perVisit": "$75 – $140 / visit" },
+        { "facility": "Mid-Size Corporate Office (5,000 – 8,000 sq ft)", "frequency": "3x / week", "monthlyRange": "$1,550 – $2,350 / mo", "perVisit": "$120 – $180 / visit" },
+        { "facility": "Medical or Dental Clinic (3,000 – 6,000 sq ft)", "frequency": "3x – 5x / week", "monthlyRange": "$1,450 – $3,100 / mo", "perVisit": "$110 – $155 / visit" },
+        { "facility": "Licensed Daycare / Preschool (4,000 – 7,500 sq ft)", "frequency": "5x / week", "monthlyRange": "$2,100 – $3,600 / mo", "perVisit": "$95 – $165 / visit" },
+        { "facility": "Multi-Tenant Common Areas (10,000 – 20,000 sq ft)", "frequency": "3x – 5x / week", "monthlyRange": "$1,800 – $3,800 / mo", "perVisit": "$140 – $220 / visit" }
+      ],
+      "factors": [
+        "Restroom fixture density: Restrooms take ~15 minutes of dedicated sanitation per room (PT. 08–16), meaning a 4,000 sq ft clinic with 5 restrooms takes significantly longer than a 4,000 sq ft warehouse office with 1 restroom.",
+        "Floor surface mix: Hard floors (LVT, tile, concrete) require two separate passes—HEPA vacuuming plus damp microfiber mopping—compared to commercial carpet.",
+        "Facility compliance tier: Outpatient medical/dental clinics (EPA List N dwell times) and Title 22 daycares operate at 2,000–2,200 sq ft/hr production rates versus 3,000–3,500 sq ft/hr for standard offices."
+      ]
+    },
+    {
+      "slug": "office-cleaning-cost-roseville",
+      "topic": "Office Cleaning",
+      "city": "Roseville",
+      "title": "Office Cleaning Cost in Roseville & Rocklin, CA (2026 Pricing Breakdown)",
+      "primaryKeyword": "office cleaning cost Roseville",
+      "directAnswer": "Office cleaning in Roseville and Rocklin costs $650 to $1,200 per month for a 2,500–4,500 sq ft suite cleaned 1–2x weekly, and $1,450 to $2,300 per month for a 5,000–7,500 sq ft office cleaned 3x weekly along Douglas Blvd, Eureka Rd, or Stanford Ranch. Most Placer County offices price out between $45 and $52 per billable labor hour.",
+      "tableRows": [
+        { "facility": "Executive Suite (1,500 – 2,500 sq ft, 1–2 restrooms)", "frequency": "1x / week", "monthlyRange": "$650 – $800 / mo", "perVisit": "$150 – $185 / visit" },
+        { "facility": "Professional Office (3,500 – 5,000 sq ft, 2 restrooms)", "frequency": "2x / week", "monthlyRange": "$950 – $1,400 / mo", "perVisit": "$110 – $160 / visit" },
+        { "facility": "Corporate Floor (6,000 – 10,000 sq ft, 4 restrooms)", "frequency": "3x / week", "monthlyRange": "$1,650 – $2,600 / mo", "perVisit": "$125 – $200 / visit" },
+        { "facility": "Headquarters Building (12,000 – 20,000 sq ft)", "frequency": "5x / week", "monthlyRange": "$3,200 – $5,400 / mo", "perVisit": "$150 – $250 / visit" }
+      ],
+      "factors": [
+        "Breakroom & coffee station usage: Hybrid offices that cater lunches require heavier breakroom sink, microwave, and trash-liner servicing (PT. 17–22).",
+        "Interior conference glass: Modern Douglas Blvd and Lonetree offices with floor-to-ceiling glass partitions add 15–20 minutes of smudge detailing per visit.",
+        "After-hours vs. daytime scheduling: After-hours cleaning (after 6:00 PM) is our most efficient 1.0x rate because crews move unobstructed."
+      ]
+    },
+    {
+      "slug": "medical-office-cleaning-cost-sacramento",
+      "topic": "Medical & Dental Office Cleaning",
+      "city": "Sacramento",
+      "title": "Medical & Dental Office Cleaning Cost in Sacramento & Roseville (2026)",
+      "primaryKeyword": "medical office cleaning cost Sacramento",
+      "directAnswer": "Medical and dental office cleaning in Sacramento, Roseville, and Folsom typically ranges from $1,100 to $2,850 per month for a 2,500 to 6,000 sq ft practice cleaned 3 to 5 nights per week. Because exam rooms, dental operatories, and patient restrooms require hospital-grade EPA List N dwell times and color-coded microfiber isolation, clinical production rates average 2,000 sq ft per hour.",
+      "tableRows": [
+        { "facility": "4-Operatory Dental Practice (2,000 – 3,000 sq ft)", "frequency": "3x / week", "monthlyRange": "$1,050 – $1,550 / mo", "perVisit": "$80 – $120 / visit" },
+        { "facility": "7–10 Operatory Dental / Ortho Clinic (3,500 – 5,000 sq ft)", "frequency": "5x / week", "monthlyRange": "$1,850 – $2,650 / mo", "perVisit": "$85 – $122 / visit" },
+        { "facility": "Outpatient Medical Suite (4,000 – 7,000 sq ft, 4 restrooms)", "frequency": "5x / week", "monthlyRange": "$2,200 – $3,400 / mo", "perVisit": "$100 – $155 / visit" },
+        { "facility": "Multi-Specialty Clinic (8,000 – 15,000 sq ft)", "frequency": "5x / week", "monthlyRange": "$3,600 – $5,900 / mo", "perVisit": "$165 – $270 / visit" }
+      ],
+      "factors": [
+        "Exam room & operatory count: Each exam table, dental chair base, and handwashing sink requires wet-contact dwell time and dry polishing (PT. 10 & PT. 24).",
+        "Hard-floor percentage: Clinics with 80%+ sheet vinyl or LVT require single-zone microfiber flat-mop pad changes between rooms to prevent cross-contamination.",
+        "Overhead troffer & vent detailing: Reclined dental and exam patients look straight up at light fixtures and HVAC diffusers (PT. 28)."
+      ]
+    },
+    {
+      "slug": "post-construction-cleaning-cost-sacramento",
+      "topic": "Post-Construction Cleaning",
+      "city": "Sacramento",
+      "title": "Post-Construction Cleaning Cost Per Sq Ft in Sacramento & Roseville (2026)",
+      "primaryKeyword": "post construction cleaning cost Sacramento",
+      "directAnswer": "Commercial post-construction cleaning in Sacramento, Roseville, and Rocklin costs $0.22 to $0.45 per square foot for a single-phase Final Clean, or $0.40 to $0.75 per square foot for a bundled 3-Phase package (Rough Clean, Final Detail Clean, and pre-walkthrough Puff/Touch-Up Clean). Most 3,000 to 15,000 sq ft tenant improvement (TI) projects range from $1,200 to $6,500 total.",
+      "tableRows": [
+        { "facility": "Phase 1: Rough Clean (debris sweep, scraping, prep)", "frequency": "One-time phase", "monthlyRange": "$0.12 – $0.20 / sq ft", "perVisit": "Min. $650" },
+        { "facility": "Phase 2: Final Detail Clean (HEPA, glass stickers, fixtures)", "frequency": "One-time phase", "monthlyRange": "$0.22 – $0.45 / sq ft", "perVisit": "Min. $950" },
+        { "facility": "Phase 3: Puff / Touch-Up Clean (settled dust 24h pre-turnover)", "frequency": "One-time phase", "monthlyRange": "$0.10 – $0.16 / sq ft", "perVisit": "Min. $550" },
+        { "facility": "Bundled 3-Phase TI Package (Rough + Final + Puff)", "frequency": "Full turnover", "monthlyRange": "$0.40 – $0.75 / sq ft", "perVisit": "Custom Bid" }
+      ],
+      "factors": [
+        "Window & glass partition density: Removing manufacturer labels, silicone smudges, and drywall splatter from storefront and conference glass with wet stainless blades.",
+        "Floor type & drywall haze: New LVT and sealed concrete require dual dry HEPA vacuum passes before neutral-conditioner microfiber mopping.",
+        "Ceiling plenum & exposed ductwork: Open-ceiling industrial or creative offices require high-reach lift or extension dusting."
+      ]
+    },
+    {
+      "slug": "daycare-cleaning-cost-sacramento",
+      "topic": "Daycare & Preschool Cleaning",
+      "city": "Sacramento",
+      "title": "Daycare & Preschool Cleaning Cost in Sacramento, Citrus Heights & Roseville",
+      "primaryKeyword": "daycare cleaning cost Sacramento",
+      "directAnswer": "Licensed daycare and preschool cleaning in Sacramento, Citrus Heights, and Roseville typically costs $1,400 to $3,200 per month for a 3,500 to 7,500 sq ft center cleaned 5 nights per week (Monday–Friday), or $80 to $150 per nightly visit. Pricing accounts for child-height touchpoint disinfection (0–48 inches), toddler restroom descaling, and child-safe fragrance-free EPA DfE products.",
+      "tableRows": [
+        { "facility": "Boutique Preschool (2,500 – 4,000 sq ft, 2–3 toddler baths)", "frequency": "3x – 5x / week", "monthlyRange": "$1,250 – $2,100 / mo", "perVisit": "$85 – $110 / visit" },
+        { "facility": "Full Childcare Center (4,500 – 7,500 sq ft, 4–6 restrooms)", "frequency": "5x / week", "monthlyRange": "$2,150 – $3,250 / mo", "perVisit": "$100 – $150 / visit" },
+        { "facility": "Large Early Learning Campus (8,000 – 14,000 sq ft)", "frequency": "5x / week", "monthlyRange": "$3,400 – $5,200 / mo", "perVisit": "$155 – $240 / visit" }
+      ],
+      "factors": [
+        "Diaper & toddler restroom count: Low-mounted toilets, step-stools, and diaper pails require nightly virucidal disinfection and relining.",
+        "Play-yard sand & rug extraction: Classroom carpets where infants crawl require dual-direction HEPA vacuuming every evening (PT. 30).",
+        "Title 22 chemical compliance: Using certified non-toxic, fragrance-free disinfectants that leave zero harmful residue on food and mouthing surfaces."
+      ]
+    },
+    {
+      "slug": "house-cleaning-cost-rocklin",
+      "topic": "House Cleaning",
+      "city": "Rocklin",
+      "title": "House Cleaning Cost in Rocklin, Roseville & Granite Bay (2026 Price Guide)",
+      "primaryKeyword": "house cleaning cost Rocklin",
+      "directAnswer": "In Rocklin, Roseville, and Granite Bay, professional house cleaning in 2026 costs $145 to $235 per visit for recurring biweekly standard cleaning on a typical 3-to-4-bedroom home (1,800–2,800 sq ft). One-time Deep Cleaning ranges from $275 to $450, and empty-home Move-In/Move-Out cleaning ranges from $320 to $540 depending on bathrooms and add-ons.",
+      "tableRows": [
+        { "facility": "2 Bed / 2 Bath Home or Townhome (<1,500 sq ft)", "frequency": "Biweekly (15% off)", "monthlyRange": "$140 – $175 / visit", "perVisit": "$250 – $310 Deep Clean" },
+        { "facility": "3 Bed / 2.5 Bath Family Home (1,800 – 2,500 sq ft)", "frequency": "Biweekly (15% off)", "monthlyRange": "$170 – $220 / visit", "perVisit": "$310 – $395 Deep Clean" },
+        { "facility": "4 Bed / 3 Bath Home (2,500 – 3,500 sq ft)", "frequency": "Biweekly (15% off)", "monthlyRange": "$215 – $275 / visit", "perVisit": "$385 – $485 Deep Clean" },
+        { "facility": "5+ Bed Custom Estate in Granite Bay / Loomis (3,500+ sq ft)", "frequency": "Weekly (20% off)", "monthlyRange": "$245 – $340 / visit", "perVisit": "$475 – $640 Deep Clean" }
+      ],
+      "factors": [
+        "Frequency discount: Weekly visits save 20%, Biweekly visits save 15%, and Monthly visits save 10% compared to one-time rates because build-up is lighter.",
+        "Bathroom count: Kitchens and full bathrooms are the most labor-intensive rooms in any home ($30 per full bath, $15 per half bath in our calculator).",
+        "Optional detail add-ons: Inside oven ($35), inside refrigerator ($35), hand-wiped baseboards ($40), and interior windows ($45) can be toggled a la carte."
+      ]
+    }
+  ]
+}
+

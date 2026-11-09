@@ -1,0 +1,140 @@
+{
+  "_comment": "All rates are editable placeholders per PRD Section 5.4. Debra can update any rate here without a developer.",
+  "serviceZips": [
+    "95765", "95677", "95661", "95678", "95747", "95648", "95746", "95650", "95603",
+    "95630", "95610", "95621", "95608", "95628", "95670", "95742", "95624", "95757",
+    "95758", "95814", "95815", "95816", "95818", "95819", "95821", "95825", "95826",
+    "95827", "95831", "95833", "95834", "95835", "95864", "95605", "95691", "95616",
+    "95618", "95695", "95901", "95961", "95991"
+  ],
+  "zipToCity": {
+    "95765": "Rocklin",
+    "95677": "Rocklin",
+    "95661": "Roseville",
+    "95678": "Roseville",
+    "95747": "Roseville",
+    "95648": "Lincoln",
+    "95746": "Granite Bay",
+    "95650": "Loomis",
+    "95603": "Auburn",
+    "95630": "Folsom",
+    "95610": "Citrus Heights",
+    "95621": "Citrus Heights",
+    "95608": "Carmichael",
+    "95628": "Fair Oaks",
+    "95670": "Rancho Cordova",
+    "95742": "Rancho Cordova",
+    "95624": "Elk Grove",
+    "95757": "Elk Grove",
+    "95758": "Elk Grove",
+    "95814": "Sacramento",
+    "95815": "Sacramento",
+    "95816": "Sacramento",
+    "95818": "Sacramento",
+    "95819": "Sacramento",
+    "95821": "Sacramento",
+    "95825": "Sacramento",
+    "95826": "Sacramento",
+    "95827": "Sacramento",
+    "95831": "Sacramento",
+    "95833": "Sacramento",
+    "95834": "Sacramento",
+    "95835": "Sacramento",
+    "95864": "Sacramento",
+    "95605": "West Sacramento",
+    "95691": "West Sacramento",
+    "95616": "Davis",
+    "95618": "Davis",
+    "95695": "Woodland",
+    "95901": "Marysville",
+    "95961": "Olivehurst",
+    "95991": "Wheatland"
+  },
+  "residential": {
+    "base": 110,
+    "perBedroom": 22,
+    "perBathroom": 30,
+    "perHalfBath": 15,
+    "sqftAdjust": {
+      "under1500": 0,
+      "1500to2500": 25,
+      "2500to3500": 60,
+      "over3500": 110
+    },
+    "serviceMultiplier": {
+      "standard": 1.0,
+      "deep": 1.6,
+      "moveInOut": 1.85,
+      "vacationRental": 1.15
+    },
+    "conditionMultiplier": {
+      "wellKept": 1.0,
+      "average": 1.1,
+      "extraLove": 1.3
+    },
+    "frequencyDiscount": {
+      "weekly": 0.2,
+      "biweekly": 0.15,
+      "monthly": 0.1,
+      "oneTime": 0
+    },
+    "petSurcharge": 15,
+    "addOns": {
+      "oven": { "label": "Inside oven deep degrease", "price": 35 },
+      "fridge": { "label": "Inside refrigerator & gasket sanitize", "price": 35 },
+      "interiorWindows": { "label": "Interior windows & tracks", "price": 45 },
+      "cabinets": { "label": "Inside kitchen & bath cabinets", "price": 50 },
+      "baseboards": { "label": "Full-home baseboards hand-wipe", "price": 40 },
+      "laundryLoad": { "label": "Laundry wash, dry & fold (1 load)", "price": 25 },
+      "garageSweep": { "label": "Garage sweep & cobweb clear", "price": 30 }
+    },
+    "minimumVisit": 140,
+    "rangeLow": 0.9,
+    "rangeHigh": 1.1,
+    "roundTo": 5
+  },
+  "commercial": {
+    "billableRate": 48,
+    "productionRateSqftPerHour": {
+      "office": 3000,
+      "medical": 2000,
+      "daycare": 2200,
+      "retail": 3500,
+      "gym": 2500,
+      "church": 3800,
+      "warehouse": 5500,
+      "commonAreas": 3200
+    },
+    "floorMixFactor": {
+      "carpet": 1.0,
+      "mixed": 0.92,
+      "hard": 0.85
+    },
+    "minutesPerRestroom": 15,
+    "timeOfDayMultiplier": {
+      "afterHours": 1.0,
+      "earlyMorning": 1.05,
+      "businessHours": 1.1
+    },
+    "addOnsMonthly": {
+      "suppliesPerVisit": 6,
+      "floorCare": 250,
+      "windowsQuarterlyAmortized": 90,
+      "dayPorterHour": 42,
+      "carpetQuarterlyAmortized": 120,
+      "grounds": 200
+    },
+    "weeksPerMonth": 4.33,
+    "monthlyMinimum": 650,
+    "customAboveSqft": 25000,
+    "customAboveVisits": 5,
+    "rangeLow": 0.88,
+    "rangeHigh": 1.12,
+    "roundTo": 25,
+    "tierThresholds": {
+      "essentialMaxVisits": 2,
+      "inspectionReadyTypes": ["medical", "daycare"]
+    }
+  }
+}
+

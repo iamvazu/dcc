@@ -1,0 +1,42 @@
+services:
+  dcc-backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: dcc-backend
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+      - PORT=4000
+      - DATA_DIR=/data
+    ports:
+      - "4000:4000"
+    volumes:
+      - dcc_backend_data:/data
+    networks:
+      - dcc-network
+
+  dcc-frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: dcc-frontend
+    restart: unless-stopped
+    depends_on:
+      - dcc-backend
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+      - HOSTNAME=0.0.0.0
+      - BACKEND_INTERNAL_URL=http://dcc-backend:4000
+    ports:
+      - "3000:3000"
+    networks:
+      - dcc-network
+
+volumes:
+  dcc_backend_data:
+
+networks:
+  dcc-network:
+    driver: bridge

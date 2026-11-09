@@ -1,0 +1,398 @@
+{
+  "protocolName": "Debra's 42-Point Facility Inspection Protocol",
+  "version": "2026.4",
+  "verificationMethod": "Photo-verified via supervisor tablet every visit; scored monthly during Facility Benchmark Audit.",
+  "zones": [
+    {
+      "id": "entry",
+      "label": "Entry & Reception",
+      "code": "ZN-01",
+      "pointRange": "PT. 01 – PT. 07",
+      "summary": "First-impression surfaces where patients, tenants, and visitors judge facility hygiene within 10 seconds.",
+      "points": [
+        {
+          "number": "PT. 01",
+          "id": 1,
+          "title": "Interior & exterior entry door glass full-height degrease",
+          "standard": "Zero fingerprints, push-plate smudges, or streak lines visible at a 45-degree daylight angle up to 84 inches.",
+          "photoVerified": true,
+          "criticalFor": ["office", "medical-office", "dental-office", "retail-showroom", "bank-credit-union"]
+        },
+        {
+          "number": "PT. 02",
+          "id": 2,
+          "title": "Door thresholds, mullions, and weather-strip track vacuuming",
+          "standard": "Aluminum door tracks cleared of grit, leaves, and compacted dust; anodizing wiped damp with neutral cleaner.",
+          "photoVerified": false,
+          "criticalFor": ["property-management", "retail-showroom", "post-construction"]
+        },
+        {
+          "number": "PT. 03",
+          "id": 3,
+          "title": "Walk-off mats vacuumed dual-direction & edges squared",
+          "standard": "Dual-pass HEPA vacuuming; zero curled corners or trip hazards; floor underneath damp-mopped before mat reset.",
+          "photoVerified": false,
+          "criticalFor": ["office", "daycare-preschool", "property-management", "gym-fitness"]
+        },
+        {
+          "number": "PT. 04",
+          "id": 4,
+          "title": "Reception counter, check-in kiosk & clipboard sanitization",
+          "standard": "EPA List N disinfectant applied with full manufacturer dwell time on transaction ledges, pens, and tablet screens.",
+          "photoVerified": true,
+          "criticalFor": ["medical-office", "dental-office", "daycare-preschool", "bank-credit-union"]
+        },
+        {
+          "number": "PT. 05",
+          "id": 5,
+          "title": "Waiting room seating upholstery, arms & under-cushion check",
+          "standard": "Vinyl/leather wiped with non-cracking disinfectant; fabric vacuumed with crevice tool; chair legs wiped free of scuff marks.",
+          "photoVerified": false,
+          "criticalFor": ["medical-office", "dental-office", "church"]
+        },
+        {
+          "number": "PT. 06",
+          "id": 6,
+          "title": "Directory board, ADA signage & badge reader sanitization",
+          "standard": "Microfiber detail on suite plaques, Braille tactile dots, and security fob readers without abrasive chemicals.",
+          "photoVerified": false,
+          "criticalFor": ["property-management", "office", "bank-credit-union"]
+        },
+        {
+          "number": "PT. 07",
+          "id": 7,
+          "title": "Lobby baseboards, window sills & architectural ledges",
+          "standard": "Hand-wiped damp (never feather-dusted into the air) to remove settled pollen and HVAC dust.",
+          "photoVerified": true,
+          "criticalFor": ["office", "medical-office", "dental-office", "post-construction"]
+        }
+      ]
+    },
+    {
+      "id": "restrooms",
+      "label": "Restrooms & Wet Zones",
+      "code": "ZN-02",
+      "pointRange": "PT. 08 – PT. 16",
+      "summary": "The #1 source of tenant and patient complaints. Color-coded microfiber isolation prevents cross-contamination.",
+      "points": [
+        {
+          "number": "PT. 08",
+          "id": 8,
+          "title": "Toilets & urinals descaled inside bowl, under rim & base flange",
+          "standard": "Hospital-grade virucidal cleaner applied under rim, porcelain base bolts scrubbed, floor seal behind bowl sanitized.",
+          "photoVerified": true,
+          "criticalFor": ["medical-office", "dental-office", "daycare-preschool", "office", "property-management", "gym-fitness", "church"]
+        },
+        {
+          "number": "PT. 09",
+          "id": 9,
+          "title": "Flush valves, stall latches & ADA grab bars disinfected",
+          "standard": "Polished dry after disinfectant dwell time so chrome and brushed stainless show zero water spotting.",
+          "photoVerified": true,
+          "criticalFor": ["medical-office", "dental-office", "daycare-preschool", "property-management"]
+        },
+        {
+          "number": "PT. 10",
+          "id": 10,
+          "title": "Sinks, sensor faucets, aerators & underside of vanity aprons",
+          "standard": "Biofilm ring around drain collar and faucet base removed; soap buildup under dispenser nozzle cleared.",
+          "photoVerified": true,
+          "criticalFor": ["medical-office", "dental-office", "daycare-preschool", "office"]
+        },
+        {
+          "number": "PT. 11",
+          "id": 11,
+          "title": "Mirrors cleaned edge-to-edge including bottom channel",
+          "standard": "Zero lint or splash marks from bottom frame to top edge; checked with overhead restroom lighting on.",
+          "photoVerified": false,
+          "criticalFor": ["office", "retail-showroom", "gym-fitness"]
+        },
+        {
+          "number": "PT. 12",
+          "id": 12,
+          "title": "Partition walls, tops of stall doors & coat hooks wiped",
+          "standard": "Top horizontal edge of partitions dusted damp; both sides of stall doors degreased around latch zone.",
+          "photoVerified": false,
+          "criticalFor": ["property-management", "office", "church", "warehouse-industrial"]
+        },
+        {
+          "number": "PT. 13",
+          "id": 13,
+          "title": "Paper towel, tissue, seat cover & soap dispensers restocked & logged",
+          "standard": "Spare rolls placed correctly, dispenser exteriors sanitized, low-inventory threshold flagged on visit report.",
+          "photoVerified": true,
+          "criticalFor": ["office", "property-management", "medical-office", "daycare-preschool"]
+        },
+        {
+          "number": "PT. 14",
+          "id": 14,
+          "title": "Sanitary napkin receptacles emptied, disinfected & relined",
+          "standard": "Interior sprayed with hospital disinfectant, dried, and fitted with fresh wax/poly liner every single visit.",
+          "photoVerified": false,
+          "criticalFor": ["office", "medical-office", "property-management", "church"]
+        },
+        {
+          "number": "PT. 15",
+          "id": 15,
+          "title": "Floor drain trap priming & grout-line enzymatic scrub",
+          "standard": "Water/enzyme solution poured into floor drains to block sewer gas odors; grout around urinals scrubbed.",
+          "photoVerified": true,
+          "criticalFor": ["property-management", "gym-fitness", "warehouse-industrial", "office"]
+        },
+        {
+          "number": "PT. 16",
+          "id": 16,
+          "title": "Exhaust vent grilles vacuumed & restroom door kickplates polished",
+          "standard": "Ceiling exhaust louvers free of gray lint buildup; stainless kickplates wiped clean of shoe marks.",
+          "photoVerified": false,
+          "criticalFor": ["medical-office", "dental-office", "post-construction"]
+        }
+      ]
+    },
+    {
+      "id": "breakroom",
+      "label": "Breakroom & Kitchenette",
+      "code": "ZN-03",
+      "pointRange": "PT. 17 – PT. 22",
+      "summary": "Food-contact surfaces cleaned with green-coded cloths that never enter restrooms or clinical zones.",
+      "points": [
+        {
+          "number": "PT. 17",
+          "id": 17,
+          "title": "Countertops, backsplashes & coffee station degreased",
+          "standard": "Appliance cords lifted, coffee rings removed, food-safe sanitizing solution applied across all prep areas.",
+          "photoVerified": true,
+          "criticalFor": ["office", "medical-office", "bank-credit-union", "warehouse-industrial"]
+        },
+        {
+          "number": "PT. 18",
+          "id": 18,
+          "title": "Sink basin, strainer basket & gooseneck faucet sanitized",
+          "standard": "Food debris removed from strainer, stainless steel basin scoured with non-scratch pad and polished dry.",
+          "photoVerified": true,
+          "criticalFor": ["office", "daycare-preschool", "medical-office"]
+        },
+        {
+          "number": "PT. 19",
+          "id": 19,
+          "title": "Microwave interior roof, turntable & handle degreased",
+          "standard": "Splatter removed from upper cavity ceiling, glass turntable washed, keypad and pull handle disinfected.",
+          "photoVerified": true,
+          "criticalFor": ["office", "warehouse-industrial", "medical-office"]
+        },
+        {
+          "number": "PT. 20",
+          "id": 20,
+          "title": "Refrigerator handles, water dispenser drip tray & gasket wipe",
+          "standard": "Rubber door seals and handles sanitized; water/ice lever and catch tray emptied and descaled.",
+          "photoVerified": false,
+          "criticalFor": ["office", "daycare-preschool", "bank-credit-union"]
+        },
+        {
+          "number": "PT. 21",
+          "id": 21,
+          "title": "Breakroom tables, chair tops & lower cabinet faces",
+          "standard": "Sticky residue removed from table edges and chair backs; trash cabinet pull zone wiped free of drips.",
+          "photoVerified": false,
+          "criticalFor": ["office", "daycare-preschool", "warehouse-industrial"]
+        },
+        {
+          "number": "PT. 22",
+          "id": 22,
+          "title": "Food-waste & recycling bins emptied, interior wiped & relined",
+          "standard": "Exterior sides of bins checked for coffee/liquid drips; bin interior sanitized before new liner installation.",
+          "photoVerified": true,
+          "criticalFor": ["office", "property-management", "daycare-preschool"]
+        }
+      ]
+    },
+    {
+      "id": "workspaces",
+      "label": "Workspaces, Clinics & Exam Rooms",
+      "code": "ZN-04",
+      "pointRange": "PT. 23 – PT. 29",
+      "summary": "Zero disturbance to papers, monitors, or clinical instruments while sanitizing exposed work zones.",
+      "points": [
+        {
+          "number": "PT. 23",
+          "id": 23,
+          "title": "Cleared desk surfaces, conference tables & credenzas sanitized",
+          "standard": "Strict 'hands-off documents' rule: open desk areas, conference tables, and chair armrests wiped with microfiber.",
+          "photoVerified": true,
+          "criticalFor": ["office", "bank-credit-union", "property-management"]
+        },
+        {
+          "number": "PT. 24",
+          "id": 24,
+          "title": "Clinical exam tables, dental chair bases & operatory Cabinetry",
+          "standard": "EPA hospital-grade disinfectant with documented contact time on clinical cabinetry, light arms, and base pedals.",
+          "photoVerified": true,
+          "criticalFor": ["medical-office", "dental-office"]
+        },
+        {
+          "number": "PT. 25",
+          "id": 25,
+          "title": "Classroom low tables, cubbies & nap-mat storage sanitization",
+          "standard": "Fragrance-free, child-safe EPA DfE disinfectant applied to surfaces below 48 inches per CCL Title 22 standards.",
+          "photoVerified": true,
+          "criticalFor": ["daycare-preschool", "church"]
+        },
+        {
+          "number": "PT. 26",
+          "id": 26,
+          "title": "Interior glass partitions, sidelights & conference doors",
+          "standard": "Smudges and dry-erase ghosting removed from conference glass walls from 24 to 72 inches height.",
+          "photoVerified": false,
+          "criticalFor": ["office", "bank-credit-union", "retail-showroom", "post-construction"]
+        },
+        {
+          "number": "PT. 27",
+          "id": 27,
+          "title": "Desk-side waste & shred-adjacent recycling collection",
+          "standard": "All workstation bins emptied into closed collection carts; liners replaced whenever soiled or damp.",
+          "photoVerified": false,
+          "criticalFor": ["office", "medical-office", "bank-credit-union"]
+        },
+        {
+          "number": "PT. 28",
+          "id": 28,
+          "title": "High-dusting: ceiling corners, light troffers & HVAC supply vents",
+          "standard": "Extension microfiber dusters capture cobwebs and vent-ring soot before it drops onto desks or exam tables.",
+          "photoVerified": false,
+          "criticalFor": ["medical-office", "dental-office", "post-construction", "warehouse-industrial"]
+        },
+        {
+          "number": "PT. 29",
+          "id": 29,
+          "title": "Window blinds, mullions & perimeter convector covers",
+          "standard": "Slats dusted closed both directions; perimeter window ledges wiped clear of dead insects and dust.",
+          "photoVerified": false,
+          "criticalFor": ["office", "post-construction", "property-management"]
+        }
+      ]
+    },
+    {
+      "id": "floors",
+      "label": "Floors, Stairs & Baseboards",
+      "code": "ZN-05",
+      "pointRange": "PT. 30 – PT. 35",
+      "summary": "HEPA filtration and flat-mop microfiber systems that capture fine particulates instead of spreading dirty water.",
+      "points": [
+        {
+          "number": "PT. 30",
+          "id": 30,
+          "title": "Wall-to-wall commercial HEPA vacuuming (CRI Seal of Approval)",
+          "standard": "Backpack HEPA vacuums trap 99.97% of allergens down to 0.3 microns; slow overlapping passes on traffic lanes.",
+          "photoVerified": true,
+          "criticalFor": ["office", "medical-office", "daycare-preschool", "church", "bank-credit-union"]
+        },
+        {
+          "number": "PT. 31",
+          "id": 31,
+          "title": "Edges, corners & under-desk knee-space crevice detailing",
+          "standard": "Edger attachment run along baseboards, around chair casters, and underneath reception desks where rotary heads miss.",
+          "photoVerified": false,
+          "criticalFor": ["office", "dental-office", "post-construction"]
+        },
+        {
+          "number": "PT. 32",
+          "id": 32,
+          "title": "Hard-floor microfiber damp mopping with pH-neutral cleaner",
+          "standard": "Fresh flat-mop pad per zone (never string-mop dirty bucket water) on LVT, VCT, tile, sealed concrete, and hardwood.",
+          "photoVerified": true,
+          "criticalFor": ["medical-office", "dental-office", "daycare-preschool", "retail-showroom", "gym-fitness"]
+        },
+        {
+          "number": "PT. 33",
+          "id": 33,
+          "title": "Carpet spot treatment for coffee, toner & tracked asphalt",
+          "standard": "Immediate encapsulating spotter applied to fresh spills before stains set into commercial loop pile.",
+          "photoVerified": false,
+          "criticalFor": ["office", "property-management", "bank-credit-union", "church"]
+        },
+        {
+          "number": "PT. 34",
+          "id": 34,
+          "title": "Stairwell treads, risers, nosings & landing corners",
+          "standard": "Grit swept and vacuumed from rubber stair treads and metal nosings; handrail spindles wiped.",
+          "photoVerified": false,
+          "criticalFor": ["property-management", "office", "warehouse-industrial"]
+        },
+        {
+          "number": "PT. 35",
+          "id": 35,
+          "title": "Rubber & wood cove base detail wipe",
+          "standard": "Mop-splash marks and black heel scuffs removed from vinyl/rubber cove base along corridors.",
+          "photoVerified": true,
+          "criticalFor": ["medical-office", "dental-office", "post-construction", "retail-showroom"]
+        }
+      ]
+    },
+    {
+      "id": "touchpoints",
+      "label": "Touchpoints, Security & Closeout",
+      "code": "ZN-06",
+      "pointRange": "PT. 36 – PT. 42",
+      "summary": "High-frequency pathogen transfer points plus strict lock-up, alarm verification, and photo sign-off.",
+      "points": [
+        {
+          "number": "PT. 36",
+          "id": 36,
+          "title": "Door levers, panic bars, push plates & suite deadbolts",
+          "standard": "Every interior and exterior handle disinfected with hospital-grade virucide on every single visit.",
+          "photoVerified": true,
+          "criticalFor": ["medical-office", "dental-office", "daycare-preschool", "office", "property-management", "gym-fitness"]
+        },
+        {
+          "number": "PT. 37",
+          "id": 37,
+          "title": "Light switches, dimmer sliders, thermostat panels & alarm keypads",
+          "standard": "Damp microfiber sanitization around wall plates and shared conference room AV controls.",
+          "photoVerified": false,
+          "criticalFor": ["office", "medical-office", "daycare-preschool", "church"]
+        },
+        {
+          "number": "PT. 38",
+          "id": 38,
+          "title": "Elevator call buttons, cab handrails & stairwell railings",
+          "standard": "Full-length sanitization of handrails and stainless elevator control panels in multi-story buildings.",
+          "photoVerified": true,
+          "criticalFor": ["property-management", "office", "medical-office"]
+        },
+        {
+          "number": "PT. 39",
+          "id": 39,
+          "title": "Drinking fountains & bottle-filler stations descaled & sanitized",
+          "standard": "Spout guard, push bar, and basin sanitized and polished free of mineral scale.",
+          "photoVerified": false,
+          "criticalFor": ["gym-fitness", "daycare-preschool", "warehouse-industrial", "church"]
+        },
+        {
+          "number": "PT. 40",
+          "id": 40,
+          "title": "Janitor closet organization, chemical SDS binder & mop laundering",
+          "standard": "Soiled microfiber bagged for off-site 160°F laundering; bottles labeled; SDS sheet current; sink rinsed clean.",
+          "photoVerified": true,
+          "criticalFor": ["medical-office", "dental-office", "daycare-preschool", "property-management"]
+        },
+        {
+          "number": "PT. 41",
+          "id": 41,
+          "title": "Dumpster enclosure check, exterior doors locked & alarm armed",
+          "standard": "Trash bags sealed inside dumpster with lid closed; all perimeter doors physically pull-tested; alarm armed.",
+          "photoVerified": true,
+          "criticalFor": ["office", "medical-office", "bank-credit-union", "property-management", "retail-showroom"]
+        },
+        {
+          "number": "PT. 42",
+          "id": 42,
+          "title": "Timestamped photo scorecard submitted before vehicle leaves lot",
+          "standard": "Crew lead uploads required zone verification photos and flags any building maintenance issues (leaks, burnt bulbs).",
+          "photoVerified": true,
+          "criticalFor": ["office", "medical-office", "dental-office", "daycare-preschool", "property-management", "post-construction", "bank-credit-union", "gym-fitness", "church", "retail-showroom", "warehouse-industrial"]
+        }
+      ]
+    }
+  ]
+}
+
