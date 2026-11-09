@@ -91,12 +91,23 @@ Add a new object to `data/industries.json` with:
 
 ---
 
-## Deployment (Vercel)
+## Deployment (Docker & Hostinger VPS)
 
-1. Push this repository to GitHub/GitLab.
-2. Import into Vercel (Framework Preset: **Next.js**).
-3. Optional environment variables for live CRM/SMS:
-   - `HUBSPOT_PORTAL_ID` and `HUBSPOT_FORM_GUID`
-   - `TWILIO_ACCOUNT_SID`, `TWILIO_AUTH_TOKEN`, `TWILIO_FROM_NUMBER`
-4. Vercel will run `npm run build` (which runs `verify-pseo-quality.mjs` followed by `next build`).
+This project is containerized into two separate Docker services orchestrated by `docker-compose.yml`:
+1. **`dcc-frontend` (`Dockerfile`)**: Next.js 15 frontend container listening internally on port `3000` (mapped to host port `3040`).
+2. **`dcc-backend` (`backend/Dockerfile` & `backend/server.mjs`)**: Node 22 lead capture & health API container listening internally on port `4000` (mapped to host port `4040`), with persistent lead storage mounted at `/data/leads.json`.
+
+```bash
+# Build and start both containers in detached mode
+docker compose up -d --build
+
+# Check container status and health
+docker ps --filter "name=dcc-"
+curl http://localhost:4040/api/health
+```
+
+### Optional Environment Variables (CRM / SMS)
+- `HUBSPOT_PORTAL_ID` and `HUBSPOT_FORM_GUID`
+- `TWILIO_ACCOUNT_SID`, `TWILIO_AUTH_TOKEN`, `TWILIO_FROM_NUMBER`
+
 
