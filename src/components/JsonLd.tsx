@@ -4,17 +4,26 @@ import { cities, site } from "@/lib/data";
 export function SitewideLocalBusinessSchema() {
   const schema = {
     "@context": "https://schema.org",
-    "@type": ["LocalBusiness", "ProfessionalService"],
+    "@type": ["LocalBusiness", "ProfessionalService", "HomeAndConstructionBusiness"],
     "@id": `${site.website}/#localbusiness`,
     name: site.companyName,
     legalName: site.legalName,
+    description:
+      "Trusted residential house cleaning, maid service, office cleaning, and commercial janitorial services in Rocklin, Roseville, Granite Bay, Folsom, and Greater Sacramento.",
     url: site.website,
     telephone: site.phone,
     email: site.email,
     foundingDate: String(site.foundedYear),
     naics: "561720",
     priceRange: "$$",
-    image: `${site.website}/images/fleet-cx5-rocklin-dusk.png`,
+    image: [
+      `${site.website}/images/debras-logo.png`,
+      `${site.website}/images/debras-fleet-cx5-real.jpg`,
+      `${site.website}/images/commercial-clinic-inspection.png`,
+      `${site.website}/images/residential-granite-bay-home.png`,
+    ],
+    logo: `${site.website}/images/debras-logo.png`,
+    hasMap: "https://share.google/yJPkM6b3pJNb2c7ZT",
     address: {
       "@type": "PostalAddress",
       streetAddress: site.nap.streetAddress,
@@ -28,12 +37,80 @@ export function SitewideLocalBusinessSchema() {
       latitude: site.nap.geo.latitude,
       longitude: site.nap.geo.longitude,
     },
+    serviceArea: {
+      "@type": "GeoCircle",
+      geoMidpoint: {
+        "@type": "GeoCoordinates",
+        latitude: site.nap.geo.latitude,
+        longitude: site.nap.geo.longitude,
+      },
+      geoRadius: "45000",
+    },
     openingHoursSpecification: site.nap.openingHoursSpecification.map((oh) => ({
       "@type": "OpeningHoursSpecification",
       dayOfWeek: oh.dayOfWeek,
       opens: oh.opens,
       closes: oh.closes,
     })),
+    aggregateRating: {
+      "@type": "AggregateRating",
+      ratingValue: "5.0",
+      reviewCount: "43",
+      bestRating: "5",
+      worstRating: "1",
+    },
+    knowsAbout: [
+      "House Cleaning",
+      "Maid Service",
+      "Deep House Cleaning",
+      "Move-In Move-Out Cleaning",
+      "Recurring House Cleaning",
+      "Commercial Cleaning",
+      "Office Cleaning Services",
+      "Janitorial Services",
+      "Medical Office Cleaning",
+      "Dental Office Cleaning",
+      "Daycare & Preschool Cleaning",
+      "Post-Construction Cleaning",
+    ],
+    hasOfferCatalog: {
+      "@type": "OfferCatalog",
+      name: "Residential & Commercial Cleaning Services",
+      itemListElement: [
+        {
+          "@type": "Offer",
+          itemOffered: {
+            "@type": "Service",
+            name: "Residential House Cleaning & Maid Service",
+            url: `${site.website}/house-cleaning/`,
+          },
+        },
+        {
+          "@type": "Offer",
+          itemOffered: {
+            "@type": "Service",
+            name: "Deep House Cleaning & Move-Out Cleaning",
+            url: `${site.website}/house-cleaning/deep-cleaning/`,
+          },
+        },
+        {
+          "@type": "Offer",
+          itemOffered: {
+            "@type": "Service",
+            name: "Commercial Office & Janitorial Cleaning",
+            url: `${site.website}/commercial-cleaning/`,
+          },
+        },
+        {
+          "@type": "Offer",
+          itemOffered: {
+            "@type": "Service",
+            name: "Medical, Dental & Daycare Facility Sanitization",
+            url: `${site.website}/commercial-cleaning/medical-office/`,
+          },
+        },
+      ],
+    },
     areaServed: cities.map((c) => ({
       "@type": "City",
       name: `${c.name}, CA`,

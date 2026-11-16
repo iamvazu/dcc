@@ -31,6 +31,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/contact/",
     "/resources/",
     "/privacy/",
+    "/llms.txt",
+    "/llms-full.txt",
   ].map((route) => ({
     url: `${baseUrl}${route || "/"}`,
     lastModified: now,
