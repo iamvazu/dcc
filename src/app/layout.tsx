@@ -65,6 +65,21 @@ export default function RootLayout({
       lang="en"
       className={`${jakarta.variable} ${publicSans.variable} ${plexMono.variable}`}
     >
+      <head>
+        <script
+          async
+          src="https://www.googletagmanager.com/gtm.js?id=GTM-M5BHVJGS"
+        />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+`,
+          }}
+        />
+      </head>
       <body className="min-h-screen flex flex-col bg-paper text-ink antialiased">
         <SitewideLocalBusinessSchema />
         <a
