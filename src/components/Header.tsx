@@ -117,7 +117,7 @@ export function Header() {
                 : "text-ink hover:text-brand"
             }`}
           >
-            Our Protocol
+            Our Checklist
           </Link>
           <Link
             href="/government-contracting/"
@@ -247,17 +247,17 @@ export function Header() {
               </div>
             </div>
 
-            {/* Book a Benchmark Audit Card (3 cols) */}
+            {/* Book a Walkthrough Card (3 cols) */}
             <div className="col-span-3 bg-ink text-paper p-5 rounded-[4px] flex flex-col justify-between">
               <div>
                 <span className="font-mono text-[11px] uppercase tracking-widest text-flag font-bold">
-                  FREE ON-SITE AUDIT
+                  FREE 20-MIN WALKTHROUGH
                 </span>
                 <h3 className="font-display-wide text-lg text-paper mt-1">
-                  Find out what your facility actually scores.
+                  Get a custom quote for your office or clinic.
                 </h3>
                 <p className="text-xs text-paper/80 mt-2 leading-relaxed">
-                  20-minute walkthrough. We grade your building across 42 points and leave you the written report—yours to keep either way.
+                  We walk your space in 20 minutes, review your cleaning checklist, and send a flat-rate monthly quote with zero obligation.
                 </p>
               </div>
               <div className="mt-4 space-y-2">
@@ -266,7 +266,7 @@ export function Header() {
                   onClick={() => setOpenMenu(null)}
                   className="btn-report btn-brand btn-on-ink w-full text-xs"
                 >
-                  Book a Benchmark Audit
+                  Book Free Walkthrough
                 </Link>
                 <Link
                   href="/pricing/commercial-cleaning-calculator/"

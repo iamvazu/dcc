@@ -22,7 +22,7 @@ export function Footer() {
         <div className="lg:col-span-4 space-y-4">
           <BrandLogo lane="commercial" theme="dark" />
           <p className="text-sm text-paper/80 leading-relaxed max-w-sm">
-            Inspected-every-visit commercial janitorial and residential house cleaning across Placer, Sacramento, Yolo, and Yuba counties. Certified WOSB/EDWOSB and California Small Business (Micro).
+            Trusted local house cleaning, maid service, office cleaning, and commercial janitorial services across Placer, Sacramento, Yolo, and Yuba counties. Certified WOSB/EDWOSB and California Small Business (ID: 2040639).
           </p>
 
           {/* Exact GBP NAP Block */}

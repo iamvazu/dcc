@@ -6,9 +6,9 @@ import { ProtocolExplorer } from "@/components/ProtocolExplorer";
 import { protocol } from "@/lib/data";
 
 export const metadata: Metadata = {
-  title: "The 42-Point Facility Inspection Protocol | Debra's Classic Cleaning",
+  title: "Our 42-Point Cleaning Checklist | Debra's Classic Cleaning",
   description:
-    "Inspect all 42 checkpoints across 6 facility zones (Entry, Restrooms, Breakroom, Workspaces, Floors, Touchpoints) verified on every commercial cleaning visit.",
+    "See all 42 room-by-room cleaning tasks our local Rocklin teams complete and verify on every visit across restrooms, kitchens, offices, and floors.",
   alternates: {
     canonical: "/protocol/",
   },
@@ -19,23 +19,23 @@ export default function ProtocolPage() {
     <div className="divide-y-2 divide-ink">
       <section className="bg-paper py-10 sm:py-16">
         <div className="max-w-[1280px] mx-auto px-4 sm:px-6 space-y-8">
-          <Breadcrumbs items={[{ label: "Our 42-Point Protocol", href: "/protocol/" }]} />
+          <Breadcrumbs items={[{ label: "Our 42-Point Checklist", href: "/protocol/" }]} />
 
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-end">
             <div className="lg:col-span-8 space-y-3">
               <div className="text-xs font-bold uppercase tracking-wider text-brand">
-                Our 42-Point Cleaning Standard
+                Our Room-by-Room Cleaning Checklist
               </div>
               <h1 className="font-display-expanded text-fluid-h1 text-ink">
-                42 checkpoints. Every visit. Photo-verified.
+                See the exact 42 tasks we complete on every visit.
               </h1>
               <p className="text-lg text-ink/80 max-w-2xl leading-relaxed">
-                Vague promises like &ldquo;we clean thoroughly&rdquo; are worthless when an inspector or patient walks into your restroom. Here is the exact 42-point checklist our crews complete and our supervisors verify on site.
+                Instead of vague promises like &ldquo;we clean thoroughly,&rdquo; our teams follow a clear 42-point room-by-room checklist so your restrooms, kitchens, workspaces, and floors are spotless every single time.
               </p>
             </div>
             <div className="lg:col-span-4 flex flex-col gap-2.5">
-              <Link href="/benchmark-audit/" className="btn-report btn-brand text-sm">
-                Book Free 42-Point Facility Walkthrough
+              <Link href="/pricing/" className="btn-report btn-brand text-sm">
+                Get Instant Online Price →
               </Link>
               <Link
                 href="/resources/"

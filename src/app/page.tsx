@@ -19,9 +19,10 @@ import { FaqPageSchema } from "@/components/JsonLd";
 import { cities, industries, site } from "@/lib/data";
 
 export const metadata: Metadata = {
-  title: "Commercial Cleaning Rocklin & Roseville | Debra's Classic Cleaning",
+  title:
+    "House Cleaning & Commercial Cleaning in Rocklin, Roseville & Sacramento | Debra's Classic Cleaning",
   description:
-    "Inspected-every-visit commercial cleaning for offices, clinics and properties in Placer and Sacramento counties. Certified Women-Owned. Instant price online.",
+    "Trusted local house cleaning, maid service, office cleaning, and commercial janitorial services across Rocklin, Roseville, Granite Bay & Greater Sacramento. Certified Women-Owned. Get an instant price online in 60 seconds.",
   alternates: {
     canonical: "/",
   },
@@ -144,17 +145,17 @@ export default function HomePage() {
               <div className="relative z-10 space-y-3">
                 <div className="flex flex-wrap items-center justify-between gap-2">
                   <span className="text-xs uppercase tracking-wider text-flag font-bold bg-black/35 backdrop-blur-md px-3 py-1 rounded-full border border-white/15">
-                    Commercial Janitorial &amp; Facility Care
+                    Commercial &amp; Office Cleaning
                   </span>
                   <span className="text-xs text-white/90 bg-white/15 backdrop-blur-md px-3 py-1 rounded-full border border-white/15 font-medium">
                     1,000 – 50,000 sq ft
                   </span>
                 </div>
                 <h2 className="font-display-wide text-2xl sm:text-3xl text-white drop-shadow-xs pt-1">
-                  Manage a workplace or clinic? Explore commercial programs
+                  Commercial Janitorial &amp; Office Cleaning Services
                 </h2>
                 <p className="text-sm sm:text-base text-white/90 max-w-xl leading-relaxed">
-                  Tailored for medical &amp; dental offices, corporate suites, licensed daycares, multi-tenant property managers, and general contractors across Placer &amp; Sacramento counties.
+                  Dependable nightly and weekly cleaning for offices, medical &amp; dental clinics, daycares, retail spaces, and multi-tenant buildings across Rocklin, Roseville, and Sacramento.
                 </p>
               </div>
 
@@ -163,13 +164,13 @@ export default function HomePage() {
                   href="/commercial-cleaning/"
                   className="btn-report btn-brand btn-on-ink text-sm"
                 >
-                  Explore Commercial Services →
+                  Explore Commercial Cleaning →
                 </Link>
                 <Link
                   href="/pricing/commercial-cleaning-calculator/"
                   className="btn-report btn-paper text-sm"
                 >
-                  Commercial Price Calculator
+                  Instant Office Price Calculator
                 </Link>
               </div>
             </div>
@@ -191,17 +192,17 @@ export default function HomePage() {
               <div className="relative z-10 space-y-3">
                 <div className="flex flex-wrap items-center justify-between gap-2">
                   <span className="text-xs uppercase tracking-wider bg-white/20 backdrop-blur-md text-white px-3 py-1 rounded-full font-bold border border-white/25">
-                    Residential House Cleaning
+                    House Cleaning &amp; Maid Service
                   </span>
                   <span className="text-xs text-white font-semibold bg-black/25 backdrop-blur-md px-2.5 py-1 rounded-full">
                     Save up to 20% recurring
                   </span>
                 </div>
                 <h2 className="font-display-wide text-2xl sm:text-[26px] text-white drop-shadow-xs pt-1">
-                  Need your home cleaned? See instant home pricing
+                  Residential House Cleaning &amp; Deep Cleans
                 </h2>
                 <p className="text-sm text-white/95 leading-relaxed">
-                  Dedicated residential teams for Rocklin, Roseville, Granite Bay, Loomis, and Folsom homeowners. Standard, deep, and move-out cleans priced online in 60 seconds.
+                  Friendly, background-checked local teams for Rocklin, Roseville, Granite Bay, Loomis, and Folsom homes. Weekly, bi-weekly, deep cleaning, and move-out cleans priced online in 60 seconds.
                 </p>
               </div>
 
@@ -210,13 +211,13 @@ export default function HomePage() {
                   href="/house-cleaning/"
                   className="btn-report btn-ink text-sm"
                 >
-                  Explore Home Cleaning →
+                  Explore House Cleaning →
                 </Link>
                 <Link
                   href="/pricing/house-cleaning-calculator/"
                   className="btn-report btn-paper text-sm"
                 >
-                  Home Price Calculator
+                  Instant Home Price Calculator
                 </Link>
               </div>
             </div>
@@ -232,25 +233,25 @@ export default function HomePage() {
           {/* 6-col Left Problem Statement + Restroom Detail Photo */}
           <div className="lg:col-span-6 space-y-6">
             <div className="text-xs font-bold uppercase tracking-wider text-brand">
-              Why Facility Managers Switch
+              Why Local Businesses &amp; Homeowners Switch to Debra&apos;s
             </div>
             <h2 className="font-display-wide text-fluid-h2 text-ink">
-              Most cleaning fails quietly. You find out from a tenant, a patient, or an inspector.
+              Tired of cleaners who start strong for two weeks—and then start cutting corners?
             </h2>
             <p className="text-base text-ink/80 leading-relaxed">
-              Almost every commercial cleaner starts strong for the first two weeks. Then the supervisor disappears, night crews start skipping corners that aren&apos;t visible from the doorway, and you become the unpaid quality-control inspector—walking restrooms at 7:45 AM before patients or staff arrive.
+              Almost every cleaning company does a great job on day one. Then the communication fades, crews start rushing through bathrooms and kitchens, and you end up double-checking their work yourself. We built Debra&apos;s Classic Cleaning so you never have to chase your cleaner again.
             </p>
             <div className="border border-rule bg-white p-3 rounded-xl shadow-xs">
               <Image
                 src="/images/restroom-fixtures-gleaming.png"
-                alt="Spotless commercial restroom stainless steel faucets and quartz vanity after Debra's 42-point inspection"
+                alt="Spotless restroom stainless steel faucets and quartz vanity after Debra's Classic Cleaning visit"
                 width={640}
                 height={380}
                 className="w-full h-56 object-cover rounded-lg"
               />
               <div className="pt-2.5 px-1 flex items-center justify-between text-xs text-ink/70">
-                <span className="font-medium">Restroom Sanitation Standard (Zone 02)</span>
-                <span className="text-pass font-semibold">Descaled Fixtures &amp; Primed Drains</span>
+                <span className="font-medium">Restroom &amp; Bathroom Detailing</span>
+                <span className="text-pass font-semibold">Sanitized Fixtures &amp; Odor-Free Drains</span>
               </div>
             </div>
           </div>
@@ -258,31 +259,31 @@ export default function HomePage() {
           {/* 6-col Right Three Numbered Failure Points */}
           <div className="lg:col-span-6 border border-rule bg-white rounded-xl divide-y divide-rule/80 shadow-sm overflow-hidden">
             <div className="bg-ink text-paper px-6 py-3.5 text-xs font-semibold tracking-wide flex justify-between">
-              <span>Common Janitorial Breakdowns</span>
-              <span className="text-flag">How Our Protocol Solves Them</span>
+              <span>Common Cleaning Frustrations</span>
+              <span className="text-flag">How We Solve Them</span>
             </div>
 
             {[
               {
                 num: "01",
-                title: "Restrooms neglected between visits",
+                title: "Restrooms, kitchens & floors rushed through",
                 symptom:
-                  "Empty paper towel dispensers by Wednesday afternoon, calcified buildup around fixtures, and dry floor-drain traps letting sewer odors into the hallway.",
-                fix: "Descaled porcelain bases, weekly enzymatic drain priming, and logged supply restocking every visit.",
+                  "Empty paper towel dispensers, streaky mirrors, crumbs left on breakroom counters, and corners that only get a quick pass.",
+                fix: "Deep-cleaned fixtures, sanitized counters, HEPA-vacuumed floors, and restocked supplies every visit.",
               },
               {
                 num: "02",
-                title: "No supervisor checks the night crew's work",
+                title: "Nobody checks the work before leaving",
                 symptom:
-                  "Crews rush out in 35 minutes without wiping conference glass, dental chair bases, or breakroom appliances—leaving you to discover it Monday morning.",
-                fix: "Shift leads cannot clock out until timestamped room photos are submitted from our tablet checklist.",
+                  "Crews rush out without wiping glass doors, baseboards, or appliances—leaving you to discover missed spots the next morning.",
+                fix: "Our team lead follows a 42-point room-by-room checklist and takes completion photos before clocking out.",
               },
               {
                 num: "03",
-                title: "A different stranger with your building keys every month",
+                title: "A different stranger in your space every month",
                 symptom:
-                  "Franchise brokers sell your cleaning contract to sub-crews who rotate unvetted workers through your facility and forget to set the alarm.",
-                fix: "Dedicated, background-checked W-2 employees assigned to your route with photo-verified door lockup.",
+                  "Big franchises and brokers subcontract your home or office to rotating crews you don't know and can't reach.",
+                fix: "Our own background-checked, local Rocklin employees—plus direct access to Debra whenever you need anything.",
               },
             ].map((item) => (
               <div key={item.num} className="p-6 space-y-2">
@@ -294,7 +295,7 @@ export default function HomePage() {
                 </div>
                 <p className="text-sm text-ink/75 leading-relaxed">{item.symptom}</p>
                 <div className="text-xs text-pass font-semibold pt-2">
-                  Our Standard: {item.fix}
+                  Our Promise: {item.fix}
                 </div>
               </div>
             ))}
@@ -310,13 +311,13 @@ export default function HomePage() {
           <div className="flex flex-col lg:flex-row lg:items-end justify-between gap-4">
             <div>
               <div className="text-xs font-bold uppercase tracking-wider text-brand">
-                Our Cleaning Standard
+                Our Room-by-Room Checklist
               </div>
               <h2 className="font-display-wide text-fluid-h2 text-ink mt-1">
-                42 checkpoints. Every visit. Photo-verified.
+                See exactly what we clean on every visit.
               </h2>
               <p className="text-base text-ink/75 max-w-2xl mt-2">
-                Select any zone below to see the exact items our technicians complete and our route supervisors verify on site.
+                No vague promises. Click any area below to see the 42 specific tasks our cleaning teams complete and verify.
               </p>
             </div>
             <Link href="/protocol/" className="btn-report btn-paper text-sm shrink-0">
@@ -336,14 +337,14 @@ export default function HomePage() {
           <div className="flex flex-col lg:flex-row lg:items-end justify-between gap-4">
             <div>
               <div className="text-xs font-bold uppercase tracking-wider text-brand">
-                How Onboarding Works
+                Simple, Stress-Free Booking
               </div>
               <h2 className="font-display-wide text-fluid-h2 text-ink mt-1">
-                From walkthrough to your first verified clean in 4 days.
+                How we get your home or workplace spotless in 4 easy steps.
               </h2>
             </div>
             <p className="text-sm text-ink/75 max-w-md">
-              Watch how our 96-hour commercial launch process takes your building from initial 42-point walkthrough to your first photo-verified shift.
+              From your instant 60-second online estimate to your first sparkling clean, here is what to expect when you work with our Rocklin team.
             </p>
           </div>
 
@@ -359,14 +360,14 @@ export default function HomePage() {
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-end">
             <div className="lg:col-span-7">
               <div className="text-xs font-bold uppercase tracking-wider text-brand">
-                Specialized Facility Protocols
+                Commercial &amp; Janitorial Services
               </div>
               <h2 className="font-display-wide text-fluid-h2 text-ink mt-1">
-                11 facility types. Tailored checklists for each.
+                Custom cleaning plans for 11 workplace types.
               </h2>
             </div>
             <p className="lg:col-span-5 text-sm text-ink/75 leading-relaxed">
-              A dental operatory, a licensed preschool, and a corporate office shouldn&apos;t be cleaned with the same chemicals or routine. Select your facility type to see how we care for it:
+              A dental office, a daycare center, and a corporate suite each need their own cleaning routine and safe products. Select your workplace below to see what&apos;s included:
             </p>
           </div>
 
@@ -450,10 +451,10 @@ export default function HomePage() {
             <div className="lg:col-span-8 space-y-6">
               <div>
                 <div className="text-xs font-bold uppercase tracking-wider text-pass">
-                  No Long-Term Vendor Lock-In
+                  No Long-Term Contracts
                 </div>
                 <h2 className="font-display-wide text-fluid-h2 text-ink mt-1">
-                  We earn your building keys every month.
+                  We earn your business every single visit.
                 </h2>
               </div>
 
@@ -479,7 +480,7 @@ export default function HomePage() {
             limit={6}
             showHeader={true}
             eyebrow="Verified Google Business Profile & Yelp Reviews"
-            heading="Trusted by Placer & Sacramento facilities."
+            heading="Loved by Placer & Sacramento homeowners and businesses."
           />
         </div>
       </section>
@@ -651,20 +652,20 @@ export default function HomePage() {
       <section className="bg-ink text-paper py-16 sm:py-24">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 text-center space-y-6">
           <div className="text-xs font-bold uppercase tracking-wider text-flag">
-            Free 20-Minute Facility Walkthrough
+            Get Your Free Cleaning Estimate Today
           </div>
           <h2 className="font-display-expanded text-fluid-h2 text-paper">
-            Find out what your facility scores.
+            Ready for a spotless home or workplace?
           </h2>
           <p className="text-base sm:text-lg text-paper/80 max-w-xl mx-auto leading-relaxed">
-            We&apos;ll walk your building in 20 minutes, inspect all 6 zones across 42 checkpoints, and leave you the written Benchmark Report—yours to keep either way.
+            See your instant price online in 60 seconds with our home or commercial calculator—or book a free 20-minute walkthrough with Debra&apos;s team.
           </p>
           <div className="flex flex-wrap items-center justify-center gap-4 pt-2">
             <Link
-              href="/benchmark-audit/"
+              href="/pricing/"
               className="btn-report btn-brand btn-on-ink text-base px-7 py-4"
             >
-              Book a free walkthrough
+              Get Instant Online Price →
             </Link>
             <a
               href={`tel:${site.phoneRaw}`}
@@ -675,10 +676,10 @@ export default function HomePage() {
           </div>
           <div className="pt-2">
             <Link
-              href="/pricing/commercial-cleaning-calculator/"
+              href="/benchmark-audit/"
               className="text-sm text-paper/85 hover:text-flag underline"
             >
-              Or calculate an instant online estimate in 60 seconds →
+              Managing an office or clinic? Book a free 20-minute walkthrough →
             </Link>
           </div>
         </div>

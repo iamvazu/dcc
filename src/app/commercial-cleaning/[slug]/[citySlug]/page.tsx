@@ -41,8 +41,8 @@ export async function generateMetadata({
   if (!industry || !city) return {};
 
   return {
-    title: `${industry.name} Cleaning in ${city.name}, CA | Debra's`,
-    description: `42-point inspected ${industry.name.toLowerCase()} cleaning in ${city.name}, CA (${city.zips.join(", ")}). ${city.responseTime}. Certified WOSB. Instant price online.`,
+    title: `${industry.name} Cleaning Services in ${city.name}, CA | Debra's Classic Cleaning`,
+    description: `Reliable ${industry.name.toLowerCase()} cleaning and janitorial services in ${city.name}, CA (${city.zips.join(", ")}). Background-checked local crews. Get an instant price online in 60 seconds.`,
     alternates: {
       canonical: `/commercial-cleaning/${industry.slug}/${city.slug}-ca/`,
     },

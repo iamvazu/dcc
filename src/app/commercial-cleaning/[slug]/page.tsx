@@ -52,8 +52,8 @@ export async function generateMetadata({
     if (!city) return {};
     const indexable = passesCityQualityGate(city);
     return {
-      title: `Commercial Cleaning in ${city.name}, CA | Debra's Classic Cleaning`,
-      description: `42-point inspected commercial cleaning in ${city.name}, CA (${city.zips.join(", ")}). Serving offices, clinics & daycares. ${city.responseTime}. Instant price online.`,
+      title: `Commercial & Office Cleaning in ${city.name}, CA | Debra's Classic Cleaning`,
+      description: `Reliable commercial cleaning, office cleaning, and janitorial services in ${city.name}, CA (${city.zips.join(", ")}). Serving offices, medical clinics & daycares. Get an instant price online.`,
       alternates: {
         canonical: `/commercial-cleaning/${city.slug}-ca/`,
       },
@@ -363,7 +363,7 @@ function CommercialCityTemplate({ city }: { city: CityRecord }) {
                 </span>
               </div>
               <h1 className="font-display-expanded text-fluid-h1 text-ink">
-                Commercial Cleaning in {city.name}, CA.
+                Commercial &amp; Office Cleaning in {city.name}, CA.
               </h1>
               <p className="text-base sm:text-lg text-ink/85 leading-relaxed">
                 {city.intro}

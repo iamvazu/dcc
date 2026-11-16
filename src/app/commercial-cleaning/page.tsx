@@ -10,9 +10,10 @@ import { FaqPageSchema, ServiceSchema } from "@/components/JsonLd";
 import { addOns, cities, industries, site } from "@/lib/data";
 
 export const metadata: Metadata = {
-  title: "Commercial Cleaning Services Sacramento & Rocklin | Debra's",
+  title:
+    "Commercial Cleaning & Janitorial Services in Rocklin, Roseville & Sacramento | Debra's Classic Cleaning",
   description:
-    "42-point inspected commercial cleaning for offices, medical & dental clinics, daycares, and multi-tenant buildings in Placer and Sacramento counties. WOSB certified.",
+    "Dependable commercial cleaning, office cleaning, and janitorial services for offices, medical & dental clinics, daycares, and buildings across Placer & Sacramento counties. Instant online pricing.",
   alternates: {
     canonical: "/commercial-cleaning/",
   },
@@ -39,26 +40,26 @@ export default function CommercialHubPage() {
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
             <div className="lg:col-span-7 space-y-5">
               <div className="text-xs font-bold uppercase tracking-wider text-brand">
-                Commercial Facility Hub · NAICS 561720 · CAGE 9Z5E9
+                Commercial &amp; Janitorial Services · Locally Owned in Rocklin
               </div>
               <h1 className="font-display-expanded text-fluid-h1 text-ink">
-                Commercial Cleaning Services in Placer &amp; Sacramento Counties.
+                Commercial Cleaning &amp; Janitorial Services in Rocklin, Roseville &amp; Sacramento.
               </h1>
               <p className="text-lg text-ink/85 max-w-2xl leading-relaxed">
-                Every commercial building we maintain is cleaned to a 42-point inspection protocol, photo-verified via supervisor tablet before our crew leaves your lot, and backed by a 30-day walkaway guarantee.
+                Keep your office, medical clinic, daycare, or commercial building spotless every morning. Our background-checked local crews follow a 42-point room-by-room checklist, send photo proof after every shift, and never lock you into a long-term contract.
               </p>
               <div className="flex flex-wrap gap-3.5 pt-2">
                 <Link
-                  href="/benchmark-audit/"
+                  href="/pricing/commercial-cleaning-calculator/"
                   className="btn-report btn-brand text-base px-6 py-3.5"
                 >
-                  Book a Free Benchmark Audit
+                  Get Instant Price Online →
                 </Link>
                 <Link
-                  href="/pricing/commercial-cleaning-calculator/"
+                  href="/benchmark-audit/"
                   className="btn-report btn-paper text-base px-6 py-3.5"
                 >
-                  Get Instant Price Online
+                  Book a Free 20-Min Walkthrough
                 </Link>
               </div>
             </div>
@@ -66,14 +67,14 @@ export default function CommercialHubPage() {
             <div className="lg:col-span-5 border border-rule bg-white p-3 rounded-2xl shadow-sm">
               <Image
                 src="/images/commercial-clinic-inspection.png"
-                alt="Debra's Classic Cleaning supervisor verifying 42-point digital inspection checklist inside a clinical corridor"
+                alt="Debra's Classic Cleaning supervisor verifying quality checklist inside a commercial building"
                 width={560}
                 height={380}
                 className="w-full h-64 object-cover rounded-xl"
               />
               <div className="pt-3 px-1 flex items-center justify-between text-xs text-ink/75">
-                <span className="font-medium">Supervisor Tablet Verification</span>
-                <span className="text-pass font-bold">42 Checkpoints Logged</span>
+                <span className="font-medium">Supervisor Quality Check</span>
+                <span className="text-pass font-bold">Photo-Verified Every Visit</span>
               </div>
             </div>
           </div>
@@ -127,40 +128,40 @@ export default function CommercialHubPage() {
               <tbody className="divide-y divide-rule/70 text-xs sm:text-sm">
                 {[
                   {
-                    feature: "Entry glass, reception counter & lobby mats (PT. 01–07)",
+                    feature: "Entry glass, reception counter & lobby mats",
                     essential: "Every visit",
-                    standard: "Every visit + mullion detail",
-                    inspection: "Every visit + EPA List N kiosk dwell",
+                    standard: "Every visit + glass partition detailing",
+                    inspection: "Every visit + hospital-grade touchpoint sanitizing",
                   },
                   {
-                    feature: "Restroom descaling, fixtures & restock log (PT. 08–16)",
+                    feature: "Restroom toilets, sinks, mirrors & supply restocking",
                     essential: "Every visit",
-                    standard: "Every visit + weekly drain prime",
-                    inspection: "Hospital-grade virucidal + 4-color isolation",
+                    standard: "Every visit + weekly odor-free drain care",
+                    inspection: "Hospital-grade disinfection + color-coded cloths",
                   },
                   {
-                    feature: "Breakroom sinks, counters, microwave interior (PT. 17–22)",
+                    feature: "Breakroom sinks, counters, microwave & trash",
                     essential: "Every visit",
-                    standard: "Every visit + appliance degrease",
-                    inspection: "Food-safe sanitizer + daily liner swap",
+                    standard: "Every visit + appliance exterior wiping",
+                    inspection: "Food-safe surface sanitizing + daily liner swap",
                   },
                   {
-                    feature: "Workspaces, exam rooms or toddler zones (PT. 23–29)",
+                    feature: "Desks, conference rooms, exam rooms or classrooms",
                     essential: "Cleared desks & trash pull",
-                    standard: "Desks, conference glass & high-dusting",
-                    inspection: "Operatory chair bases / 0–48\" child-safe DfE",
+                    standard: "Desks, conference tables & high dusting",
+                    inspection: "Exam tables, dental chairs or child-safe classroom care",
                   },
                   {
-                    feature: "CRI HEPA vacuuming & microfiber flat-mopping (PT. 30–35)",
-                    essential: "Traffic lanes + full monthly",
+                    feature: "HEPA carpet vacuuming & hard-floor mopping",
+                    essential: "Main walkways + full monthly",
                     standard: "Wall-to-wall every visit + spot care",
-                    inspection: "Single-zone mop pad swap per room",
+                    inspection: "Fresh microfiber mop pad for every room",
                   },
                   {
-                    feature: "Alarm lockup check & photo scorecard (PT. 41–42)",
+                    feature: "Door lockup check, alarm set & photo confirmation",
                     essential: "Every visit",
-                    standard: "Every visit + monthly supervisor audit",
-                    inspection: "Every visit + biweekly audit + SDS binder log",
+                    standard: "Every visit + monthly supervisor walkthrough",
+                    inspection: "Every visit + bi-weekly supervisor walkthrough",
                   },
                 ].map((row, idx) => (
                   <tr key={idx} className={idx % 2 === 1 ? "bg-paper/60" : "bg-white"}>

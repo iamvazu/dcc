@@ -12,24 +12,24 @@ interface FixItem {
 
 const SAMPLE_FIXES: FixItem[] = [
   {
-    point: "PT. 08 & 15",
-    zone: "ZN-02 RESTROOMS",
-    issue: "Urinal base scale & dry P-trap odor",
-    resolution: "Descaled porcelain flange + primed floor drain trap",
+    point: "RESTROOMS & BREAKROOMS",
+    zone: "DEEP SANITATION",
+    issue: "Skipped paper refills, streaky mirrors & lingering odors",
+    resolution: "Sanitized toilets & sinks, odor-free drains & fully restocked supplies",
     delta: "+10 PTS",
   },
   {
-    point: "PT. 04 & 24",
-    zone: "ZN-04 CLINICAL / WORKSPACES",
-    issue: "Skipped dwell time on high-touch surfaces",
-    resolution: "EPA List N wet-contact verified + microfiber isolation",
+    point: "OFFICES, CLINICS & KITCHENS",
+    zone: "SURFACES & GLASS",
+    issue: "Dusty desks, smudged entry glass & rushed wipe-downs",
+    resolution: "Spotless counters, streak-free glass & sanitized high-touch surfaces",
     delta: "+9 PTS",
   },
   {
-    point: "PT. 41 & 42",
-    zone: "ZN-06 SECURITY CLOSEOUT",
-    issue: "Unverified lockup & no visit proof",
-    resolution: "Deadbolts pull-tested + 8 timestamped photos logged",
+    point: "FLOORS, KEYS & LOCKUP",
+    zone: "PEACE OF MIND",
+    issue: "Unvetted subcontractors & wondering if doors were locked",
+    resolution: "HEPA-vacuumed floors, locked doors & photo proof after every visit",
     delta: "+6 PTS",
   },
 ];

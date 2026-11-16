@@ -10,9 +10,10 @@ import { FaqPageSchema, ServiceSchema } from "@/components/JsonLd";
 import { cities, residentialServices } from "@/lib/data";
 
 export const metadata: Metadata = {
-  title: "House Cleaning Rocklin, Roseville & Granite Bay | Debra's",
+  title:
+    "House Cleaning & Maid Service in Rocklin, Roseville & Granite Bay | Debra's Classic Cleaning",
   description:
-    "Trusted house cleaning in Rocklin, Roseville, Granite Bay, and Folsom. See your instant price online in 60 seconds. Save up to 20% on recurring visits.",
+    "Trusted local house cleaning, maid service, deep cleaning, and move-out cleaning in Rocklin, Roseville, Granite Bay, and Folsom. Kid- & pet-safe products. Get an instant price online in 60 seconds.",
   alternates: {
     canonical: "/house-cleaning/",
   },
@@ -63,14 +64,14 @@ export default function ResidentialHubPage() {
               <div className="inline-flex items-center gap-2 rounded-full border border-rule bg-white px-3.5 py-1.5 shadow-2xs">
                 <span className="h-2 w-2 rounded-full bg-brand inline-block" />
                 <span className="text-xs font-semibold tracking-wide text-ink/85">
-                  Residential House Cleaning · 43+ Five-Star Local Reviews
+                  House Cleaning &amp; Maid Service · 43+ Five-Star Local Reviews
                 </span>
               </div>
               <h1 className="font-display-expanded text-fluid-h1 text-ink">
-                House Cleaning in Rocklin, Roseville &amp; Granite Bay.
+                House Cleaning &amp; Maid Service in Rocklin, Roseville &amp; Granite Bay.
               </h1>
               <p className="text-lg text-ink/80 max-w-2xl leading-relaxed">
-                See your exact per-visit price range below in under 60 seconds—no email required to view pricing. Background-checked, bonded teams bringing hospital-grade microfiber hygiene to your home.
+                Come home to a sparkling kitchen, fresh bathrooms, and spotless floors—without lifting a finger. See your exact per-visit price below in under 60 seconds (no email required), backed by our friendly, background-checked local teams and kid- &amp; pet-safe products.
               </p>
             </div>
 
@@ -83,8 +84,8 @@ export default function ResidentialHubPage() {
                 className="w-full h-56 object-cover rounded-lg"
               />
               <div className="pt-2.5 px-1 flex items-center justify-between text-xs text-ink/70">
-                <span className="font-medium">Granite Bay &amp; Rocklin Home Standard</span>
-                <span className="text-pass font-semibold">Stone &amp; Hardwood Safe</span>
+                <span className="font-medium">Granite Bay, Rocklin &amp; Roseville Homes</span>
+                <span className="text-pass font-semibold">Kid, Pet &amp; Hardwood Safe</span>
               </div>
             </div>
           </div>

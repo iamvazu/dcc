@@ -31,8 +31,8 @@ export async function generateMetadata({
     const city = getCityBySlug(slug);
     if (!city) return {};
     return {
-      title: `House Cleaning in ${city.name}, CA | Debra's Classic Cleaning`,
-      description: `Trusted residential house cleaning and maid service in ${city.name}, CA (${city.zips.join(", ")}). See your instant price online in 60 seconds. Save up to 20%.`,
+      title: `House Cleaning & Maid Service in ${city.name}, CA | Debra's Classic Cleaning`,
+      description: `Trusted local house cleaning, maid service, deep cleaning, and move-out cleaning in ${city.name}, CA (${city.zips.join(", ")}). See your instant price online in 60 seconds. Save up to 20% on recurring visits.`,
       alternates: {
         canonical: `/house-cleaning/${city.slug}-ca/`,
       },
@@ -91,7 +91,7 @@ function ResidentialServiceTemplate({ service }: { service: ResidentialServiceRe
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
             <div className="lg:col-span-7 space-y-4">
               <div className="text-xs font-bold uppercase tracking-wider text-sky">
-                Residential Service Specification
+                Home &amp; Maid Service · Rocklin, Roseville &amp; Placer County
               </div>
               <h1 className="font-display-expanded text-fluid-h1 text-ink">
                 {service.name}
@@ -178,10 +178,10 @@ function ResidentialCityTemplate({ city }: { city: CityRecord }) {
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
             <div className="lg:col-span-7 space-y-4">
               <div className="text-xs font-bold uppercase tracking-wider text-sky">
-                Home Cleaning · {city.county} · ZIPs: {city.zips.join(", ")}
+                Home Cleaning &amp; Maid Service · {city.county} · ZIPs: {city.zips.join(", ")}
               </div>
               <h1 className="font-display-expanded text-fluid-h1 text-ink">
-                House Cleaning in {city.name}, CA.
+                House Cleaning &amp; Maid Service in {city.name}, CA.
               </h1>
               <p className="text-base sm:text-lg text-ink/85 leading-relaxed">
                 {city.intro}
