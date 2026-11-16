@@ -235,11 +235,6 @@ export function Footer() {
                 Privacy Policy
               </Link>
             </li>
-            <li>
-              <Link href="/dev/styleguide/" className="text-paper/50 hover:text-white">
-                Design System (/dev/styleguide)
-              </Link>
-            </li>
           </ul>
         </div>
       </div>
