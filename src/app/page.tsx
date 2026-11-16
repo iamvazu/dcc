@@ -494,10 +494,10 @@ export default function HomePage() {
             <div className="border border-rule bg-white p-3 rounded-xl shadow-sm">
               <Image
                 src="/images/debra-founder-portrait.png"
-                alt="Debra, Founder of Debra's Classic Cleaning LLC, holding an inspection clipboard on site in Roseville, CA"
+                alt="Debra, Founder and Owner of Debra's Classic Cleaning LLC in Rocklin, CA"
                 width={520}
-                height={600}
-                className="w-full h-auto object-cover rounded-lg"
+                height={520}
+                className="w-full aspect-square object-cover object-top rounded-lg"
               />
               <div className="pt-2.5 px-1 flex items-center justify-between text-xs text-ink/70">
                 <span className="font-medium">Debra · Founder &amp; Owner</span>

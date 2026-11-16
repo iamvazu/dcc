@@ -112,10 +112,10 @@ export default function AboutPage() {
               <div className="border border-rule bg-white p-3 rounded-2xl shadow-sm">
                 <Image
                   src="/images/debra-founder-portrait.png"
-                  alt="Debra, Founder of Debra's Classic Cleaning LLC"
+                  alt="Debra, Founder and Owner of Debra's Classic Cleaning LLC"
                   width={520}
-                  height={580}
-                  className="w-full h-80 object-cover rounded-xl"
+                  height={520}
+                  className="w-full aspect-square object-cover object-top rounded-xl"
                 />
                 <div className="pt-2.5 px-1 text-xs flex justify-between text-ink/75">
                   <span className="font-semibold">Debra · Founder &amp; Owner</span>
