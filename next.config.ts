@@ -5,6 +5,7 @@ const nextConfig: NextConfig = {
   trailingSlash: true,
   outputFileTracingRoot: path.join(__dirname),
   images: {
+    unoptimized: true,
     formats: ["image/avif", "image/webp"],
   },
   async redirects() {
