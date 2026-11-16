@@ -60,11 +60,11 @@ const ONBOARDING_STEPS: OnboardingStep[] = [
     timeStamp: "Every Visit",
     hourMarker: "STEP 4 · SPOTLESS CLEAN",
     title: "Consistent Clean + Photo Proof",
-    body: "Enjoy a sparkling home or workplace after every visit, complete with supervisor quality checks and our 24-Hour Free Re-Clean Guarantee.",
+    body: "Enjoy a sparkling home or workplace after every visit, complete with supervisor quality checks and timestamped photo confirmation.",
     image: "/images/industry-medical-dental.png",
     imageAlt: "Spotless office and home after professional cleaning visit",
-    deliverableLabel: "100% Satisfaction Backed",
-    metrics: ["42-Point Quality Check", "Photo Confirmation", "24-Hour Re-Clean Promise"],
+    deliverableLabel: "42-Point Quality Standard",
+    metrics: ["42-Point Quality Check", "Photo Confirmation", "Supervisor Inspected"],
   },
 ];
 

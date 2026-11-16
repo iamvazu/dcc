@@ -87,7 +87,7 @@ const PSYCH_SCENES: PsychScene[] = [
     borderAccentClass: "border-rose-400/60",
     glowColor: "rgba(244, 63, 94, 0.24)",
     subcopy:
-      "National cleaning brokers sell your contract to rotating strangers. We dispatch our own background-checked employees from Rocklin and back every visit with our 24-Hour Free Re-Clean Guarantee.",
+      "National cleaning brokers sell your contract to rotating strangers. We dispatch our own background-checked employees from Rocklin and verify every room against our 42-point quality checklist.",
     metricValue: "Est. 2016",
     metricLabel: "Women-Owned in Rocklin, CA",
     bgImage: "/images/debras-fleet-cx5-real.jpg",
@@ -277,7 +277,7 @@ export function DynamicHero() {
                 </span>
                 <span className="inline-flex items-center gap-1.5">
                   <span className="text-sky-300 font-bold">✓</span>
-                  <span>24-Hour Free Re-Clean Promise</span>
+                  <span>Licensed, Bonded &amp; Insured Local Crew</span>
                 </span>
               </div>
             </div>

@@ -209,7 +209,7 @@ function ResidentialCityTemplate({ city }: { city: CityRecord }) {
                   <strong>Recurring Discounts:</strong> Save 20% Weekly · 15% Biweekly · 10% Monthly
                 </li>
                 <li>
-                  <strong>Guarantee:</strong> 24-Hour Re-Clean Promise + Zero Contracts
+                  <strong>Terms:</strong> No Long-Term Contracts + All Supplies Included
                 </li>
               </ul>
               <div className="pt-3 border-t border-rule/70">

@@ -6,9 +6,9 @@ import { GuaranteeSeal } from "@/components/GuaranteeSeal";
 import { site } from "@/lib/data";
 
 export const metadata: Metadata = {
-  title: "30-Day Walkaway & 24-Hr Re-Clean Guarantee | Debra's Classic Cleaning",
+  title: "30-Day Walkaway & Quality Standards | Debra's Classic Cleaning",
   description:
-    "No 12-month janitorial contract traps. Read our 30-Day Walkaway Guarantee, 24-Hour Re-Clean Promise, and Three-Strike Visit Credit.",
+    "No 12-month janitorial contract traps. Read our 30-Day Walkaway Guarantee, 42-Point Quality Checklist, and W-2 Local Crew Standards.",
   alternates: {
     canonical: "/guarantee/",
   },

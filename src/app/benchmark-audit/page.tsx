@@ -295,7 +295,7 @@ export default function BenchmarkAuditLandingPage() {
               <GuaranteeSeal size="md" />
               <div>
                 <h2 className="font-display-wide text-xl text-ink">
-                  Backed by our 30-Day Walkaway &amp; 24-Hour Re-Clean Guarantee
+                  Backed by our 30-Day Walkaway Guarantee &amp; 42-Point Quality Checklist
                 </h2>
                 <p className="text-xs text-ink/80 mt-1">
                   Questions before booking? Call Debra directly at{" "}

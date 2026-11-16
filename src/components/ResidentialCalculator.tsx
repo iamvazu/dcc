@@ -140,7 +140,7 @@ export function ResidentialCalculator({
       value: `+$${a.price}`,
     })),
     {
-      label: "24-Hour Re-Clean Guarantee",
+      label: "All Supplies & HEPA Equipment",
       value: "Included",
       highlight: true,
     },

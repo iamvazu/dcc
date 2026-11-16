@@ -268,7 +268,7 @@ export default function StyleGuidePage() {
             <GuaranteeSeal />
             <div className="max-w-xl space-y-2">
               <div className="font-display-wide text-2xl text-ink">
-                30-Day Walkaway · 24-Hour Re-Clean · Three-Strike Credit
+                30-Day Walkaway · 42-Point Checklist · Photo-Verified Shifts
               </div>
               <p className="text-sm text-ink/80">
                 Circular inspection stamp paired with contractual performance guarantees. No 12-month lock-in traps.

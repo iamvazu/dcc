@@ -37,8 +37,8 @@ const RESIDENTIAL_FAQS = [
     a: "Yes. We assign a consistent, background-checked team lead to your recurring weekly or biweekly route so you never have to re-explain your home's layout or preferences.",
   },
   {
-    q: "What if something is missed during my house cleaning?",
-    a: "Every visit is backed by our 24-Hour Re-Clean Guarantee. Let us know within 24 hours and we will return promptly to make it right at no charge.",
+    q: "How do you ensure consistent quality on every house cleaning visit?",
+    a: "Every visit follows our detailed room-by-room checklist with a dedicated, background-checked team lead assigned to your home and direct access to Debra by text or phone at 916-668-8080.",
   },
 ];
 

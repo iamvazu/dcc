@@ -303,10 +303,10 @@ export default function CommercialHubPage() {
                   CONTRACTUAL ACCOUNTABILITY
                 </div>
                 <h3 className="font-display-wide text-2xl text-ink">
-                  30-Day Walkaway · 24-Hour Re-Clean · Three-Strike Visit Credit
+                  30-Day Walkaway · 42-Point Checklist · Photo-Verified Shifts
                 </h3>
                 <p className="text-sm text-ink/80 max-w-xl">
-                  We never trap commercial clients in 12-to-36-month auto-renewing contracts. If we ever miss an item on your 42-point scorecard, we re-clean within 24 hours.
+                  We never trap commercial clients in 12-to-36-month auto-renewing contracts. Every shift is verified against our 42-point room-by-room checklist by our local Rocklin supervisors.
                 </p>
               </div>
             </div>
