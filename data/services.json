@@ -316,6 +316,63 @@
         "Bathroom count: Kitchens and full bathrooms are the most labor-intensive rooms in any home ($30 per full bath, $15 per half bath in our calculator).",
         "Optional detail add-ons: Inside oven ($35), inside refrigerator ($35), hand-wiped baseboards ($40), and interior windows ($45) can be toggled a la carte."
       ]
+    },
+    {
+      "slug": "house-cleaning-cost-roseville",
+      "topic": "House Cleaning",
+      "city": "Roseville",
+      "title": "House Cleaning Cost in Roseville, CA (2026 Price Guide)",
+      "primaryKeyword": "house cleaning cost Roseville CA",
+      "directAnswer": "In Roseville, CA (95661, 95678, 95747), professional house cleaning in 2026 costs $145 to $235 per visit for recurring biweekly maid service on a 3-to-4-bedroom home across Westpark, Fiddyment Farm, Highland Reserve, and East Roseville Parkway. One-time Deep House Cleaning ranges from $275 to $450, and empty-home Move-Out Cleaning ranges from $320 to $540 with all HEPA vacuums and supplies included.",
+      "tableRows": [
+        { "facility": "2 Bed / 2 Bath Roseville Home or Sun City Villa (<1,500 sq ft)", "frequency": "Biweekly (15% off)", "monthlyRange": "$140 – $175 / visit", "perVisit": "$250 – $310 Deep Clean" },
+        { "facility": "3 Bed / 2.5 Bath Westpark / Highland Reserve Home (1,800 – 2,500 sq ft)", "frequency": "Biweekly (15% off)", "monthlyRange": "$170 – $220 / visit", "perVisit": "$310 – $395 Deep Clean" },
+        { "facility": "4 Bed / 3 Bath Fiddyment Farm / Morgan Creek Home (2,500 – 3,500 sq ft)", "frequency": "Biweekly (15% off)", "monthlyRange": "$215 – $275 / visit", "perVisit": "$385 – $485 Deep Clean" },
+        { "facility": "5+ Bed East Roseville / Granite Bay Border Estate (3,500+ sq ft)", "frequency": "Weekly (20% off)", "monthlyRange": "$245 – $340 / visit", "perVisit": "$475 – $640 Deep Clean" }
+      ],
+      "factors": [
+        "Recurring schedule savings: Roseville homeowners save 20% on Weekly service, 15% on Biweekly (Every 2 Weeks), and 10% on Monthly visits with zero long-term contracts.",
+        "Hard-water & stone care: Roseville water leaves mineral spots on frameless glass shower doors; our teams use pH-neutral descalers and stone-safe cleaners for quartz and granite counters.",
+        "Pet-hair HEPA filtration: Homes with dogs or cats add $15 for dual-pass commercial HEPA vacuuming that traps 99.97% of pet dander."
+      ]
+    },
+    {
+      "slug": "move-out-cleaning-cost-rocklin-sacramento",
+      "topic": "Move-Out Cleaning",
+      "city": "Rocklin & Sacramento",
+      "title": "Move-Out Cleaning Cost in Rocklin, Roseville & Sacramento (2026)",
+      "primaryKeyword": "move out cleaning cost Rocklin Sacramento",
+      "directAnswer": "In Rocklin, Roseville, and Sacramento, professional move-in/move-out house cleaning in 2026 costs $320 to $540 for a typical empty 2-to-4-bedroom home or apartment (calculated at 1.85x standard maintenance rates). Every move-out clean includes vacuuming and sanitizing inside empty kitchen and bathroom cabinets, drawers, closets, baseboards, and shower glass, plus an itemized PDF receipt for your landlord or property manager.",
+      "tableRows": [
+        { "facility": "1–2 Bed / 1–2 Bath Apartment or Condo (<1,250 sq ft)", "frequency": "Empty turnover", "monthlyRange": "$295 – $365 flat rate", "perVisit": "+$35 Oven / +$35 Fridge" },
+        { "facility": "3 Bed / 2 Bath Single-Family Home (1,500 – 2,200 sq ft)", "frequency": "Empty turnover", "monthlyRange": "$365 – $455 flat rate", "perVisit": "+$35 Oven / +$35 Fridge" },
+        { "facility": "4 Bed / 3 Bath Two-Story Home (2,300 – 3,200 sq ft)", "frequency": "Empty turnover", "monthlyRange": "$455 – $560 flat rate", "perVisit": "+$45 Interior Windows" },
+        { "facility": "5+ Bed Executive Home (3,300+ sq ft)", "frequency": "Empty turnover", "monthlyRange": "$560 – $720 flat rate", "perVisit": "Itemized PDF Receipt" }
+      ],
+      "factors": [
+        "Inside appliances & cabinets: Unlike standard cleaning, move-out service includes wiping inside all empty cabinets, pantry shelves, and drawers; Inside Oven ($35) and Inside Refrigerator ($35) can be toggled in one click.",
+        "Baseboards, blinds & window tracks: Hand-detailed baseboards, door frames, and sliding-door tracks remove years of settled dust before your final landlord walkthrough or MLS listing photos.",
+        "Landlord-ready documentation: We issue an official itemized PDF receipt from Debra's Classic Cleaning LLC immediately upon completion to satisfy California lease turnover clauses."
+      ]
+    },
+    {
+      "slug": "w2-cleaners-vs-janitorial-franchises-sacramento",
+      "topic": "W-2 Cleaners vs. Janitorial Franchises",
+      "city": "Sacramento & Placer County",
+      "title": "W-2 Cleaners vs. Janitorial Franchises in Sacramento (2026 Comparison)",
+      "primaryKeyword": "local commercial cleaners vs janitorial franchises Sacramento",
+      "directAnswer": "When comparing a local W-2 commercial cleaning company like Debra's Classic Cleaning LLC against national janitorial franchise brokers in Sacramento and Roseville, the three biggest differences are employee accountability, contract lock-in, and fee markups. Franchise brokers typically charge 25%–35% royalty/note fees to sub-crews and lock clients into 12-to-36-month contracts, whereas Debra's dispatches background-checked W-2 employees from Rocklin with a 30-Day Walkaway Guarantee.",
+      "tableRows": [
+        { "facility": "Crew Employment & Background Checks", "frequency": "Debra's: Direct W-2 Rocklin Employees", "monthlyRange": "Franchise Brokers: Subcontracted Unit Buyers", "perVisit": "Zero Subcontracting at Debra's" },
+        { "facility": "Contract Lock-In & Cancellation Terms", "frequency": "Debra's: 30-Day Walkaway Guarantee", "monthlyRange": "Franchise Brokers: 12–36 Mo Auto-Renewing", "perVisit": "No Early-Exit Penalties" },
+        { "facility": "Nightly Shift Quality Verification", "frequency": "Debra's: 42-Point Tablet Photo Scorecard", "monthlyRange": "Franchise Brokers: Unverified Night Visits", "perVisit": "8+ Timestamped Photos/Visit" },
+        { "facility": "Effective Monthly Rate (4,500 sq ft Office, 3x/wk)", "frequency": "Debra's: $1,250 – $1,650 / mo ($48/hr)", "monthlyRange": "Franchise Brokers: $1,350 – $1,950 / mo", "perVisit": "100% Goes to Real Labor & QA" }
+      ],
+      "factors": [
+        "Why franchise night crews turn over every 60–90 days: National master franchises sell your cleaning contract to an independent unit franchisee and deduct 25%–35% in financing and royalty fees, forcing the worker to rush through your building in 30 minutes.",
+        "Building key and alarm security: With W-2 employees dispatched from our Rocklin headquarters (2718 Wyatt Ct), the same vetted team lead holds your blind-coded key tag and photographs your armed alarm keypad every night.",
+        "Supplier diversity credit: Debra's Classic Cleaning LLC provides verified SBA WOSB/EDWOSB (CAGE 9Z5E9) and CA DGS Small Business (#2040639) procurement credit that out-of-state franchise brokers cannot offer."
+      ]
     }
   ]
 }

@@ -31,13 +31,13 @@ CONTENT BATCH MANIFEST v1
 Project: debrasclassiccleaning.com
 Planned at: 2026-11-20
 MCP snapshot: pending_oauth_connect
-Phase: plan (awaiting owner approval for 3 new costGuides entries)
+Phase: done (all 5 rows live in production)
 
 | slug | action | prompt cluster | phase | notes |
 | --- | --- | --- | --- | --- |
-| house-cleaning-cost-roseville | new | how much does house cleaning cost in roseville ca | planned | Add to data/services.json costGuides |
-| move-out-cleaning-cost-rocklin-sacramento | new | move out cleaning cost rocklin roseville sacramento | planned | Add to data/services.json costGuides |
-| w2-cleaners-vs-janitorial-franchises-sacramento | new | local commercial cleaners vs janitorial franchise brokers | planned | Add to data/services.json costGuides |
+| house-cleaning-cost-roseville | new | how much does house cleaning cost in roseville ca | done | Live at /pricing/house-cleaning-cost-roseville/ |
+| move-out-cleaning-cost-rocklin-sacramento | new | move out cleaning cost rocklin roseville sacramento | done | Live at /pricing/move-out-cleaning-cost-rocklin-sacramento/ |
+| w2-cleaners-vs-janitorial-franchises-sacramento | new | local commercial cleaners vs janitorial franchise brokers | done | Live at /pricing/w2-cleaners-vs-janitorial-franchises-sacramento/ |
 | dental-office | consolidate | dental office cleaning checklist california | done | Consolidated on /commercial-cleaning/dental-office/ |
 | daycare-preschool | consolidate | california title 22 daycare cleaning checklist | done | Consolidated on /commercial-cleaning/daycare-preschool/ |
 ```

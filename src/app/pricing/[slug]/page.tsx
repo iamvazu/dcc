@@ -41,7 +41,8 @@ export default async function CostGuidePage({
   const guide = costGuides.find((g) => g.slug === slug);
   if (!guide) notFound();
 
-  const isResidential = guide.slug.includes("house-cleaning");
+  const isResidential =
+    guide.slug.includes("house-cleaning") || guide.slug.includes("move-out-cleaning");
 
   return (
     <div className="divide-y-2 divide-ink">
