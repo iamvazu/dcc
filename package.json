@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "node scripts/verify-pseo-quality.mjs && next build",
+    "build": "node scripts/verify-pseo-quality.mjs && node scripts/sync-llms-txt.mjs && next build",
     "start": "next start",
     "lint": "next lint",
     "verify:pseo": "node scripts/verify-pseo-quality.mjs"

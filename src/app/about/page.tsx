@@ -37,7 +37,28 @@ export default function AboutPage() {
                 Debra founded Debra&apos;s Classic Cleaning LLC in 2016 in Rocklin, California with a simple observation: most janitorial companies don&apos;t fail because they don&apos;t know how to mop a floor—they fail because nobody inspects the work after 9:00 PM.
               </p>
               <p className="text-base text-ink/80 leading-relaxed">
-                Today, Debra&apos;s Classic Cleaning LLC is a federally certified Women-Owned Small Business (WOSB / EDWOSB, CAGE 9Z5E9) and California DGS Certified Small Business (Certification ID: 2040639) serving offices, medical and dental clinics, licensed daycares, multi-tenant properties, and homeowners across Placer, Sacramento, Yolo, and Yuba counties.
+                Today, Debra&apos;s Classic Cleaning LLC is a federally certified{" "}
+                <Link
+                  href="/government-contracting/"
+                  className="text-brand font-semibold underline"
+                >
+                  Women-Owned Small Business (WOSB / EDWOSB) and CA Small Business (#2040639)
+                </Link>{" "}
+                providing{" "}
+                <Link
+                  href="/commercial-cleaning/"
+                  className="text-brand font-semibold underline"
+                >
+                  commercial office and medical clinic cleaning
+                </Link>{" "}
+                as well as{" "}
+                <Link
+                  href="/house-cleaning/"
+                  className="text-sky font-semibold underline"
+                >
+                  recurring residential house cleaning and maid service
+                </Link>{" "}
+                across Placer, Sacramento, Yolo, and Yuba counties.
               </p>
 
               <div className="flex flex-wrap items-center gap-4 pt-2">

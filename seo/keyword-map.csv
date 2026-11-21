@@ -1,0 +1,30 @@
+query,intent,monthly_volume,difficulty,target_url,status,current_position,last_checked
+house cleaning rocklin ca,transactional_local,590,22,/house-cleaning/rocklin-ca/,live,baseline,2026-11-20
+maid service rocklin ca,transactional_local,320,20,/house-cleaning/,live,baseline,2026-11-20
+house cleaning roseville ca,transactional_local,880,28,/house-cleaning/roseville-ca/,live,baseline,2026-11-20
+house cleaning granite bay ca,transactional_local,260,18,/house-cleaning/granite-bay-ca/,live,baseline,2026-11-20
+house cleaning folsom ca,transactional_local,480,25,/house-cleaning/folsom-ca/,live,baseline,2026-11-20
+house cleaning lincoln ca,transactional_local,310,19,/house-cleaning/lincoln-ca/,live,baseline,2026-11-20
+deep house cleaning roseville rocklin,transactional_local,210,17,/house-cleaning/deep-cleaning/,live,baseline,2026-11-20
+move out cleaning rocklin roseville,transactional_local,290,19,/house-cleaning/move-out-cleaning/,live,baseline,2026-11-20
+recurring house cleaning rocklin,transactional_local,170,15,/house-cleaning/recurring-cleaning/,live,baseline,2026-11-20
+airbnb vacation rental cleaning folsom auburn,transactional_local,140,14,/house-cleaning/vacation-rental-cleaning/,live,baseline,2026-11-20
+commercial cleaning rocklin ca,transactional_b2b,390,24,/commercial-cleaning/rocklin-ca/,live,baseline,2026-11-20
+commercial cleaning roseville ca,transactional_b2b,540,27,/commercial-cleaning/roseville-ca/,live,baseline,2026-11-20
+commercial cleaning sacramento ca,transactional_b2b,1300,36,/commercial-cleaning/sacramento-ca/,live,baseline,2026-11-20
+janitorial services near me rocklin roseville,transactional_b2b,720,26,/commercial-cleaning/,live,baseline,2026-11-20
+office cleaning services roseville ca,transactional_b2b,410,25,/commercial-cleaning/office/roseville-ca/,live,baseline,2026-11-20
+office cleaning services rocklin ca,transactional_b2b,280,21,/commercial-cleaning/office/rocklin-ca/,live,baseline,2026-11-20
+medical office cleaning sacramento roseville,transactional_b2b,260,23,/commercial-cleaning/medical-office/,live,baseline,2026-11-20
+dental office cleaning roseville rocklin,transactional_b2b,190,18,/commercial-cleaning/dental-office/,live,baseline,2026-11-20
+daycare preschool cleaning sacramento,transactional_b2b,180,17,/commercial-cleaning/daycare-preschool/,live,baseline,2026-11-20
+post construction cleaning sacramento roseville,transactional_b2b,340,24,/commercial-cleaning/post-construction/,live,baseline,2026-11-20
+house cleaning cost rocklin ca,commercial_pricing,240,14,/pricing/house-cleaning-cost-rocklin/,live,baseline,2026-11-20
+commercial cleaning cost sacramento,commercial_pricing,310,18,/pricing/commercial-cleaning-cost-sacramento/,live,baseline,2026-11-20
+office cleaning cost roseville,commercial_pricing,190,15,/pricing/office-cleaning-cost-roseville/,live,baseline,2026-11-20
+house cleaning cost calculator,tool_intent,450,20,/pricing/house-cleaning-calculator/,live,baseline,2026-11-20
+commercial cleaning cost calculator,tool_intent,520,22,/pricing/commercial-cleaning-calculator/,live,baseline,2026-11-20
+wosb janitorial contractor sacramento ca,procurement_b2g,110,12,/government-contracting/,live,baseline,2026-11-20
+house cleaning cost roseville ca,commercial_pricing,280,15,/pricing/house-cleaning-cost-roseville/,gap,not_published,2026-11-20
+move out cleaning cost rocklin sacramento,commercial_pricing,220,14,/pricing/move-out-cleaning-cost-rocklin-sacramento/,gap,not_published,2026-11-20
+w2 commercial cleaners vs janitorial franchises sacramento,comparison,150,13,/pricing/w2-cleaners-vs-janitorial-franchises-sacramento/,gap,not_published,2026-11-20

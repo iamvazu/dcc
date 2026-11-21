@@ -14,6 +14,8 @@ import {
   ResidentialServiceKey,
 } from "@/lib/data";
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   const serviceParams = residentialServices.map((s) => ({ slug: s.slug }));
   const cityParams = cities.map((c) => ({ slug: `${c.slug}-ca` }));
@@ -31,7 +33,7 @@ export async function generateMetadata({
     const city = getCityBySlug(slug);
     if (!city) return {};
     return {
-      title: `House Cleaning & Maid Service in ${city.name}, CA | Debra's Classic Cleaning`,
+      title: `House Cleaning & Maid Service in ${city.name}, CA`,
       description: `Trusted local house cleaning, maid service, deep cleaning, and move-out cleaning in ${city.name}, CA (${city.zips.join(", ")}). See your instant price online in 60 seconds. Save up to 20% on recurring visits.`,
       alternates: {
         canonical: `/house-cleaning/${city.slug}-ca/`,
@@ -42,7 +44,7 @@ export async function generateMetadata({
   const srv = residentialServices.find((s) => s.slug === slug);
   if (!srv) return {};
   return {
-    title: `${srv.name} Rocklin & Roseville | Debra's Classic Cleaning`,
+    title: `${srv.name} in Rocklin & Roseville | Debra's`,
     description: `${srv.shortDescription} Instant online price calculator in 60 seconds.`,
     alternates: {
       canonical: `/house-cleaning/${srv.slug}/`,

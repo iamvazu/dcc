@@ -30,7 +30,21 @@ export default function ProtocolPage() {
                 See the exact 42 tasks we complete on every visit.
               </h1>
               <p className="text-lg text-ink/80 max-w-2xl leading-relaxed">
-                Instead of vague promises like &ldquo;we clean thoroughly,&rdquo; our teams follow a clear 42-point room-by-room checklist so your restrooms, kitchens, workspaces, and floors are spotless every single time.
+                Instead of vague promises like &ldquo;we clean thoroughly,&rdquo; our teams follow a clear 42-point room-by-room checklist across our{" "}
+                <Link
+                  href="/commercial-cleaning/"
+                  className="text-brand font-semibold underline"
+                >
+                  commercial office and clinic janitorial routes
+                </Link>{" "}
+                and{" "}
+                <Link
+                  href="/house-cleaning/"
+                  className="text-sky font-semibold underline"
+                >
+                  Rocklin &amp; Roseville residential house cleaning visits
+                </Link>{" "}
+                so your restrooms, kitchens, workspaces, and floors are spotless every single time.
               </p>
             </div>
             <div className="lg:col-span-4 flex flex-col gap-2.5">

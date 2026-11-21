@@ -3,6 +3,8 @@
 import React, { useState } from "react";
 import Link from "next/link";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { VerifiedCleanBadge } from "@/components/VerifiedCleanBadge";
+import { ProductCallout } from "@/components/ProductCallout";
 import { costGuides, protocol } from "@/lib/data";
 import { trackEvent } from "@/lib/analytics";
 
@@ -41,8 +43,36 @@ export default function ResourcesPage() {
                 Inspection sheets &amp; local cost benchmarks.
               </h1>
               <p className="text-lg text-ink/85 leading-relaxed">
-                Download our printable 42-Point Commercial Facility Inspection Sheet to audit your current janitorial crew tonight—or explore our 2026 Placer &amp; Sacramento rate guides below.
+                Download our printable 42-Point Commercial Facility Inspection Sheet to audit your current{" "}
+                <Link
+                  href="/commercial-cleaning/"
+                  className="text-brand font-semibold underline"
+                >
+                  commercial office or clinic janitorial service
+                </Link>
+                , compare{" "}
+                <Link
+                  href="/house-cleaning/"
+                  className="text-sky font-semibold underline"
+                >
+                  residential house cleaning checklists
+                </Link>
+                , or download our{" "}
+                <Link
+                  href="/government-contracting/"
+                  className="text-ink font-semibold underline"
+                >
+                  WOSB &amp; CA Small Business (#2040639) capability statement
+                </Link>{" "}
+                below.
               </p>
+              <ProductCallout
+                lane="commercial"
+                title="Need an instant monthly estimate for your building?"
+                description="Use our prefilled commercial cleaning calculator to price 1,000 to 50,000 sq ft offices, clinics, and daycares in 60 seconds."
+                href="/pricing/commercial-cleaning-calculator/?zip=95765&sqft=4500&visits=3"
+                cta="Open Commercial Calculator →"
+              />
             </div>
 
             {/* Gated 42-Point Checklist PDF Card */}
@@ -91,6 +121,9 @@ export default function ResourcesPage() {
               )}
             </div>
           </div>
+
+          {/* Embeddable Client Trust Badge (seo-roast Point 4 backlink loop) */}
+          <VerifiedCleanBadge />
 
           {/* Cost Guides Directory */}
           <div className="pt-8 border-t-2 border-ink space-y-6">

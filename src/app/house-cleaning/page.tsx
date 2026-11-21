@@ -10,10 +10,9 @@ import { FaqPageSchema, ServiceSchema } from "@/components/JsonLd";
 import { cities, residentialServices } from "@/lib/data";
 
 export const metadata: Metadata = {
-  title:
-    "House Cleaning & Maid Service in Rocklin, Roseville & Granite Bay | Debra's Classic Cleaning",
+  title: "House Cleaning & Maid Service Rocklin & Roseville, CA",
   description:
-    "Trusted local house cleaning, maid service, deep cleaning, and move-out cleaning in Rocklin, Roseville, Granite Bay, and Folsom. Kid- & pet-safe products. Get an instant price online in 60 seconds.",
+    "Trusted local house cleaning, maid service, deep cleaning, and move-out cleaning in Rocklin, Roseville, Granite Bay, and Folsom. Kid- & pet-safe products. Instant price in 60 seconds.",
   alternates: {
     canonical: "/house-cleaning/",
   },

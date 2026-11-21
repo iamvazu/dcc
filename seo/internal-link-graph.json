@@ -1,0 +1,246 @@
+{
+  "generatedAt": "2026-11-21T08:05:34.899Z",
+  "orphanMoneyPages": [],
+  "pages": [
+    {
+      "route": "/add-ons/[service]",
+      "file": "src/app/add-ons/[service]/page.tsx",
+      "contextualInbound": 0,
+      "linkedFrom": [],
+      "inNavOrFooter": false,
+      "money": false
+    },
+    {
+      "route": "/careers",
+      "file": "src/app/careers/page.tsx",
+      "contextualInbound": 0,
+      "linkedFrom": [],
+      "inNavOrFooter": true,
+      "money": false
+    },
+    {
+      "route": "/commercial-cleaning/[slug]",
+      "file": "src/app/commercial-cleaning/[slug]/page.tsx",
+      "contextualInbound": 0,
+      "linkedFrom": [],
+      "inNavOrFooter": false,
+      "money": false
+    },
+    {
+      "route": "/commercial-cleaning/[slug]/[citySlug]",
+      "file": "src/app/commercial-cleaning/[slug]/[citySlug]/page.tsx",
+      "contextualInbound": 0,
+      "linkedFrom": [],
+      "inNavOrFooter": false,
+      "money": false
+    },
+    {
+      "route": "/contact",
+      "file": "src/app/contact/page.tsx",
+      "contextualInbound": 0,
+      "linkedFrom": [],
+      "inNavOrFooter": true,
+      "money": false
+    },
+    {
+      "route": "/guarantee",
+      "file": "src/app/guarantee/page.tsx",
+      "contextualInbound": 0,
+      "linkedFrom": [],
+      "inNavOrFooter": true,
+      "money": false
+    },
+    {
+      "route": "/house-cleaning/[slug]",
+      "file": "src/app/house-cleaning/[slug]/page.tsx",
+      "contextualInbound": 0,
+      "linkedFrom": [],
+      "inNavOrFooter": false,
+      "money": false
+    },
+    {
+      "route": "/pricing/[slug]",
+      "file": "src/app/pricing/[slug]/page.tsx",
+      "contextualInbound": 0,
+      "linkedFrom": [],
+      "inNavOrFooter": false,
+      "money": false
+    },
+    {
+      "route": "/privacy",
+      "file": "src/app/privacy/page.tsx",
+      "contextualInbound": 0,
+      "linkedFrom": [],
+      "inNavOrFooter": true,
+      "money": false
+    },
+    {
+      "route": "/about",
+      "file": "src/app/about/page.tsx",
+      "contextualInbound": 1,
+      "linkedFrom": [
+        "/"
+      ],
+      "inNavOrFooter": true,
+      "money": false
+    },
+    {
+      "route": "/resources",
+      "file": "src/app/resources/page.tsx",
+      "contextualInbound": 1,
+      "linkedFrom": [
+        "/protocol"
+      ],
+      "inNavOrFooter": true,
+      "money": false
+    },
+    {
+      "route": "/",
+      "file": "src/app/page.tsx",
+      "contextualInbound": 2,
+      "linkedFrom": [
+        "/benchmark-audit",
+        "/resources"
+      ],
+      "inNavOrFooter": false,
+      "money": false
+    },
+    {
+      "route": "/protocol",
+      "file": "src/app/protocol/page.tsx",
+      "contextualInbound": 2,
+      "linkedFrom": [
+        "/",
+        "/resources"
+      ],
+      "inNavOrFooter": true,
+      "money": false
+    },
+    {
+      "route": "/reviews",
+      "file": "src/app/reviews/page.tsx",
+      "contextualInbound": 2,
+      "linkedFrom": [
+        "/house-cleaning",
+        "/"
+      ],
+      "inNavOrFooter": true,
+      "money": false
+    },
+    {
+      "route": "/pricing/house-cleaning-calculator",
+      "file": "src/app/pricing/house-cleaning-calculator/page.tsx",
+      "contextualInbound": 4,
+      "linkedFrom": [
+        "/contact",
+        "/",
+        "/pricing/commercial-cleaning-calculator",
+        "/pricing"
+      ],
+      "inNavOrFooter": true,
+      "money": true
+    },
+    {
+      "route": "/pricing",
+      "file": "src/app/pricing/page.tsx",
+      "contextualInbound": 4,
+      "linkedFrom": [
+        "/add-ons/[service]",
+        "/",
+        "/protocol",
+        "/reviews"
+      ],
+      "inNavOrFooter": true,
+      "money": true
+    },
+    {
+      "route": "/government-contracting",
+      "file": "src/app/government-contracting/page.tsx",
+      "contextualInbound": 6,
+      "linkedFrom": [
+        "/about",
+        "/guarantee",
+        "/pricing",
+        "/pricing/[slug]",
+        "/resources",
+        "/reviews"
+      ],
+      "inNavOrFooter": true,
+      "money": true
+    },
+    {
+      "route": "/house-cleaning",
+      "file": "src/app/house-cleaning/page.tsx",
+      "contextualInbound": 8,
+      "linkedFrom": [
+        "/about",
+        "/guarantee",
+        "/",
+        "/pricing",
+        "/pricing/[slug]",
+        "/protocol",
+        "/resources",
+        "/reviews"
+      ],
+      "inNavOrFooter": true,
+      "money": true
+    },
+    {
+      "route": "/commercial-cleaning",
+      "file": "src/app/commercial-cleaning/page.tsx",
+      "contextualInbound": 9,
+      "linkedFrom": [
+        "/about",
+        "/add-ons/[service]",
+        "/guarantee",
+        "/",
+        "/pricing",
+        "/pricing/[slug]",
+        "/protocol",
+        "/resources",
+        "/reviews"
+      ],
+      "inNavOrFooter": true,
+      "money": true
+    },
+    {
+      "route": "/benchmark-audit",
+      "file": "src/app/benchmark-audit/page.tsx",
+      "contextualInbound": 10,
+      "linkedFrom": [
+        "/about",
+        "/add-ons/[service]",
+        "/commercial-cleaning",
+        "/commercial-cleaning/[slug]",
+        "/commercial-cleaning/[slug]/[citySlug]",
+        "/guarantee",
+        "/",
+        "/pricing",
+        "/pricing/[slug]",
+        "/reviews"
+      ],
+      "inNavOrFooter": true,
+      "money": true
+    },
+    {
+      "route": "/pricing/commercial-cleaning-calculator",
+      "file": "src/app/pricing/commercial-cleaning-calculator/page.tsx",
+      "contextualInbound": 11,
+      "linkedFrom": [
+        "/about",
+        "/add-ons/[service]",
+        "/benchmark-audit",
+        "/commercial-cleaning",
+        "/commercial-cleaning/[slug]",
+        "/contact",
+        "/guarantee",
+        "/",
+        "/pricing/house-cleaning-calculator",
+        "/pricing",
+        "/resources"
+      ],
+      "inNavOrFooter": true,
+      "money": true
+    }
+  ]
+}

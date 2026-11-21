@@ -14,6 +14,8 @@ import {
   getTier1Industries,
 } from "@/lib/data";
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   const tier1Industries = getTier1Industries();
   const tier1Cities = getTier1Cities();
@@ -41,7 +43,7 @@ export async function generateMetadata({
   if (!industry || !city) return {};
 
   return {
-    title: `${industry.name} Cleaning Services in ${city.name}, CA | Debra's Classic Cleaning`,
+    title: `${industry.name} Cleaning in ${city.name}, CA | Debra's`,
     description: `Reliable ${industry.name.toLowerCase()} cleaning and janitorial services in ${city.name}, CA (${city.zips.join(", ")}). Background-checked local crews. Get an instant price online in 60 seconds.`,
     alternates: {
       canonical: `/commercial-cleaning/${industry.slug}/${city.slug}-ca/`,

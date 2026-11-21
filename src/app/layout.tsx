@@ -31,15 +31,11 @@ const plexMono = IBM_Plex_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL(site.website),
   title: {
-    default:
-      "House Cleaning & Commercial Cleaning Rocklin, Roseville & Sacramento | Debra's Classic Cleaning",
+    default: "House & Commercial Cleaning Rocklin & Roseville | Debra's",
     template: "%s",
   },
   description:
-    "Trusted house cleaning, maid service, office cleaning, and commercial janitorial services in Rocklin, Roseville, Granite Bay, and Greater Sacramento. Certified Women-Owned. Instant online price in 60 seconds.",
-  alternates: {
-    canonical: "/",
-  },
+    "Trusted house cleaning, maid service, office cleaning, and commercial janitorial services in Rocklin, Roseville, Granite Bay, and Greater Sacramento. Instant price in 60 seconds.",
   icons: {
     icon: [
       { url: "/favicon.ico", sizes: "any" },

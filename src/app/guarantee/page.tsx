@@ -30,7 +30,28 @@ export default function GuaranteePage() {
                 Long contracts only protect bad cleaners.
               </h1>
               <p className="text-lg text-ink/85 max-w-2xl leading-relaxed">
-                National janitorial franchises lock facility managers into 12-to-36-month auto-renewing agreements with 90-day cancellation windows. We do the opposite: we put three concrete performance remedies in writing on page one of your agreement.
+                National janitorial franchises lock facility managers into 12-to-36-month auto-renewing agreements with 90-day cancellation windows. Whether you hire us for{" "}
+                <Link
+                  href="/commercial-cleaning/"
+                  className="text-brand font-semibold underline"
+                >
+                  nightly commercial office and facility cleaning
+                </Link>
+                ,{" "}
+                <Link
+                  href="/house-cleaning/"
+                  className="text-sky font-semibold underline"
+                >
+                  recurring weekly or biweekly house cleaning
+                </Link>
+                , or{" "}
+                <Link
+                  href="/government-contracting/"
+                  className="text-ink font-semibold underline"
+                >
+                  public-sector WOSB / CA Small Business (#2040639) contracts
+                </Link>
+                , we put three concrete performance commitments in writing on page one.
               </p>
             </div>
             <div className="lg:col-span-4 flex justify-center">

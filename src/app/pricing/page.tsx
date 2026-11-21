@@ -4,9 +4,10 @@ import Link from "next/link";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { costGuides, site } from "@/lib/data";
 import { GuaranteeSeal } from "@/components/GuaranteeSeal";
+import { ServiceSchema } from "@/components/JsonLd";
 
 export const metadata: Metadata = {
-  title: "Commercial & House Cleaning Pricing | Debra's Classic Cleaning",
+  title: "House & Commercial Cleaning Prices (2026) | Debra's",
   description:
     "See commercial and residential cleaning prices in under 60 seconds without entering an email. Interactive calculators and 2026 Sacramento & Placer County cost guides.",
   alternates: {
@@ -17,6 +18,13 @@ export const metadata: Metadata = {
 export default function PricingHubPage() {
   return (
     <div className="divide-y-2 divide-ink">
+      <ServiceSchema
+        name="Commercial & Residential House Cleaning Pricing (2026)"
+        serviceType="House Cleaning & Commercial Janitorial Services"
+        description="Transparent 2026 residential house cleaning ($140–$340/visit) and commercial janitorial pricing ($650–$3,500/month or $0.11–$0.28/sq ft) across Rocklin, Roseville & Sacramento."
+        url="/pricing/"
+        priceRangeText="$140–$340/visit (Home) · $650–$3,500/mo (Commercial)"
+      />
       <section className="bg-paper py-10 sm:py-14">
         <div className="max-w-[1280px] mx-auto px-4 sm:px-6 space-y-6">
           <Breadcrumbs items={[{ label: "Pricing & Calculators", href: "/pricing/" }]} />
@@ -121,6 +129,115 @@ export default function PricingHubPage() {
                   Explore Home Services
                 </Link>
               </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* SSR Plain-Text 2026 Rate Tables for AI Search & Buyers (seo-roast Point 5) */}
+      <section className="bg-paper py-14">
+        <div className="max-w-[1280px] mx-auto px-4 sm:px-6 space-y-8">
+          <div>
+            <div className="text-xs font-bold uppercase tracking-wider text-brand">
+              2026 Published Rate Tables · Rocklin, Roseville &amp; Sacramento
+            </div>
+            <h2 className="font-display-wide text-fluid-h2 text-ink mt-1">
+              Standard House Cleaning &amp; Commercial Janitorial Rates at a Glance
+            </h2>
+            <p className="text-sm text-ink/75 max-w-2xl mt-1">
+              Whether you need{" "}
+              <Link href="/house-cleaning/" className="text-sky font-semibold underline">
+                recurring residential house cleaning and maid service
+              </Link>{" "}
+              or{" "}
+              <Link href="/commercial-cleaning/" className="text-brand font-semibold underline">
+                nightly commercial office and clinic cleaning
+              </Link>{" "}
+              (or{" "}
+              <Link href="/government-contracting/" className="text-ink font-semibold underline">
+                WOSB / CA Small Business #2040639 government facility bids
+              </Link>
+              ), here are our published 2026 baseline ranges before custom add-ons:
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+            {/* Residential SSR Table */}
+            <div className="border border-rule bg-white rounded-xl overflow-hidden shadow-2xs">
+              <div className="bg-ink text-paper px-5 py-3.5 text-xs font-bold uppercase tracking-wider flex justify-between">
+                <span>Residential House Cleaning (Per Visit)</span>
+                <span className="text-sky-300">Save 20% Weekly · 15% Biweekly</span>
+              </div>
+              <table className="w-full text-left border-collapse text-xs sm:text-sm">
+                <thead>
+                  <tr className="border-b border-rule bg-paper text-xs font-semibold text-ink/75">
+                    <th className="p-3.5">Home Size</th>
+                    <th className="p-3.5">Biweekly Standard</th>
+                    <th className="p-3.5">One-Time Deep Clean</th>
+                  </tr>
+                </thead>
+                <tbody className="divide-y divide-rule/70">
+                  <tr>
+                    <td className="p-3.5 font-semibold text-ink">2 Bed / 2 Bath (&lt;1,500 sq ft)</td>
+                    <td className="p-3.5 font-bold text-sky">$140 – $175</td>
+                    <td className="p-3.5 text-ink/80">$250 – $310</td>
+                  </tr>
+                  <tr className="bg-paper/50">
+                    <td className="p-3.5 font-semibold text-ink">3 Bed / 2.5 Bath (1,800–2,500 sq ft)</td>
+                    <td className="p-3.5 font-bold text-sky">$170 – $220</td>
+                    <td className="p-3.5 text-ink/80">$310 – $395</td>
+                  </tr>
+                  <tr>
+                    <td className="p-3.5 font-semibold text-ink">4 Bed / 3 Bath (2,500–3,500 sq ft)</td>
+                    <td className="p-3.5 font-bold text-sky">$215 – $275</td>
+                    <td className="p-3.5 text-ink/80">$385 – $485</td>
+                  </tr>
+                  <tr className="bg-paper/50">
+                    <td className="p-3.5 font-semibold text-ink">5+ Bed Estate (3,500+ sq ft)</td>
+                    <td className="p-3.5 font-bold text-sky">$245 – $340</td>
+                    <td className="p-3.5 text-ink/80">$475 – $640</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
+            {/* Commercial SSR Table */}
+            <div className="border border-rule bg-white rounded-xl overflow-hidden shadow-2xs">
+              <div className="bg-ink text-paper px-5 py-3.5 text-xs font-bold uppercase tracking-wider flex justify-between">
+                <span>Commercial Janitorial (Monthly Flat Rate)</span>
+                <span className="text-flag">$0.11 – $0.28 / sq ft · $45–$58/hr</span>
+              </div>
+              <table className="w-full text-left border-collapse text-xs sm:text-sm">
+                <thead>
+                  <tr className="border-b border-rule bg-paper text-xs font-semibold text-ink/75">
+                    <th className="p-3.5">Facility Type &amp; Size</th>
+                    <th className="p-3.5">Schedule</th>
+                    <th className="p-3.5">Monthly Range</th>
+                  </tr>
+                </thead>
+                <tbody className="divide-y divide-rule/70">
+                  <tr>
+                    <td className="p-3.5 font-semibold text-ink">Small Office (2,000–3,500 sq ft)</td>
+                    <td className="p-3.5 text-ink/80">1x–2x / week</td>
+                    <td className="p-3.5 font-bold text-brand">$650 – $1,150 / mo</td>
+                  </tr>
+                  <tr className="bg-paper/50">
+                    <td className="p-3.5 font-semibold text-ink">Corporate Office (5,000–8,000 sq ft)</td>
+                    <td className="p-3.5 text-ink/80">3x / week</td>
+                    <td className="p-3.5 font-bold text-brand">$1,550 – $2,350 / mo</td>
+                  </tr>
+                  <tr>
+                    <td className="p-3.5 font-semibold text-ink">Medical / Dental (3,000–6,000 sq ft)</td>
+                    <td className="p-3.5 text-ink/80">3x–5x / week</td>
+                    <td className="p-3.5 font-bold text-brand">$1,450 – $3,100 / mo</td>
+                  </tr>
+                  <tr className="bg-paper/50">
+                    <td className="p-3.5 font-semibold text-ink">Daycare / Preschool (4,000–7,500 sq ft)</td>
+                    <td className="p-3.5 text-ink/80">5x / week</td>
+                    <td className="p-3.5 font-bold text-brand">$2,100 – $3,600 / mo</td>
+                  </tr>
+                </tbody>
+              </table>
             </div>
           </div>
         </div>

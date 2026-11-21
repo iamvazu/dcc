@@ -19,6 +19,8 @@ import {
   site,
 } from "@/lib/data";
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   const industryParams = industries.map((ind) => ({ slug: ind.slug }));
   const cityParams = cities.map((c) => ({ slug: `${c.slug}-ca` }));
@@ -52,7 +54,7 @@ export async function generateMetadata({
     if (!city) return {};
     const indexable = passesCityQualityGate(city);
     return {
-      title: `Commercial & Office Cleaning in ${city.name}, CA | Debra's Classic Cleaning`,
+      title: `Commercial & Office Cleaning in ${city.name}, CA | Debra's`,
       description: `Reliable commercial cleaning, office cleaning, and janitorial services in ${city.name}, CA (${city.zips.join(", ")}). Serving offices, medical clinics & daycares. Get an instant price online.`,
       alternates: {
         canonical: `/commercial-cleaning/${city.slug}-ca/`,
@@ -64,7 +66,7 @@ export async function generateMetadata({
   const industry = getIndustryBySlug(slug);
   if (!industry) return {};
   return {
-    title: `${industry.name} Cleaning Sacramento & Roseville | Debra's`,
+    title: `${industry.name} Cleaning Rocklin, Roseville & Sacramento`,
     description: `${industry.shortLine.slice(0, 120)} Inspected to a 42-point protocol. Get an instant price online.`,
     alternates: {
       canonical: `/commercial-cleaning/${industry.slug}/`,

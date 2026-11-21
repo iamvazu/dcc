@@ -3,7 +3,10 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { ProductCallout } from "@/components/ProductCallout";
 import { costGuides, site } from "@/lib/data";
+
+export const dynamicParams = false;
 
 export function generateStaticParams() {
   return costGuides.map((g) => ({
@@ -70,7 +73,48 @@ export default async function CostGuidePage({
                 <p className="text-base text-ink leading-relaxed font-medium">
                   {guide.directAnswer}
                 </p>
+                <p className="text-xs text-ink/75 pt-1">
+                  Explore our full{" "}
+                  {isResidential ? (
+                    <Link href="/house-cleaning/" className="text-sky font-bold underline">
+                      Rocklin &amp; Roseville residential house cleaning programs
+                    </Link>
+                  ) : (
+                    <Link href="/commercial-cleaning/" className="text-brand font-bold underline">
+                      Placer &amp; Sacramento commercial cleaning and janitorial services
+                    </Link>
+                  )}{" "}
+                  or review our{" "}
+                  <Link href="/government-contracting/" className="text-ink font-semibold underline">
+                    certified WOSB &amp; CA Small Business (#2040639) contracting credentials
+                  </Link>
+                  .
+                </p>
               </div>
+
+              <ProductCallout
+                lane={isResidential ? "residential" : "commercial"}
+                title={
+                  isResidential
+                    ? `Calculate your exact ${guide.city} house cleaning price in 60 seconds`
+                    : `Price your ${guide.city} ${guide.topic.toLowerCase()} space online`
+                }
+                description={
+                  isResidential
+                    ? "Select your bedrooms, bathrooms, and weekly or biweekly discount to see your instant receipt range with no email required."
+                    : "Enter your square footage, restroom count, and weekly visit schedule to see your live monthly price range immediately."
+                }
+                href={
+                  isResidential
+                    ? "/pricing/house-cleaning-calculator/?zip=95765&service=standard&beds=3&baths=2&freq=biweekly"
+                    : "/pricing/commercial-cleaning-calculator/?zip=95661&sqft=5000&visits=3"
+                }
+                cta={
+                  isResidential
+                    ? "Run Prefilled Home Calculator →"
+                    : "Run Prefilled Commercial Calculator →"
+                }
+              />
 
               {/* Itemized Rate Table */}
               <div className="space-y-3">

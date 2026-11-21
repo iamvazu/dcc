@@ -10,10 +10,9 @@ import { FaqPageSchema, ServiceSchema } from "@/components/JsonLd";
 import { addOns, cities, industries, site } from "@/lib/data";
 
 export const metadata: Metadata = {
-  title:
-    "Commercial Cleaning & Janitorial Services in Rocklin, Roseville & Sacramento | Debra's Classic Cleaning",
+  title: "Commercial Cleaning Rocklin, Roseville & Sacramento",
   description:
-    "Dependable commercial cleaning, office cleaning, and janitorial services for offices, medical & dental clinics, daycares, and buildings across Placer & Sacramento counties. Instant online pricing.",
+    "Dependable commercial cleaning, office cleaning, and janitorial services for offices, medical & dental clinics, daycares, and buildings across Placer & Sacramento counties.",
   alternates: {
     canonical: "/commercial-cleaning/",
   },

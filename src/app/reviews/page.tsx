@@ -35,7 +35,28 @@ export default function ReviewsPage() {
                 Commercial &amp; Residential Reviews
               </h1>
               <p className="text-base text-ink/75 max-w-2xl mt-2">
-                Verified feedback from facility managers, dental &amp; medical clinics, preschool directors, and homeowners across Placer and Sacramento counties.
+                Verified feedback from{" "}
+                <Link
+                  href="/commercial-cleaning/"
+                  className="text-brand font-semibold underline"
+                >
+                  commercial offices, dental &amp; medical clinics, and preschools
+                </Link>{" "}
+                as well as{" "}
+                <Link
+                  href="/house-cleaning/"
+                  className="text-sky font-semibold underline"
+                >
+                  Rocklin, Roseville &amp; Granite Bay house cleaning clients
+                </Link>{" "}
+                and{" "}
+                <Link
+                  href="/government-contracting/"
+                  className="text-ink font-semibold underline"
+                >
+                  public-sector facility managers
+                </Link>
+                .
               </p>
             </div>
 

@@ -19,10 +19,9 @@ import { FaqPageSchema } from "@/components/JsonLd";
 import { cities, industries, site } from "@/lib/data";
 
 export const metadata: Metadata = {
-  title:
-    "House Cleaning & Commercial Cleaning in Rocklin, Roseville & Sacramento | Debra's Classic Cleaning",
+  title: "House & Commercial Cleaning Rocklin & Roseville | Debra's",
   description:
-    "Trusted local house cleaning, maid service, office cleaning, and commercial janitorial services across Rocklin, Roseville, Granite Bay & Greater Sacramento. Certified Women-Owned. Get an instant price online in 60 seconds.",
+    "Trusted local house cleaning, maid service, office cleaning, and commercial janitorial services across Rocklin, Roseville, Granite Bay & Greater Sacramento. Instant price online in 60 seconds.",
   alternates: {
     canonical: "/",
   },

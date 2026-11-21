@@ -6,6 +6,8 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { ServiceSchema } from "@/components/JsonLd";
 import { addOns, site } from "@/lib/data";
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return addOns.map((a) => ({ service: a.slug }));
 }
@@ -65,7 +67,15 @@ export default async function AddOnServicePage({
                 {addon.name}
               </h1>
               <p className="text-lg text-ink/85 leading-relaxed">
-                {addon.shortDescription}
+                {addon.shortDescription} Bundle this specialty service with our{" "}
+                <Link href="/commercial-cleaning/" className="text-brand font-semibold underline">
+                  recurring commercial cleaning and janitorial programs
+                </Link>{" "}
+                or compare standalone rates on our{" "}
+                <Link href="/pricing/" className="text-ink font-semibold underline">
+                  2026 commercial pricing hub
+                </Link>
+                .
               </p>
 
               <div className="p-6 border-2 border-ink bg-paper-2 rounded-[4px] space-y-3">
